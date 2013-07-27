@@ -1,0 +1,17 @@
+
+	(Comment
+		(Time 03/13/09,15:12:57)
+		(User ray.zhou)
+		(MsgId ECO_021)
+		(Text "Package TP_GND added to cell")
+		(Param1 TP_GND)
+	)
+	(Comment
+		(Time 03/13/09,15:13:16)
+		(User ray.zhou)
+		(MsgId ECO_022)
+		(Text "Package TESTPOINT deleted from cell")
+		(Param1 TESTPOINT)
+	)
+
+

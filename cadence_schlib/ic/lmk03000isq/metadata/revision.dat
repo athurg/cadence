@@ -1,0 +1,160 @@
+(Cell	lmk03000isq
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.5)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	02/04/09,17:39:57)
+
+			(User	ray.zhou)
+
+			(Path	project_lib_lib.lmk03000isq)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000db3402aa)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.4)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	02/04/09,17:39:57)
+
+							(User	ray.zhou)
+
+							(Path	project_lib_lib.lmk03000isq)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001d4d03d2)
+
+		)
+
+		(View	Chips
+
+			(Checksum	000000000e9da1b1)
+
+			(Primitives	1
+
+				(Primitive	LMK03000ISQ
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	02/04/09,17:39:57)
+
+							(User	ray.zhou)
+
+							(Path	project_lib_lib.lmk03000isq)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	LMK03000ISQ
+
+							(PackType	LMK03000ISQ)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001e1703dc)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.51-p002)
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001bd803a9)
+
+)
+

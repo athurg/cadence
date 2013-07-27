@@ -1,0 +1,160 @@
+(Cell	GLC7W2FBPSB51G2M
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.2)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	10/25/11,14:59:03)
+
+			(User	wish.wang)
+
+			(Path	lib_lib.GLC7W2FBPSB51G2M)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000006672c1ed)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	10/25/11,14:59:03)
+
+							(User	wish.wang)
+
+							(Path	lib_lib.GLC7W2FBPSB51G2M)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001b8b03b3)
+
+		)
+
+		(View	Chips
+
+			(Checksum	000000005ce27c24)
+
+			(Primitives	1
+
+				(Primitive	GLC7W2FBPSB51G2M
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	10/25/11,14:59:03)
+
+							(User	wish.wang)
+
+							(Path	lib_lib.GLC7W2FBPSB51G2M)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	GLC7W2FBPSB51G2M
+
+							(PackType	GLC7W2FBPSB51G2M)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001c5503c2)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.51-p002)
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001ba50377)
+
+)
+

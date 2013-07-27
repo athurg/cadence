@@ -1,0 +1,160 @@
+(Cell	PNP_pmbs3906
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.3)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	04/21/09,16:32:14)
+
+			(User	wish.wang)
+
+			(Path	discrete.PNP_pmbs3906)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000009b188356)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.3)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	04/21/09,16:32:14)
+
+							(User	wish.wang)
+
+							(Path	discrete.PNP_pmbs3906)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001b9d035b)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000952f9a49)
+
+			(Primitives	1
+
+				(Primitive	PNP_PMBS3906
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	04/21/09,16:32:14)
+
+							(User	wish.wang)
+
+							(Path	discrete.PNP_pmbs3906)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	PNP_PMBS3906
+
+							(PackType	PNP_PMBS3906)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001e77040b)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.51-p002)
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001b96037b)
+
+)
+

@@ -1,0 +1,12 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'IDTF1240NBGI8'
+
+{========================================================================================}
+:'VALUE'                             = 'COMP_NAME'        |'PART_NUMBER'    |'VENDOR'    |'JEDEC_TYPE'    |'ALT_SYMBOLS'    |'LAST_MODIFY'    ;
+{========================================================================================}
+ 'IDTF1240NBGI8' (~IDTF1240NBGI8)  = 'IDTF1240NBGI8'  |'xxx'  |'IDT'  |'QFN-24'    |'(QFN-24)'   |'2012-04-07'
+
+END_PART
+
+END.

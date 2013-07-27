@@ -1,0 +1,12 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'MAX6627MTA'
+
+{========================================================================================}
+:'VALUE'                   = 'COMP_NAME'    |'PART_NUMBER'    |'VENDOR'    |'JEDEC_TYPE'    |'ALT_SYMBOLS'    |'LAST_MODIFY'    ;
+{========================================================================================}
+ 'MAX6627MTA' (~MAX6627MTA) = 'MAX6627MTA'|'TBD'|'Maxim'|'TDFN3X3-8'|'(TDFN3X3-8)'|'2012-4-23'    
+
+END_PART
+
+END.

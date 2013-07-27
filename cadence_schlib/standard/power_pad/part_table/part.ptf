@@ -1,0 +1,15 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'POWER_PAD'
+
+{========================================================================================}
+:VENDOR_PART_NUMBER(OPT)   = PART_NUMBER|COMP_NAME|VENDOR|FUNCTION|JEDEC_TYPE|ALT_SYMBOLS|DESCRIPTION|DEFAULT_SIGNAL_MODEL|STATUS|COST|LAST_MODIFY ;
+{========================================================================================}
+'POWER_PAD'(!)            = 'POWER_PAD'|'POWER_PAD'|'NO'|'SYMBOL'|'POWER_PAD'|'(B:POWER_PAD)'|'POWER_PAD'|''|'DO-NSV-NV-NSIMV'|'0    '|'2003-4-25'
+'POWER_PAD1'(!)           = 'POWER_PAD1'|'POWER_PAD1'|'NO'|'SYMBOL'|'POWER_PAD_7R0D4R0'|'(B:POWER_PAD_7R0D4R0)'|'POWER_PAD'|''|'DO-NSV-NV-NSIMV'|'0    '|'2006-2-14'
+
+
+END_PART
+
+END.
+

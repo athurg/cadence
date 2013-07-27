@@ -1,0 +1,13 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'DFCL32G01LBJAA_TT1'
+
+{========================================================================================}
+:VALUE           = COMP_NAME  | PART_NUMBER   | VENDOR    | JEDEC_TYPE | ALT_SYMBOLS  | LAST_MODIFY  ;
+{========================================================================================}
+ 'DFCL32G01LBJAA_TT1'(~DFCL32G01LBJAA_TT1) = 'DFCL32G01LBJAA_TT1' | '05011900006' | 'MURATA' | 'DFCL32G01LBJAA' | '(DFCL32G01LBJAA)' | '2009-03-05'
+
+END_PART
+
+END.
+

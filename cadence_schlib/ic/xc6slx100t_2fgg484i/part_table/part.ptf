@@ -1,0 +1,13 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'XC6SLX100T_2FGG484I'
+
+{========================================================================================}
+:VALUE=COMP_NAME|PART_NUMBER|VENDOR|JEDEC_TYPE|ALT_SYMBOLS|LAST_MODIFY;
+{========================================================================================}
+'XC6SLX100T_2FGG484I'(~XC6SLX100T_2FGG484I)='XC6SLX100T_2FGG484I'|''|'xilinx'|'BGA10-484'|'(BGA10-484)'|'2010-02-11'
+'XC6SLX150T_2FGG484I'(~XC6SLX150T_2FGG484I)='XC6SLX150T_2FGG484I'|''|'xilinx'|'BGA10-484'|'(BGA10-484)'|'2010-02-20'
+
+END_PART
+
+END.

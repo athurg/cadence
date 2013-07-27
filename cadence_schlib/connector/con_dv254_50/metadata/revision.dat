@@ -1,0 +1,160 @@
+(Cell	CON_DV254_50
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.1)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	09/23/11,15:26:13)
+
+			(User	wish.wang)
+
+			(Path	lib_lib.CON_DV254_50)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000692adefa)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	09/23/11,15:26:13)
+
+							(User	wish.wang)
+
+							(Path	lib_lib.CON_DV254_50)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001d0c0413)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000a982bc8a)
+
+			(Primitives	1
+
+				(Primitive	CON_DV254_50
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	09/23/11,15:26:13)
+
+							(User	wish.wang)
+
+							(Path	lib_lib.CON_DV254_50)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	CON_DV254_50
+
+							(PackType	CON_DV254_50)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001d9d03e7)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.51-p002)
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001cb803b2)
+
+)
+

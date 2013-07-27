@@ -1,0 +1,12 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'SN74AHC1G04DRLR'
+
+{========================================================================================}
+:'VALUE'                               = 'COMP_NAME'          |'PART_NUMBER'    |'VENDOR'    |'JEDEC_TYPE'    |'ALT_SYMBOLS'    |'LAST_MODIFY'    ;
+{========================================================================================}
+ 'SN74AHC1G04DRLR' (~SN74AHC1G04DRLR)  = 'SN74AHC1G04DRLR'  |'05011600106'  |'ti'      |'SOT-553'     |'(SOT-553)'    |'2009-04-29'
+
+END_PART
+
+END.

@@ -1,0 +1,13 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'PXV1220S'
+
+{========================================================================================}
+:'VALUE'                                   = 'COMP_NAME'    |'PART_NUMBER'    |'VENDOR'    |'JEDEC_TYPE'    |'ALT_SYMBOLS'    |'LAST_MODIFY'    ;
+{========================================================================================}
+ 'PXV1220S-2dB-N1-T-LF' (~PXV1220S-2dB-N1-T-LF)  = 'PXV1220S-2dB-N1-T-LF'  |'05010500112'|'YDS'     |'PXV1220S'   |'(PXV1220S)'  |'2009-05-18'   
+ 'PXV1220S-3dB-N1-LF' (~PXV1220S-3dB-N1-LF)  = 'PXV1220S-3dB-N1-LF'  |'05010500005'|'YDS'     |'PXV1220S'   |'(PXV1220S)'  |'2011-11-10'   
+
+END_PART
+
+END.

@@ -1,0 +1,160 @@
+(Cell	at25df321a_sh_b
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.3)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	07/19/11,09:57:19)
+
+			(User	wish.wang)
+
+			(Path	lib_lib.at25df321a_sh_b)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000482ce3d6)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.3)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	07/19/11,09:57:19)
+
+							(User	wish.wang)
+
+							(Path	lib_lib.at25df321a_sh_b)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001c3e03b4)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000d677adff)
+
+			(Primitives	1
+
+				(Primitive	AT25DF321A_SH_B
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	07/19/11,09:57:19)
+
+							(User	wish.wang)
+
+							(Path	lib_lib.at25df321a_sh_b)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	AT25DF321A_SH_B
+
+							(PackType	AT25DF321A_SH_B)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001dc503d8)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.51-p002)
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001cc803ad)
+
+)
+

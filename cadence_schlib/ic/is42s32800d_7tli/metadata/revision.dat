@@ -1,0 +1,160 @@
+(Cell	IS42S32800D_7TLI
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.2)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	05/19/09,15:34:11)
+
+			(User	wish.wang)
+
+			(Path	discrete.IS42S32800D_7TLI)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000c577f36f)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	05/19/09,15:34:11)
+
+							(User	wish.wang)
+
+							(Path	discrete.IS42S32800D_7TLI)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001cbb03bc)
+
+		)
+
+		(View	Chips
+
+			(Checksum	0000000042b5a356)
+
+			(Primitives	1
+
+				(Primitive	IS42S32800D_7TLI
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	05/19/09,15:34:11)
+
+							(User	wish.wang)
+
+							(Path	discrete.IS42S32800D_7TLI)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	IS42S32800D_7TLI
+
+							(PackType	IS42S32800D_7TLI)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001c39037e)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.51-p002)
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001b880380)
+
+)
+

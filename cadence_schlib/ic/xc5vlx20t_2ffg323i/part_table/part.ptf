@@ -1,0 +1,12 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'xc5vlx20t_2ffg323i'
+
+{========================================================================================}
+:VALUE=COMP_NAME|PART_NUMBER|VENDOR|JEDEC_TYPE|ALT_SYMBOLS|LAST_MODIFY;
+{========================================================================================}
+'xc5vlx20t_2ffg323i'(~xc5vlx20t_2ffg323i)='XC5VLX20T_2FFG323i'|'05012700015'|'xilinx'|'BGA10-324'|'(BGA10-324)'|'2009-02-10'
+
+END_PART
+
+END.

@@ -1,0 +1,88 @@
+(Cell	vint
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.1)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	05/10/07,14:46:40)
+
+			(User	Administrator)
+
+			(Path	standard.vint)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Sizable)
+
+					(Checksum	00000000e46c4a4d)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	05/10/07,14:46:40)
+
+							(User	Administrator)
+
+							(Path	standard.vint)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	00000000e2e903e0)
+
+		)
+
+		(Checksum	00000000c5aa03ae)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.20-s005)
+
+		(License	Concept_HDL_expert)
+
+	)
+
+	(Checksum	0000000021860404)
+
+)
+

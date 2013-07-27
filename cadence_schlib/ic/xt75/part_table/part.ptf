@@ -1,0 +1,12 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'XT75'
+
+{========================================================================================}
+:'VALUE'                                   = 'COMP_NAME'            |'PART_NUMBER'    |'VENDOR'    |'JEDEC_TYPE'    |'ALT_SYMBOLS'    |'LAST_MODIFY'    ;
+{========================================================================================}
+ 'VT75-BAGIH-10M' (~VT75-BAGIH-10M)    = 'VT75-BAGIH-10M'      |''  |'JYX'     |'OSCTBD-2'      |'(OSCTBD-2)'     |'2010-06-12'   
+
+END_PART
+
+END.

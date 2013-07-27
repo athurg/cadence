@@ -1,0 +1,160 @@
+(Cell	CON_1125_1202G2S115T1
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.2)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	07/09/10,10:50:49)
+
+			(User	wish.wang)
+
+			(Path	lib_lib.CON_1125_1202G2S115T1)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000009e0c87a5)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	07/09/10,10:50:49)
+
+							(User	wish.wang)
+
+							(Path	lib_lib.CON_1125_1202G2S115T1)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001ce603b7)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000ac64f5cf)
+
+			(Primitives	1
+
+				(Primitive	CON_1125_1202G2S115T1
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	07/09/10,10:50:49)
+
+							(User	wish.wang)
+
+							(Path	lib_lib.CON_1125_1202G2S115T1)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	CON_1125_1202G2S115T1
+
+							(PackType	CON_1125_1202G2S115T1)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001d7d03bf)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.51-p002)
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001cd503dc)
+
+)
+

@@ -1,0 +1,160 @@
+(Cell	MABA_009484_ETC31T
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.2)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	06/30/11,11:03:36)
+
+			(User	wish.wang)
+
+			(Path	lib_lib.MABA_009484_ETC31T)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000cb4cab00)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	06/30/11,11:03:36)
+
+							(User	wish.wang)
+
+							(Path	lib_lib.MABA_009484_ETC31T)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001ef70400)
+
+		)
+
+		(View	Chips
+
+			(Checksum	0000000070c82721)
+
+			(Primitives	1
+
+				(Primitive	MABA_009484_ETC31T
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	06/30/11,11:03:36)
+
+							(User	wish.wang)
+
+							(Path	lib_lib.MABA_009484_ETC31T)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	MABA_009484_ETC31T
+
+							(PackType	MABA_009484_ETC31T)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001e2703de)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.51-p002)
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001be003ac)
+
+)
+

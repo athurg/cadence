@@ -1,0 +1,12 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'APXS006A0X_SRZ'
+
+{========================================================================================}
+:'VALUE'                                   = 'COMP_NAME'    |'PART_NUMBER'    |'VENDOR'    |'JEDEC_TYPE'    |'ALT_SYMBOLS'    |'LAST_MODIFY'    ;
+{========================================================================================}
+ 'APXS006A0X_SRZ' (~APXS006A0X_SRZ)  = 'APXS006A0X_SRZ'  |'05013200124'  |'LINEAGE POWER'     |'PM10-6A'   |'(PM10-6A)'  |'2009-09-02'   
+
+END_PART
+
+END.

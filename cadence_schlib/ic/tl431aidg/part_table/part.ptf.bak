@@ -1,0 +1,12 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'TL431AIDG'
+
+{========================================================================================}
+:'VALUE'                               = 'COMP_NAME'          |'PART_NUMBER'    |'VENDOR'    |'JEDEC_TYPE'    |'ALT_SYMBOLS'    |'LAST_MODIFY'    ;
+{========================================================================================}
+ 'TL431AIDG' (~TL431AIDG)  = 'TL431AIDG'  |''  |'Onsemi'      |'SO-8'     |'(SO-8)'    |'2009-04-30'
+
+END_PART
+
+END.

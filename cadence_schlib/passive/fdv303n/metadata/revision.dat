@@ -1,0 +1,160 @@
+(Cell	fdv303n
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.12)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	04/23/09,16:11:39)
+
+			(User	wish.wang)
+
+			(Path	discrete.fdv303n)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	0000000050e0dcf1)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.12)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	04/23/09,16:11:39)
+
+							(User	wish.wang)
+
+							(Path	discrete.fdv303n)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001ccc03d9)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000fd73956a)
+
+			(Primitives	1
+
+				(Primitive	FDV303N
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	04/23/09,16:11:39)
+
+							(User	wish.wang)
+
+							(Path	discrete.fdv303n)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	FDV303N
+
+							(PackType	FDV303N)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001c620386)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.51-p002)
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001b4a034e)
+
+)
+

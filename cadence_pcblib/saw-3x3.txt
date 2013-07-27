@@ -1,0 +1,13 @@
+(DEVICE FILE: saw-3x3)
+
+PACKAGE saw-3x3
+CLASS DISCRETE
+PINCOUNT 6
+
+PINORDER saw-3x3  6 5 4 1 2 3
+
+PINSWAP saw-3x3  6 5 4 1 2 3
+
+FUNCTION saw-3x3 saw-3x3  6 5 4 1 2 3
+
+END

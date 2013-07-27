@@ -1,0 +1,13 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'tps54610pwp'
+
+{========================================================================================}
+:VALUE=COMP_NAME|PART_NUMBER|VENDOR|JEDEC_TYPE|ALT_SYMBOLS|LAST_MODIFY;
+{========================================================================================}
+'tps54610pwp'(~tps54610pwp)='TPS54610PWP'|'41001013045'|'ti'|'HTSSOP-28'|'(HTSSOP-28)'|'2009-02-10'
+
+END_PART
+
+END.
+

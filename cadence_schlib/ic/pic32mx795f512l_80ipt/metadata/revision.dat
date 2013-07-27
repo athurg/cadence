@@ -1,0 +1,162 @@
+(Cell	pic32mx795f512l_80ipt
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.5)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	07/11/11,15:49:20)
+
+			(User	neon.peng)
+
+			(Path	lib_lib.pic32mx795f512l_80ipt)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Chips
+
+			(Checksum	000000008eacc7f5)
+
+			(Primitives	1
+
+				(Primitive	PIC32MX795F512L_80IPT
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	07/11/11,15:49:20)
+
+							(User	neon.peng)
+
+							(Path	lib_lib.pic32mx795f512l_80ipt)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	PIC32MX795F512L_80IPT
+
+							(PackType	PIC32MX795F512L_80IPT)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000e44224a5)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.5)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	07/11/11,15:49:20)
+
+							(User	neon.peng)
+
+							(Path	lib_lib.pic32mx795f512l_80ipt)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001dd60417)
+
+		)
+
+		(Checksum	000000001c6f037c)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.51-p002)
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001c7903ae)
+
+)
+

@@ -1,0 +1,12 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'RESET_DTSA_62N_V'
+
+{========================================================================================}
+:'VALUE'                                 = 'COMP_NAME'    |'PART_NUMBER'    |'VENDOR'    |'JEDEC_TYPE'    |'ALT_SYMBOLS'    |'LAST_MODIFY'    ;
+{========================================================================================}
+ 'DTSA_62N_V' (~DTSA_62N_V)  = 'DTSA_62N_V'   |'06020000125'  |'DIPTRONICS'        |'DTSA-62N-V'    |'(DTSA-62N-V)'   |'2011-09-30'   
+
+END_PART
+
+END.

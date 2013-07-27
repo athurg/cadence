@@ -1,0 +1,162 @@
+(Cell	tps53353dqpt
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.2)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	04/07/12,17:04:53)
+
+			(User	neon.peng)
+
+			(Path	lib_creation_lib.tps53353dqpt)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Chips
+
+			(Checksum	00000000d837c0dd)
+
+			(Primitives	1
+
+				(Primitive	TPS53353DQPT
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	04/07/12,17:04:53)
+
+							(User	neon.peng)
+
+							(Path	lib_creation_lib.tps53353dqpt)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	TPS53353DQPT
+
+							(PackType	TPS53353DQPT)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000007ca2245f)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	04/07/12,17:04:53)
+
+							(User	neon.peng)
+
+							(Path	lib_creation_lib.tps53353dqpt)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001c5e03b8)
+
+		)
+
+		(Checksum	000000001c9903ac)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.51-p002)
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001bfe03ae)
+
+)
+

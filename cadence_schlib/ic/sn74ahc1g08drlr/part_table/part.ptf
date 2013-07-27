@@ -1,0 +1,14 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'sn74ahc1g08drlr'
+
+{========================================================================================}
+:VALUE=COMP_NAME|PART_NUMBER|VENDOR|JEDEC_TYPE|ALT_SYMBOLS|LAST_MODIFY;
+{========================================================================================}
+'sn74ahc1g08drlr'(~sn74ahc1g08drlr)='SN74AHC1G08DRLR'|'05012500127'|'ti'|'SOT-553'|'(SOT-553)'|'2009-02-13'
+'SN74AHC1G08DBVR'(~SN74AHC1G08DBVR)='SN74AHC1G08DBVR'|'05012500153'|'ti'|'SOT23-5'|'(SOT23-5)'|'2012-04-18'
+
+END_PART
+
+END.
+

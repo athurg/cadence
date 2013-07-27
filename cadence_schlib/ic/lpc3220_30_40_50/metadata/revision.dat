@@ -1,0 +1,304 @@
+(Cell	lpc3220_30_40_50
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.10)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	02/23/10,17:17:11)
+
+			(User	ray.zhou)
+
+			(Path	pro_lib_lib.lpc3220_30_40_50)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	4
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000f4682523)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.4)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	02/23/10,17:17:11)
+
+							(User	ray.zhou)
+
+							(Path	pro_lib_lib.lpc3220_30_40_50)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_2
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000fa6a0df3)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.3)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	02/23/10,17:17:11)
+
+							(User	ray.zhou)
+
+							(Path	pro_lib_lib.lpc3220_30_40_50)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_3
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	0000000072b725ea)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.3)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	02/23/10,17:17:11)
+
+							(User	ray.zhou)
+
+							(Path	pro_lib_lib.lpc3220_30_40_50)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_4
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000c8e03a3f)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.3)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	02/23/10,17:17:11)
+
+							(User	ray.zhou)
+
+							(Path	pro_lib_lib.lpc3220_30_40_50)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001bcc038b)
+
+		)
+
+		(View	Chips
+
+			(Checksum	000000001f7b79e0)
+
+			(Primitives	1
+
+				(Primitive	LPC3220_30_40_50
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	02/23/10,17:17:11)
+
+							(User	ray.zhou)
+
+							(Path	pro_lib_lib.lpc3220_30_40_50)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	LPC3220_30_40_50
+
+							(PackType	LPC3220_30_40_50)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	4
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+							(FunctionGroup	2[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_2)
+
+									)
+
+								)
+
+							)
+
+							(FunctionGroup	3[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_3)
+
+									)
+
+								)
+
+							)
+
+							(FunctionGroup	4[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_4)
+
+									)
+
+								)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001c3703b4)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.51-p002)
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001ba30378)
+
+)
+

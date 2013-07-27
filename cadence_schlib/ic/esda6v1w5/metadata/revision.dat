@@ -1,0 +1,162 @@
+(Cell	esda6v1w5
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.6)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	07/08/11,17:16:57)
+
+			(User	neon.peng)
+
+			(Path	lib_lib.esda6v1w5)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Chips
+
+			(Checksum	0000000070be1995)
+
+			(Primitives	1
+
+				(Primitive	ESDA6V1W5
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	07/08/11,17:16:57)
+
+							(User	neon.peng)
+
+							(Path	lib_lib.esda6v1w5)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	ESDA6V1W5
+
+							(PackType	ESDA6V1W5)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	0000000012be1d56)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.6)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	07/08/11,17:16:57)
+
+							(User	neon.peng)
+
+							(Path	lib_lib.esda6v1w5)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001bc803b6)
+
+		)
+
+		(Checksum	000000001cc303aa)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.51-p002)
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001cda03d0)
+
+)
+

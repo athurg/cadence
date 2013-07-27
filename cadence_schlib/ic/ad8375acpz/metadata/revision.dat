@@ -1,0 +1,162 @@
+(Cell	ad8375acpz
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.1)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	03/05/09,10:57:49)
+
+			(User	wish.wang)
+
+			(Path	discrete.ad8375acpz)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Chips
+
+			(Checksum	00000000b81fb547)
+
+			(Primitives	1
+
+				(Primitive	AD8375ACPZ
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	03/05/09,10:57:49)
+
+							(User	wish.wang)
+
+							(Path	discrete.ad8375acpz)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	AD8375ACPZ
+
+							(PackType	AD8375ACPZ)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000529c4c0f)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	03/05/09,10:57:49)
+
+							(User	wish.wang)
+
+							(Path	discrete.ad8375acpz)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001d2e03a4)
+
+		)
+
+		(Checksum	000000001c8803a5)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.51-p002)
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001bc5037e)
+
+)
+

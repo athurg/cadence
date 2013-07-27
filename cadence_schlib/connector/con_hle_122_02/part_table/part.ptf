@@ -1,0 +1,13 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'CON_HLE_122_02'
+
+{========================================================================================}
+:VALUE           = COMP_NAME  | PART_NUMBER   | VENDOR    | JEDEC_TYPE | ALT_SYMBOLS  | LAST_MODIFY  ;
+{========================================================================================}
+ 'CON_HLE_122_02'(~CON_HLE_122_02) = 'CON-HLE-122-02-L-DV-BE-A' | 'SAMTEC' | '06030200200' | 'CON-HLE-122-02' | '(CON-HLE-122-02)' | '2009-08-20'
+
+END_PART
+
+END.
+

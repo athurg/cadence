@@ -1,0 +1,160 @@
+(Cell	hmc349ms8ge
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.2)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	09/11/09,13:51:27)
+
+			(User	ray.zhou)
+
+			(Path	ic_lib.hmc349ms8ge)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000ce56eedb)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	09/11/09,13:51:27)
+
+							(User	ray.zhou)
+
+							(Path	ic_lib.hmc349ms8ge)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001ee40444)
+
+		)
+
+		(View	Chips
+
+			(Checksum	000000007fd5d76a)
+
+			(Primitives	1
+
+				(Primitive	HMC349MS8GE
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	09/11/09,13:51:27)
+
+							(User	ray.zhou)
+
+							(Path	ic_lib.hmc349ms8ge)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	HMC349MS8GE
+
+							(PackType	HMC349MS8GE)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001ea10446)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.51-p002)
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001c500377)
+
+)
+

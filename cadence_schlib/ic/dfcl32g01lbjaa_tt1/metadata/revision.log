@@ -1,0 +1,15 @@
+
+	(Comment
+		(Time 03/05/09,16:14:01)
+		(User ray.zhou)
+		(MsgId ECO_021)
+		(Text "Package DFCL32G01LBJAA_TT1 added to cell")
+		(Param1 DFCL32G01LBJAA_TT1)
+	)
+	(Comment
+		(Time 03/05/09,16:16:12)
+		(User ray.zhou)
+		(MsgId ECO_081)
+		(Text "Symbol sym_1 added to cell")
+		(Param1 sym_1)
+	)

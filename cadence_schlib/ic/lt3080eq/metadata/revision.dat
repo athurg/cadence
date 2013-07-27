@@ -1,0 +1,160 @@
+(Cell	lt3080eq
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.2)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	12/15/09,18:01:26)
+
+			(User	ray.zhou)
+
+			(Path	pro_lib_lib.lt3080eq)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000b91ab2bb)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	12/15/09,18:01:26)
+
+							(User	ray.zhou)
+
+							(Path	pro_lib_lib.lt3080eq)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001dbe0406)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000e13f4901)
+
+			(Primitives	1
+
+				(Primitive	LT3080EQ
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	12/15/09,18:01:26)
+
+							(User	ray.zhou)
+
+							(Path	pro_lib_lib.lt3080eq)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	LT3080EQ
+
+							(PackType	LT3080EQ)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001fae0415)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.51-p002)
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001d5403a8)
+
+)
+

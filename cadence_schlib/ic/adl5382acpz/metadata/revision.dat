@@ -1,0 +1,160 @@
+(Cell	adl5382acpz
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.4)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	06/22/11,11:30:56)
+
+			(User	neon.peng)
+
+			(Path	lib_lib.adl5382acpz)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000982053aa)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.4)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	06/22/11,11:30:56)
+
+							(User	neon.peng)
+
+							(Path	lib_lib.adl5382acpz)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001acc037e)
+
+		)
+
+		(View	Chips
+
+			(Checksum	000000002c19c0e8)
+
+			(Primitives	1
+
+				(Primitive	ADL5382ACPZ
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	06/22/11,11:30:56)
+
+							(User	neon.peng)
+
+							(Path	lib_lib.adl5382acpz)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	ADL5382ACPZ
+
+							(PackType	ADL5382ACPZ)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001c1b0388)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.51-p002)
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001c1e037b)
+
+)
+

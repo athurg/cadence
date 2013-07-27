@@ -1,0 +1,13 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'hmc194ms8e'
+
+{========================================================================================}
+:VALUE=COMP_NAME|PART_NUMBER|VENDOR|JEDEC_TYPE|ALT_SYMBOLS|LAST_MODIFY;
+{========================================================================================}
+'hmc194ms8e'(~hmc194ms8e)='HMC194MS8E'|'41001004022'|'hittite'|'TSSOP-8'|'(TSSOP-8)'|'2009-02-10'
+
+END_PART
+
+END.
+

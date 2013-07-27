@@ -1,0 +1,162 @@
+(Cell	dac8311
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.4)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	05/31/10,11:25:29)
+
+			(User	wish.wang)
+
+			(Path	lib_lib.dac8311)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Chips
+
+			(Checksum	00000000deca4b7c)
+
+			(Primitives	1
+
+				(Primitive	DAC8311
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	05/31/10,11:25:29)
+
+							(User	wish.wang)
+
+							(Path	lib_lib.dac8311)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	DAC8311
+
+							(PackType	DAC8311)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	0000000048a1b51b)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	05/31/10,11:25:29)
+
+							(User	wish.wang)
+
+							(Path	lib_lib.dac8311)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001b160354)
+
+		)
+
+		(Checksum	000000001b310347)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.51-p002)
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001b250346)
+
+)
+

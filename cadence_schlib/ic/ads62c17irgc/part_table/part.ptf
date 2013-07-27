@@ -1,0 +1,13 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'ads62c17irgc'
+
+{========================================================================================}
+:VALUE=COMP_NAME|PART_NUMBER|VENDOR|JEDEC_TYPE|ALT_SYMBOLS|LAST_MODIFY;
+{========================================================================================}
+'ads62c17irgc'(~ads62c17irgc)='ADS62C17IRGC'|'05011200006'|'ti'|'PQFP-64'|'(PQFP-64)'|'2009-02-10'
+
+END_PART
+
+END.
+

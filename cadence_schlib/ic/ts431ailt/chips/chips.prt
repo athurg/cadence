@@ -1,0 +1,47 @@
+FILE_TYPE=LIBRARY_PARTS;
+primitive 'TS431AILT';
+  pin
+    'NC1':
+      PIN_NUMBER='(1)';
+      PINUSE='NC';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      NO_ASSERT_CHECK='TRUE';
+      NO_DIR_CHECK='TRUE';
+      ALLOW_CONNECT='TRUE';
+    'NC2':
+      PIN_NUMBER='(2)';
+      PINUSE='NC';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      NO_ASSERT_CHECK='TRUE';
+      NO_DIR_CHECK='TRUE';
+      ALLOW_CONNECT='TRUE';
+    'CATHODE':
+      PIN_NUMBER='(3)';
+      PINUSE='UNSPEC';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      ALLOW_CONNECT='TRUE';
+    'REFERENCE':
+      PIN_NUMBER='(4)';
+      PINUSE='UNSPEC';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      ALLOW_CONNECT='TRUE';
+    'ANODE':
+      PIN_NUMBER='(5)';
+      PINUSE='UNSPEC';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      ALLOW_CONNECT='TRUE';
+  end_pin;
+  body
+    BODY_NAME='TS431AILT';
+    PART_NAME='TS431AILT';
+    PHYS_DES_PREFIX='U';
+    CLASS='IC';
+  end_body;
+end_primitive;
+
+END.

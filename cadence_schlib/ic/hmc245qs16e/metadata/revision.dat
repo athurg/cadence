@@ -1,0 +1,160 @@
+(Cell	hmc245qs16e
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.5)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	10/14/10,09:23:57)
+
+			(User	Eva.zhao)
+
+			(Path	lib_lib.hmc245qs16e)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000028d7f99)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.5)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	10/14/10,09:23:57)
+
+							(User	Eva.zhao)
+
+							(Path	lib_lib.hmc245qs16e)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001bab038e)
+
+		)
+
+		(View	Chips
+
+			(Checksum	000000005ab11b4e)
+
+			(Primitives	1
+
+				(Primitive	HMC245QS16E
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	10/14/10,09:23:57)
+
+							(User	Eva.zhao)
+
+							(Path	lib_lib.hmc245qs16e)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	HMC245QS16E
+
+							(PackType	HMC245QS16E)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001c4d03e3)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.51-p002)
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001c8f03a8)
+
+)
+

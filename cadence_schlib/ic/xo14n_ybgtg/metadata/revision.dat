@@ -1,0 +1,162 @@
+(Cell	xo14n_ybgtg
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.4)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	04/24/09,10:34:44)
+
+			(User	wish.wang)
+
+			(Path	discrete.xo14n_ybgtg)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Chips
+
+			(Checksum	000000001bdff1d9)
+
+			(Primitives	1
+
+				(Primitive	XO14N_YBGTG
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	04/24/09,10:34:44)
+
+							(User	wish.wang)
+
+							(Path	discrete.xo14n_ybgtg)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	XO14N_YBGTG
+
+							(PackType	XO14N_YBGTG)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000003f869099)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.4)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	04/24/09,10:34:44)
+
+							(User	wish.wang)
+
+							(Path	discrete.xo14n_ybgtg)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001b8e0357)
+
+		)
+
+		(Checksum	000000001c490380)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.51-p002)
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001b5b034d)
+
+)
+

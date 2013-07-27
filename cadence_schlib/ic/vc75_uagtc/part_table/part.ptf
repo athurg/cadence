@@ -1,0 +1,15 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'VC75_UAGTC'
+
+{========================================================================================}
+:'VALUE'                       = 'COMP_NAME'              |'PART_NUMBER'    |'VENDOR'    |'JEDEC_TYPE'    |'ALT_SYMBOLS'    |'LAST_MODIFY'    ;
+{========================================================================================}
+ 'VC75-UAGTC-51.2MHz' (~VC75-UAGTC-51.2MHz)  = 'VC75-UAGTC-51.2MHz'  |'05060100121'   |'jyx'    |'VC75'    |'(VC75)'   |'2011-04-18'
+ 'VC75-VTESALLANF-80MHz' (~VC75-VTESALLANF-80MHz)  = 'VC75-VTESALLANF-80MHz'  |'05060100122'   |'TAITIEN'    |'VC75'    |'(VC75)'   |'2011-06-17'
+ 'VC75-VTEUALJNF-50MHz' (~VC75-VTEUALJNF-50MHz)  = 'VC75-VTEUALJNF-50MHz'  |'05060100127'   |'TAITIEN'    |'VC75'    |'(VC75)'   |'2012-01-31'
+ 'VC75-VTEUALJNF-61.440MHz' (~VC75-VTEUALJNF-61.440MHz)  = 'VC75-VTEUALJNF-61.440MHz'  |'05060100123'   |'TAITIEN'    |'VC75'    |'(VC75)'   |'2012-02-17'
+
+END_PART
+
+END.

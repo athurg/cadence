@@ -1,0 +1,13 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'CDCE62005RGZT'
+
+{========================================================================================}
+:VALUE=COMP_NAME|PART_NUMBER|VENDOR|JEDEC_TYPE|ALT_SYMBOLS|LAST_MODIFY;
+{========================================================================================}
+'CDCE62005RGZT'(~CDCE62005RGZT)='CDCE62005RGZT'|''|'TI'|'VQFN-48'|'VQFN-48'|'2009-04-16'
+
+END_PART
+
+END.
+

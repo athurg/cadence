@@ -1,0 +1,12 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'LM75ADP'
+
+{========================================================================================}
+:'VALUE'                                   = 'COMP_NAME'    |'PART_NUMBER'    |'VENDOR'    |'JEDEC_TYPE'    |'ALT_SYMBOLS'    |'LAST_MODIFY'    ;
+{========================================================================================}
+ 'LM75ADP' (~LM75ADP)  = 'LM75ADP'  |'05012000105'  |'Philips'     |'TSSOP-8'   |'(TSSOP-8)'  |'2009-04-27'   
+
+END_PART
+
+END.

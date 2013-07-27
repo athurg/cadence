@@ -1,0 +1,14 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'TPS54286PWP'
+
+{========================================================================================}
+:VALUE           = COMP_NAME  | PART_NUMBER   | VENDOR    | JEDEC_TYPE | ALT_SYMBOLS  | LAST_MODIFY  ;
+{========================================================================================}
+ 'TPS54286PWP'(~TPS54286PWP) = 'TPS54286PWP' | '05013200130' | 'TI' | 'HTSSOP-14' | '(HTSSOP-14)' | '2009-12-31'
+ 'TPS54283PWP'(~TPS54283PWP) = 'TPS54283PWP' | '05013200129' | 'TI' | 'HTSSOP-14' | '(HTSSOP-14)' | '2009-12-31'
+
+END_PART
+
+END.
+

@@ -1,0 +1,162 @@
+(Cell	adc102s101cimmx
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.1)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	11/02/10,17:14:35)
+
+			(User	Eva.zhao)
+
+			(Path	lib_lib.adc102s101cimmx)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Chips
+
+			(Checksum	00000000d295abab)
+
+			(Primitives	1
+
+				(Primitive	ADC102S101CIMMX
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	11/02/10,17:14:35)
+
+							(User	Eva.zhao)
+
+							(Path	lib_lib.adc102s101cimmx)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	ADC102S101CIMMX
+
+							(PackType	ADC102S101CIMMX)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000008790da57)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	11/02/10,17:14:35)
+
+							(User	Eva.zhao)
+
+							(Path	lib_lib.adc102s101cimmx)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001b760350)
+
+		)
+
+		(Checksum	000000001b510349)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.51-p002)
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001b33034a)
+
+)
+

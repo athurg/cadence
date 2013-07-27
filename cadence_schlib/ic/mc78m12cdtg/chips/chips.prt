@@ -1,0 +1,38 @@
+FILE_TYPE=LIBRARY_PARTS;
+primitive 'MC78M12CDTG';
+  pin
+    'VIN':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      NO_ASSERT_CHECK='TRUE';
+      NO_DIR_CHECK='TRUE';
+      ALLOW_CONNECT='TRUE';
+    'GND':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      NO_ASSERT_CHECK='TRUE';
+      NO_DIR_CHECK='TRUE';
+      ALLOW_CONNECT='TRUE';
+    'VOUT':
+      PIN_NUMBER='(3)';
+      PINUSE='UNSPEC';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      NO_ASSERT_CHECK='TRUE';
+      NO_DIR_CHECK='TRUE';
+      ALLOW_CONNECT='TRUE';
+  end_pin;
+  body
+    L='IC';
+    BODY_NAME='MC78M12CDTG';
+    PART_NAME='MC78M12CDTG';
+    PHYS_DES_PREFIX='U';
+    CLASS='IC';
+  end_body;
+end_primitive;
+
+END.

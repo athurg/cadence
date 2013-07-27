@@ -1,0 +1,160 @@
+(Cell	ds26lv31tmnopb
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.2)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	07/08/11,18:40:17)
+
+			(User	neon.peng)
+
+			(Path	lib_lib.ds26lv31tmnopb)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000d1338276)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	07/08/11,18:40:17)
+
+							(User	neon.peng)
+
+							(Path	lib_lib.ds26lv31tmnopb)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001b920353)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000067a1f74)
+
+			(Primitives	1
+
+				(Primitive	DS26LV31TMNOPB
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	07/08/11,18:40:17)
+
+							(User	neon.peng)
+
+							(Path	lib_lib.ds26lv31tmnopb)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	DS26LV31TMNOPB
+
+							(PackType	DS26LV31TMNOPB)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001b280376)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.51-p002)
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001b47034e)
+
+)
+

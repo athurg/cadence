@@ -1,0 +1,12 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'DIODE_LED_D'
+
+{========================================================================================}
+:'VALUE'                                 = 'COMP_NAME'           |'PART_NUMBER'    |'VENDOR'    |'JEDEC_TYPE'         |'ALT_SYMBOLS'          |'LAST_MODIFY'    ;
+{========================================================================================}
+ 'A2784B/2SYGSDRW/S530-A3' (~A2784B/2SYGSDRW/S530-A3)  = 'A2784B/2SYGSDRW/S530-A3'  |'05020000184'  |'EVERLIGHT'    |'LED254-4'  |'(LED254-4)'  |'2010-07-13'   
+
+END_PART
+
+END.

@@ -1,0 +1,160 @@
+(Cell	vh12r48b
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.5)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	08/27/09,16:22:02)
+
+			(User	wish.wang)
+
+			(Path	lib_lib.vh12r48b)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000611a4d34)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.5)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	08/27/09,16:22:02)
+
+							(User	wish.wang)
+
+							(Path	lib_lib.vh12r48b)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001b780379)
+
+		)
+
+		(View	Chips
+
+			(Checksum	000000006eb8931f)
+
+			(Primitives	1
+
+				(Primitive	VH12R48B
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.3)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	08/27/09,16:22:02)
+
+							(User	wish.wang)
+
+							(Path	lib_lib.vh12r48b)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	VH12R48B
+
+							(PackType	VH12R48B)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001b89035d)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.51-p002)
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001b9a0381)
+
+)
+

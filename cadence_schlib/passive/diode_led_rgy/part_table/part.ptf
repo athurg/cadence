@@ -1,0 +1,12 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'DIODE_LED_RGY'
+
+{========================================================================================}
+:'VALUE'                             = 'COMP_NAME'         |'PART_NUMBER'    |'VENDOR'       |'JEDEC_TYPE'    |'ALT_SYMBOLS'    |'LAST_MODIFY'    ;
+{========================================================================================}
+ 'DIODE_LED_RGY' (~DIODE_LED_RGY)      = 'DIODE_LED_RGY'    |'05020000210'  |'everlight'  |'LED-3'     |'(LED-3)'    |'2011-04-21'   
+
+END_PART
+
+END.

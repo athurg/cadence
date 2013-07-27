@@ -1,0 +1,160 @@
+(Cell	mt48lc8m16a2tg
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.8)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	04/16/09,10:14:45)
+
+			(User	ray.zhou)
+
+			(Path	ic_lib.mt48lc8m16a2tg)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000aae5f038)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.5)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	04/16/09,10:14:45)
+
+							(User	ray.zhou)
+
+							(Path	ic_lib.mt48lc8m16a2tg)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001eac03de)
+
+		)
+
+		(View	Chips
+
+			(Checksum	000000004120785a)
+
+			(Primitives	1
+
+				(Primitive	MT48LC8M16A2TG
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.4)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	04/16/09,10:14:45)
+
+							(User	ray.zhou)
+
+							(Path	ic_lib.mt48lc8m16a2tg)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	MT48LC8M16A2TG
+
+							(PackType	MT48LC8M16A2TG)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001e2603e7)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.51-p002)
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001baf037e)
+
+)
+

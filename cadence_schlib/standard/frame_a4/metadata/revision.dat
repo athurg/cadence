@@ -1,0 +1,90 @@
+(Cell	frame_a4
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.4)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	1)
+
+		(CreateInfo	
+
+			(Time	06/11/10,10:48:17)
+
+			(User	wish.wang)
+
+			(Path	lib_lib.frame_a4)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000007a7a1c55)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	1)
+
+						(CreateInfo	
+
+							(Time	06/11/10,10:48:17)
+
+							(User	wish.wang)
+
+							(Path	lib_lib.frame_a4)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001cea03af)
+
+		)
+
+		(Checksum	000000001dd10405)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.51-p002)
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001c520374)
+
+)
+

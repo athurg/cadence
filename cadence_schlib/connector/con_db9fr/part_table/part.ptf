@@ -1,0 +1,12 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'CON_DB9FR'
+
+{========================================================================================}
+:'VALUE'                   = 'COMP_NAME'    |'PART_NUMBER'    |'VENDOR'    |'JEDEC_TYPE'    |'ALT_SYMBOLS'    |'LAST_MODIFY'    ;
+{========================================================================================}
+ 'con_db9fr' (~CON_DB9FR)  = 'con_db9fr'  |'06030200182'  |'TBD'     |'CON-DB9FR'   |'(CON-DB9FR)'  |'2010-11-1'    
+
+END_PART
+
+END.

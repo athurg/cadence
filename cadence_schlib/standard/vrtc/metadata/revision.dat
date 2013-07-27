@@ -1,0 +1,88 @@
+(Cell	vrtc
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.2)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	05/10/07,14:49:55)
+
+			(User	Administrator)
+
+			(Path	standard.vrtc)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Sizable)
+
+					(Checksum	00000000e1d44a49)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	05/10/07,14:49:55)
+
+							(User	Administrator)
+
+							(Path	standard.vrtc)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	00000000f59503b1)
+
+		)
+
+		(Checksum	00000000e7590380)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.20-s005)
+
+		(License	Concept_HDL_expert)
+
+	)
+
+	(Checksum	0000000049880356)
+
+)
+

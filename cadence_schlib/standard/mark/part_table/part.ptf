@@ -1,0 +1,14 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'MARK'
+
+{========================================================================================}
+:VENDOR_PART_NUMBER(OPT)   = COMP_NAME | PART_NUMBER | VENDOR | FUNCTION | JEDEC_TYPE | ALT_SYMBOLS                                             | DESCRIPTION | STATUS            | COST | LAST_MODIFY  ;
+{========================================================================================}
+ 'mark_1'(!)               = 'mark'    | 'mark'      | 'no'   | 'mark'   | 'MARK1R0'  | '(MARK1R0-1;MARK1R0-3;MARK1R0-ROGERS;MARK1R0-1-ROGERS)' | 'mark'      | 'DO-NSV-NV-NSIMV' | '0'  | '2003-12-19'
+
+
+END_PART
+
+END.
+

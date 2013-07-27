@@ -1,0 +1,160 @@
+(Cell	ads62c17irgc
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.9)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	02/05/09,11:13:22)
+
+			(User	ray.zhou)
+
+			(Path	project_lib_lib.ads62c17irgc)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000007631ffd4)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.6)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	02/05/09,11:13:22)
+
+							(User	ray.zhou)
+
+							(Path	project_lib_lib.ads62c17irgc)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001bef03b6)
+
+		)
+
+		(View	Chips
+
+			(Checksum	000000004fca9598)
+
+			(Primitives	1
+
+				(Primitive	ADS62C17IRGC
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.3)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	02/05/09,11:13:22)
+
+							(User	ray.zhou)
+
+							(Path	project_lib_lib.ads62c17irgc)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	ADS62C17IRGC
+
+							(PackType	ADS62C17IRGC)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001cf303bf)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.51-p002)
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001cf303d9)
+
+)
+

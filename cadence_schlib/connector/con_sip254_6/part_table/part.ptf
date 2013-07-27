@@ -1,0 +1,14 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'CON_SIP254_6'
+
+{========================================================================================}
+:VALUE           = COMP_NAME  | PART_NUMBER   | VENDOR    | JEDEC_TYPE | ALT_SYMBOLS  | LAST_MODIFY  ;
+{========================================================================================}
+ 'CON_SIP254_6'(~CON_SIP254_6) = 'CH31062V201' | '06030100129' | 'Cvilux' | 'CON-SIP254-6' | '(CON-SIP254-6)' | '2009-02-13'
+ 'CON_SIP254_6_SMD'(~CON_SIP254_6_SMD) = 'CON_SIP254_6_SMD' | '' | '' | 'CON-SIP254-6-SMD' | '(CON-SIP254-6-SMD)' | '2010-07-22'
+
+END_PART
+
+END.
+

@@ -1,0 +1,13 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'LMH6515SQ'
+
+{========================================================================================}
+:VALUE=COMP_NAME|PART_NUMBER|VENDOR|JEDEC_TYPE|ALT_SYMBOLS|LAST_MODIFY;
+{========================================================================================}
+'LMH6515SQ'(~LMH6515SQ)='LMH6515SQ'|'05010100043'|'National'|'LLP16'|'LLP16'|'2009-02-13'
+
+END_PART
+
+END.
+

@@ -1,0 +1,12 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'TPD4E001DBVR'
+
+{========================================================================================}
+:'VALUE'                     = 'COMP_NAME'     |'PART_NUMBER'    |'VENDOR'     |'JEDEC_TYPE'    |'ALT_SYMBOLS'    |'LAST_MODIFY'    ;
+{========================================================================================}
+ 'TPD4E001DBVR' (~TPD4E001DBVR)  = 'TPD4E001DBVR'  |'05020000196'  |'TI'  |'SOT23-6'       |'(SOT23-6)'      |'2011-04-15'
+
+END_PART
+
+END.

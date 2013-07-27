@@ -1,0 +1,12 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'CBRD40PA2FP1R0'
+
+{========================================================================================}
+:'VALUE'                   = 'COMP_NAME'      |'PART_NUMBER'    |'VENDOR'     |'JEDEC_TYPE'    |'ALT_SYMBOLS'    |'LAST_MODIFY'    ;
+{========================================================================================}
+ 'CBRD40PA2FP1R0' (~CBRD40PA2FP1R0)  = 'CBRD40PA2FP1R0'  |'00'  |'CVILUX'  |'CBRD40PA2FP1R0'      |'(CBRD40PA2FP1R0)'     |'2011-05-11'   
+
+END_PART
+
+END.

@@ -1,0 +1,13 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'isl12022ibz'
+
+{========================================================================================}
+:VALUE=COMP_NAME|PART_NUMBER|VENDOR|JEDEC_TYPE|ALT_SYMBOLS|LAST_MODIFY;
+{========================================================================================}
+'isl12022ibz'(~isl12022ibz)='ISL12022IBZ'|'05012500007'|'intersil'|'SO-8'|'(SO-8)'|'2009-02-10'
+
+END_PART
+
+END.
+

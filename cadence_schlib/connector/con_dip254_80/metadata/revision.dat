@@ -1,0 +1,160 @@
+(Cell	con_dip254_80
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.1)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	04/19/12,19:45:36)
+
+			(User	neon.peng)
+
+			(Path	lib_creation_lib.con_dip254_80)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000004bd2df56)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	04/19/12,19:45:36)
+
+							(User	neon.peng)
+
+							(Path	lib_creation_lib.con_dip254_80)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001dd203e2)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000d365bcc4)
+
+			(Primitives	1
+
+				(Primitive	con_dip254_80
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	04/19/12,19:45:36)
+
+							(User	neon.peng)
+
+							(Path	lib_creation_lib.con_dip254_80)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	con_dip254_80
+
+							(PackType	con_dip254_80)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001cb003ac)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.51-p002)
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001cc703ce)
+
+)
+

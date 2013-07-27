@@ -1,0 +1,170 @@
+(Cell	tp_gnd
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.4)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	03/13/09,15:11:49)
+
+			(User	ray.zhou)
+
+			(Path	standard_lib.tp_gnd)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	03/13/09,15:13:53)
+
+			(User	ray.zhou)
+
+			(Path	standard_lib.tp_gnd)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000ec033ebc)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.3)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	03/13/09,15:11:49)
+
+							(User	ray.zhou)
+
+							(Path	standard_lib.tp_gnd)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001dee0409)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000b82b5896)
+
+			(Primitives	1
+
+				(Primitive	TP_GND
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	03/13/09,15:12:57)
+
+							(User	ray.zhou)
+
+							(Path	standard_lib.tp_gnd)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	TP_GND
+
+							(PackType	TP_GND)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001c8203bc)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.51-p002)
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001bd703a7)
+
+)
+

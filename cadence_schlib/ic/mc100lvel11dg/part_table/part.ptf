@@ -1,0 +1,12 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'MC100LVEL11DG'
+
+{========================================================================================}
+:'VALUE'             = 'COMP_NAME'       |'PART_NUMBER'    |'VENDOR'    |'JEDEC_TYPE'    |'ALT_SYMBOLS'    |'LAST_MODIFY'    ;
+{========================================================================================}
+ 'MC100LVEL11DG' (~MC100LVEL11DG)  = 'MC100LVEL11DG'  |'05013000017'  |'ONSEMI'      |'SO-8'      |'(SO-8)'     |'2009-06-16'
+
+END_PART
+
+END.

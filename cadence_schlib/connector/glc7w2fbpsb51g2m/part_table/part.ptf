@@ -1,0 +1,12 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'GLC7W2FBPSB51G2M'
+
+{========================================================================================}
+:'VALUE'                                 = 'COMP_NAME'           |'PART_NUMBER'    |'VENDOR'    |'JEDEC_TYPE'              |'ALT_SYMBOLS'               |'LAST_MODIFY'    ;
+{========================================================================================}
+ 'GLC7W2FBPSB51G2M' (~GLC7W2FBPSB51G2M)  = 'GLC7W2FBPSB51G2M'  |'06030200324'  |'x'       |'CON-GLC7W2FBPSB51E2M'  |'(CON-GLC7W2FBPSB51E2M)'  |'2011-09-26'   
+
+END_PART
+
+END.

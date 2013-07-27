@@ -1,0 +1,160 @@
+(Cell	apxs006a0x_srz
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.6)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	09/02/09,18:45:28)
+
+			(User	ray.zhou)
+
+			(Path	ic_lib.apxs006a0x_srz)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000ba900d76)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.3)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	09/02/09,18:45:28)
+
+							(User	ray.zhou)
+
+							(Path	ic_lib.apxs006a0x_srz)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001d5d03ae)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000642d0b57)
+
+			(Primitives	1
+
+				(Primitive	APXS006A0X_SRZ
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.3)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	09/02/09,18:45:28)
+
+							(User	ray.zhou)
+
+							(Path	ic_lib.apxs006a0x_srz)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	APXS006A0X_SRZ
+
+							(PackType	APXS006A0X_SRZ)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001ba3037e)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.51-p002)
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001c7703a7)
+
+)
+

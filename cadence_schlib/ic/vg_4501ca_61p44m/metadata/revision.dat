@@ -1,0 +1,160 @@
+(Cell	vg_4501ca_61p44m
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.3)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	09/04/09,16:30:28)
+
+			(User	ray.zhou)
+
+			(Path	ic_lib.vg_4501ca_61p44m)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000e1ccb00d)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	09/04/09,16:30:28)
+
+							(User	ray.zhou)
+
+							(Path	ic_lib.vg_4501ca_61p44m)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001e6c0403)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000c0d04e1a)
+
+			(Primitives	1
+
+				(Primitive	VG_4501CA_61P44M
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	09/04/09,16:30:28)
+
+							(User	ray.zhou)
+
+							(Path	ic_lib.vg_4501ca_61p44m)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	VG_4501CA_61P44M
+
+							(PackType	VG_4501CA_61P44M)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001e0b03dd)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.51-p002)
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001caa03d4)
+
+)
+

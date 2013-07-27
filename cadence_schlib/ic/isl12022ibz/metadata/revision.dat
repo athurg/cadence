@@ -1,0 +1,160 @@
+(Cell	isl12022ibz
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.5)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	02/06/09,11:40:20)
+
+			(User	ray.zhou)
+
+			(Path	project_lib_lib.isl12022ibz)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000bfcedbed)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.5)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	02/06/09,11:40:20)
+
+							(User	ray.zhou)
+
+							(Path	project_lib_lib.isl12022ibz)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	0000000020d904a0)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000ba36a9bb)
+
+			(Primitives	1
+
+				(Primitive	ISL12022IBZ
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	02/06/09,11:40:20)
+
+							(User	ray.zhou)
+
+							(Path	project_lib_lib.isl12022ibz)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	ISL12022IBZ
+
+							(PackType	ISL12022IBZ)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001f3b043a)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.51-p002)
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001c6103a5)
+
+)
+

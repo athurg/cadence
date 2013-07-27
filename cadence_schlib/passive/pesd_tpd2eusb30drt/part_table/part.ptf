@@ -1,0 +1,13 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'PESD_TPD2EUSB30DRT'
+
+{========================================================================================}
+:VALUE               = COMP_NAME      | PART_NUMBER   | VENDOR | JEDEC_TYPE | ALT_SYMBOLS | LAST_MODIFY  ;
+{========================================================================================}
+ 'PESD_TPD2EUSB30DRT'(~PESD_TPD2EUSB30DRT) = 'PESD_TPD2EUSB30DRT' | '05020000247' | 'TI'   | 'SOT-3'  | '(SOT-3)' | '2011-12-15'
+
+END_PART
+
+END.
+

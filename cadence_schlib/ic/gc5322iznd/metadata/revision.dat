@@ -1,0 +1,304 @@
+(Cell	GC5322IZND
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.13)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	02/04/09,14:14:47)
+
+			(User	ray.zhou)
+
+			(Path	project_lib_lib.GC5322IZND)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	4
+
+				(Symbol	sym_4
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000006743f5e0)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.5)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	02/04/09,14:14:47)
+
+							(User	ray.zhou)
+
+							(Path	project_lib_lib.GC5322IZND)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_3
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000003a26f07c)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.6)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	02/04/09,14:14:47)
+
+							(User	ray.zhou)
+
+							(Path	project_lib_lib.GC5322IZND)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_2
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000c790f5ef)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.6)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	02/04/09,14:14:47)
+
+							(User	ray.zhou)
+
+							(Path	project_lib_lib.GC5322IZND)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	0000000022d1fc0f)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.8)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	02/04/09,14:14:47)
+
+							(User	ray.zhou)
+
+							(Path	project_lib_lib.GC5322IZND)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001e900415)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000eb46b8ba)
+
+			(Primitives	1
+
+				(Primitive	GC5322IZND
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.6)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	02/04/09,14:14:47)
+
+							(User	ray.zhou)
+
+							(Path	project_lib_lib.GC5322IZND)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	GC5322IZND
+
+							(PackType	GC5322IZND)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	4
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+							(FunctionGroup	2[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_2)
+
+									)
+
+								)
+
+							)
+
+							(FunctionGroup	3[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_3)
+
+									)
+
+								)
+
+							)
+
+							(FunctionGroup	4[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_4)
+
+									)
+
+								)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001d2b0413)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.51-p002)
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001c1b0372)
+
+)
+

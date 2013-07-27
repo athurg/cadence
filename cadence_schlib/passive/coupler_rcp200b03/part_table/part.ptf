@@ -1,0 +1,12 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'COUPLER_RCP200B03'
+
+{========================================================================================}
+:'VALUE'                                   = 'COMP_NAME'    |'PART_NUMBER'    |'VENDOR'    |'JEDEC_TYPE'    |'ALT_SYMBOLS'    |'LAST_MODIFY'    ;
+{========================================================================================}
+ 'COUPLER_RCP200B03' (~COUPLER_RCP200B03)  = 'RCP200B03'  |'05010700129'  |'RN2'     |'RCP200B03'   |'(RCP200B03)'  |'2011-06-22'   
+
+END_PART
+
+END.

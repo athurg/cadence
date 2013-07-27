@@ -1,0 +1,12 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'Coup_DC0710J5020AHF'
+
+{========================================================================================}
+:'VALUE'                                       = 'COMP_NAME'         |'PART_NUMBER'    |'VENDOR'    |'JEDEC_TYPE'    |'ALT_SYMBOLS'    |'LAST_MODIFY'    ;
+{========================================================================================}
+ 'Coup_DC0710J5020AHF' (~Coup_DC0710J5020AHF)  = 'DC0710J5020AHF'  |'05010700167'  |'Anaren'  |'ULP0805'     |'(ULP0805)'    |'2011-11-16'   
+
+END_PART
+
+END.

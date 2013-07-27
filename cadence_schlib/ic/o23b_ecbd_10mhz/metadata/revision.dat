@@ -1,0 +1,160 @@
+(Cell	O23B_ECBD_10MHZ
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.6)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	05/31/10,14:47:38)
+
+			(User	wish.wang)
+
+			(Path	lib_lib.O23B_ECBD_10MHZ)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000007a63a0c1)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.4)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	05/31/10,14:47:38)
+
+							(User	wish.wang)
+
+							(Path	lib_lib.O23B_ECBD_10MHZ)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001c7d03a7)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000de6c230f)
+
+			(Primitives	1
+
+				(Primitive	O23B_ECBD_10MHZ
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	05/31/10,14:47:38)
+
+							(User	wish.wang)
+
+							(Path	lib_lib.O23B_ECBD_10MHZ)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	O23B_ECBD_10MHZ
+
+							(PackType	O23B_ECBD_10MHZ)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001e8603e6)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.51-p002)
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001bd20383)
+
+)
+

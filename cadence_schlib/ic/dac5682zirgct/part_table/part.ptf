@@ -1,0 +1,13 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'dac5682zirgct'
+
+{========================================================================================}
+:VALUE=COMP_NAME|PART_NUMBER|VENDOR|JEDEC_TYPE|ALT_SYMBOLS|LAST_MODIFY;
+{========================================================================================}
+'dac5682zirgct'(~dac5682zirgct)='DAC5682ZIRGCT'|'05011300010'|'ti'|'VQFN-64'|'(VQFN-64)'|'2009-02-10'
+
+END_PART
+
+END.
+

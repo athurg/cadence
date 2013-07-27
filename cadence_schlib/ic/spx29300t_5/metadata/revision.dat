@@ -1,0 +1,160 @@
+(Cell	spx29300t_5
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.4)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	02/13/09,19:29:16)
+
+			(User	wish.wang)
+
+			(Path	discrete.spx29300t_5)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000e7058dd9)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.3)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	02/13/09,19:29:16)
+
+							(User	wish.wang)
+
+							(Path	discrete.spx29300t_5)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001caf03bb)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000536bb06f)
+
+			(Primitives	1
+
+				(Primitive	SPX29300T_5
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	02/13/09,19:29:16)
+
+							(User	wish.wang)
+
+							(Path	discrete.spx29300t_5)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	SPX29300T_5
+
+							(PackType	SPX29300T_5)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001bcc03a3)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.51-p002)
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001d9503d1)
+
+)
+

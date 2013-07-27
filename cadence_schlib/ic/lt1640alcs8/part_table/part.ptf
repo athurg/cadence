@@ -1,0 +1,12 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'LT1640ALCS8'
+
+{========================================================================================}
+:'VALUE'                                   = 'COMP_NAME'    |'PART_NUMBER'    |'VENDOR'    |'JEDEC_TYPE'    |'ALT_SYMBOLS'    |'LAST_MODIFY'    ;
+{========================================================================================}
+ 'LT1640ALCS8' (~LT1640ALCS8)  = 'LT1640ALCS8'  |''  |'Linear Technology'     |'SO-8'   |'(SO-8)'  |'2009-04-20'   
+
+END_PART
+
+END.

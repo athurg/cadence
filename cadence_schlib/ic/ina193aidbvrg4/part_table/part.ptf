@@ -1,0 +1,12 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'INA193AIDBVRG4'
+
+{========================================================================================}
+:'VALUE'                         = 'COMP_NAME'          |'PART_NUMBER'    |'VENDOR'    |'JEDEC_TYPE'    |'ALT_SYMBOLS'    |'LAST_MODIFY'    ;
+{========================================================================================}
+ 'INA193AIDBVRG4' (~INA193AIDBVRG4)  = 'INA193AIDBVRG4'  |'05011000103'             |'TI'     |'SOT23-5'       |'(SOT23-5)'      |'2009-04-27'
+
+END_PART
+
+END.

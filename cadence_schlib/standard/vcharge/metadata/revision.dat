@@ -1,0 +1,88 @@
+(Cell	vcharge
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.1)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	05/10/07,14:58:49)
+
+			(User	Administrator)
+
+			(Path	standard.vcharge)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Sizable)
+
+					(Checksum	00000000ee784bcb)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	05/10/07,14:58:49)
+
+							(User	Administrator)
+
+							(Path	standard.vcharge)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	0000000030ba0415)
+
+		)
+
+		(Checksum	00000000f7f60371)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.20-s005)
+
+		(License	Concept_HDL_expert)
+
+	)
+
+	(Checksum	0000000037e30385)
+
+)
+

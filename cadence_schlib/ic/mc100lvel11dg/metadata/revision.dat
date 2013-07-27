@@ -1,0 +1,160 @@
+(Cell	mc100lvel11dg
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.6)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	06/16/09,18:29:55)
+
+			(User	wish.wang)
+
+			(Path	discrete.mc100lvel11dg)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000f95fd6da)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.6)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	06/16/09,18:29:55)
+
+							(User	wish.wang)
+
+							(Path	discrete.mc100lvel11dg)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001e26041a)
+
+		)
+
+		(View	Chips
+
+			(Checksum	000000000906e56f)
+
+			(Primitives	1
+
+				(Primitive	MC100LVEL11DG
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	06/16/09,18:29:55)
+
+							(User	wish.wang)
+
+							(Path	discrete.mc100lvel11dg)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	MC100LVEL11DG
+
+							(PackType	MC100LVEL11DG)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001be4038e)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.51-p002)
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001c9603ad)
+
+)
+

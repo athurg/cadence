@@ -1,0 +1,162 @@
+(Cell	cdce62005rgzt
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.3)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	04/16/09,15:08:02)
+
+			(User	wish.wang)
+
+			(Path	discrete.cdce62005rgzt)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Chips
+
+			(Checksum	0000000001dba051)
+
+			(Primitives	1
+
+				(Primitive	CDCE62005RGZT
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	04/16/09,15:08:02)
+
+							(User	wish.wang)
+
+							(Path	discrete.cdce62005rgzt)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	CDCE62005RGZT
+
+							(PackType	CDCE62005RGZT)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000e2750dae)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.3)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	04/16/09,15:08:02)
+
+							(User	wish.wang)
+
+							(Path	discrete.cdce62005rgzt)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001d740410)
+
+		)
+
+		(Checksum	000000001b500346)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.51-p002)
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001b2b0346)
+
+)
+

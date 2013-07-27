@@ -1,0 +1,162 @@
+(Cell	ad8364acpz
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.4)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	10/20/10,17:30:13)
+
+			(User	wish.wang)
+
+			(Path	lib_lib.ad8364acpz)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Chips
+
+			(Checksum	0000000037cbc15b)
+
+			(Primitives	1
+
+				(Primitive	AD8364ACPZ
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	10/20/10,17:30:13)
+
+							(User	wish.wang)
+
+							(Path	lib_lib.ad8364acpz)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	AD8364ACPZ
+
+							(PackType	AD8364ACPZ)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000bfb9f4e3)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.4)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	10/20/10,17:30:13)
+
+							(User	wish.wang)
+
+							(Path	lib_lib.ad8364acpz)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001ccf03bb)
+
+		)
+
+		(Checksum	000000001ddc0405)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.51-p002)
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001d4c03a6)
+
+)
+

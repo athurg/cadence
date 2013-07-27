@@ -1,0 +1,160 @@
+(Cell	SMP1330_005LF
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.2)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	08/05/11,14:52:16)
+
+			(User	wish.wang)
+
+			(Path	lib_lib.SMP1330_005LF)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000005f4b9ed1)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	08/05/11,14:52:16)
+
+							(User	wish.wang)
+
+							(Path	lib_lib.SMP1330_005LF)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001d7003e5)
+
+		)
+
+		(View	Chips
+
+			(Checksum	0000000004b0c113)
+
+			(Primitives	1
+
+				(Primitive	SMP1330_005LF
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	08/05/11,14:52:16)
+
+							(User	wish.wang)
+
+							(Path	lib_lib.SMP1330_005LF)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	SMP1330_005LF
+
+							(PackType	SMP1330_005LF)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001b06037c)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.51-p002)
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001b5e0377)
+
+)
+

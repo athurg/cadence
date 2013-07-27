@@ -1,0 +1,160 @@
+(Cell	mcp79410_isn
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.2)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	07/11/11,16:25:31)
+
+			(User	neon.peng)
+
+			(Path	lib_lib.mcp79410_isn)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000e277d778)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	07/11/11,16:25:31)
+
+							(User	neon.peng)
+
+							(Path	lib_lib.mcp79410_isn)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001c8e0390)
+
+		)
+
+		(View	Chips
+
+			(Checksum	000000002fc8a981)
+
+			(Primitives	1
+
+				(Primitive	MCP79410_ISN
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	07/11/11,16:25:31)
+
+							(User	neon.peng)
+
+							(Path	lib_lib.mcp79410_isn)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	MCP79410_ISN
+
+							(PackType	MCP79410_ISN)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001cb403aa)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.51-p002)
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001cd903d0)
+
+)
+

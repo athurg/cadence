@@ -1,0 +1,13 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'SN74LVC16T245DGGR'
+
+{========================================================================================}
+:VALUE               = COMP_NAME      | PART_NUMBER   | VENDOR | JEDEC_TYPE | ALT_SYMBOLS | LAST_MODIFY  ;
+{========================================================================================}
+ 'SN74LVC16T245DGGR'(~SN74LVC16T245DGGR) = 'SN74LVC16T245DGGR' | '05012500152' | 'TI'   | 'TSSOP-48'  | '(TSSOP-48)' | '2012-1-12'
+
+END_PART
+
+END.
+

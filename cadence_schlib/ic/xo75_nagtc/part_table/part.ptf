@@ -1,0 +1,22 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'xo75_nagtc'
+
+{========================================================================================}
+:VALUE=COMP_NAME|PART_NUMBER|VENDOR|JEDEC_TYPE|ALT_SYMBOLS|LAST_MODIFY;
+{========================================================================================}
+'xo75_nagtc_33.33m'(~xo75_nagtc_33.33m)='XO75_NAGTC_33.33M'|'05060100111'|'jyx'|'OSCTBD'|'(OSCTBD)'|'2009-02-10'
+'xo75_nagtc_25m'(~xo75_nagtc_25m)='XO75_NAGTC_25M'|'05060100109'|'jyx'|'OSCTBD'|'(OSCTBD)'|'2009-02-10'
+'xo75_nagtc_12m'(~xo75_nagtc_12m)='XO75_NAGTC_12M'|'05060100106'|'jyx'|'OSCTBD'|'(OSCTBD)'|'2009-02-16'
+'xo75_nagtc_33.333m'(~xo75_nagtc_33.333m)='XO75_NAGTC_33.333M'|'05060100110'|'jyx'|'OSCTBD'|'(OSCTBD)'|'2009-02-16'
+'xo75_ybgtc_2.176m'(~xo75_ybgtc_2.176m)='XO75_YBGTC_2.176M'|''|'jyx'|'OSCTBD'|'(OSCTBD)'|'2009-04-23'
+'xo75_nagrc_12m'(~xo75_nagrc_12m)='XO75_NAGRC_12M'|'05060100106'|'jyx'|'OSCTBD'|'(OSCTBD)'|'2009-05-27'
+'xo75_nagtc_50m'(~xo75_nagtc_50m)='XO75_NAGRC_50M'|'05060100112'|'jyx'|'OSCTBD'|'(OSCTBD)'|'2010-02-25'
+'xo75_nagtc_125m'(~xo75_nagtc_125m)='XO75_NAGRC_125M'|'05060000124'|'jyx'|'OSCTBD'|'(OSCTBD)'|'2011-04-14'
+'xo75_OCETGLJANF_50m'(~xo75_OCETGLJANF_50m)='xo75_OCETGLJANF_50m'|'05060000127'|'taitien'|'OSCTBD'|'(OSCTBD)'|'2011-04-28'
+'xo75_OCETGLJANF_125m'(~xo75_OCETGLJANF_125m)='xo75_OCETGLJANF_125m'|'05060000126'|'taitien'|'OSCTBD'|'(OSCTBD)'|'2011-04-28'
+'XO75_NAGTC_40M'(~XO75_NAGTC_40M)='XO75_NAGTC_40M'|'05060100126'|'jyx'|'OSCTBD'|'(OSCTBD)'|'2011-09-27'
+
+END_PART
+
+END.

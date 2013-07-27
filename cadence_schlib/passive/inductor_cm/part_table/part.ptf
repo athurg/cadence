@@ -1,0 +1,13 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'INDUCTOR_CM'
+
+{========================================================================================}
+:'VALUE'                       = 'COMP_NAME'    |'PART_NUMBER'    |'VENDOR'    |'JEDEC_TYPE'      |'ALT_SYMBOLS'       |'LAST_MODIFY'    ;
+{========================================================================================}
+ 'P0502NL' (~P0502NL)  = 'P0502NL'    |'05050700106'|'PULSE'   |'SCML-P0502NL'  |'(SCML-P0502NL)'  |'2009-05-18'
+ 'P0353NL' (~P0353NL)  = 'P0353NL'    |'05050700110'|'PULSE'   |'SCML-LCCI50'  |'(SCML-LCCI50)'  |'2009-05-18'
+
+END_PART
+
+END.

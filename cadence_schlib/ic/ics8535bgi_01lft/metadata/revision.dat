@@ -1,0 +1,160 @@
+(Cell	ICS8535BGI_01LFT
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.8)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	09/15/10,11:23:02)
+
+			(User	wish.wang)
+
+			(Path	lib_lib.ICS8535BGI_01LFT)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000004ef2d972)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.4)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	09/15/10,11:23:02)
+
+							(User	wish.wang)
+
+							(Path	lib_lib.ICS8535BGI_01LFT)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001d6c03b8)
+
+		)
+
+		(View	Chips
+
+			(Checksum	0000000029f35076)
+
+			(Primitives	1
+
+				(Primitive	ICS8535BGI_01LFT
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	09/15/10,11:23:02)
+
+							(User	wish.wang)
+
+							(Path	lib_lib.ICS8535BGI_01LFT)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	ICS8535BGI_01LFT
+
+							(PackType	ICS8535BGI_01LFT)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001b660387)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.51-p002)
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001b580352)
+
+)
+

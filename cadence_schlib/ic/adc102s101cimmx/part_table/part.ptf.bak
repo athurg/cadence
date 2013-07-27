@@ -1,0 +1,13 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'ADC102S101CIMMX'
+
+{========================================================================================}
+:VALUE=COMP_NAME|PART_NUMBER|VENDOR|JEDEC_TYPE|ALT_SYMBOLS|LAST_MODIFY;
+{========================================================================================}
+'ADC102S101CIMMX'(~ADC102S101CIMMX)='ADC102S101CIMMX'|'05011400115'|'NS'|'MSOP-8'|'(MSOP-8)'|'2010-11-02'
+
+END_PART
+
+END.
+

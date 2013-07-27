@@ -1,0 +1,14 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'TESTPOINT_RF'
+
+{========================================================================================}
+:VENDOR_PART_NUMBER(OPT)   = COMP_NAME  | PART_NUMBER | STATUS               | VENDOR | FUNCTION | JEDEC_TYPE      | ALT_SYMBOLS       | DESCRIPTION | COST | LAST_MODIFY ;
+{========================================================================================}
+ 'RFFUTEST'(!)             = 'RFFUTEST' | 'RFFUTEST'  | 'DO-NSV-NV-NSIMV' | 'ZTE'  | ''       | 'TESTPOINT-2R9' | '(TESTPOINT-2R9)' | ''          | ''   | '2006-6-5' 
+
+
+END_PART
+
+END.
+

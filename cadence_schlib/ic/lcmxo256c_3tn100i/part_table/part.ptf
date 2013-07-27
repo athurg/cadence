@@ -1,0 +1,12 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'LCMXO256C_3TN100I'
+
+{========================================================================================}
+:'VALUE'                             = 'COMP_NAME'        |'PART_NUMBER'    |'VENDOR'    |'JEDEC_TYPE'    |'ALT_SYMBOLS'    |'LAST_MODIFY'    ;
+{========================================================================================}
+ 'LCMXO256C_3TN100I' (~LCMXO256C_3TN100I)  = 'LCMXO256C_3TN100I'  |'05012700140'  |'Lattice'  |'TQFP-100'    |'(TQFP-100)'   |'2010-06-30'
+
+END_PART
+
+END.

@@ -1,0 +1,738 @@
+(Cell	xc4vsx35_10ffg668i
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.1)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	08/13/09,17:57:23)
+
+			(User	ray.zhou)
+
+			(Path	ic_lib.xc4vsx35_10ffg668i)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Chips
+
+			(Checksum	000000004e8b60e3)
+
+			(Primitives	1
+
+				(Primitive	XC4VSX35_10FFG668I
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	08/13/09,17:57:23)
+
+							(User	ray.zhou)
+
+							(Path	ic_lib.xc4vsx35_10ffg668i)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	XC4VSX35_10FFG668I
+
+							(PackType	XC4VSX35_10FFG668I)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	13
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+							(FunctionGroup	2[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_2)
+
+									)
+
+								)
+
+							)
+
+							(FunctionGroup	3[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_3)
+
+									)
+
+								)
+
+							)
+
+							(FunctionGroup	4[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_4)
+
+									)
+
+								)
+
+							)
+
+							(FunctionGroup	5[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_5)
+
+									)
+
+								)
+
+							)
+
+							(FunctionGroup	6[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_6)
+
+									)
+
+								)
+
+							)
+
+							(FunctionGroup	7[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_7)
+
+									)
+
+								)
+
+							)
+
+							(FunctionGroup	8[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_8)
+
+									)
+
+								)
+
+							)
+
+							(FunctionGroup	9[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_9)
+
+									)
+
+								)
+
+							)
+
+							(FunctionGroup	10[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_10)
+
+									)
+
+								)
+
+							)
+
+							(FunctionGroup	11[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_11)
+
+									)
+
+								)
+
+							)
+
+							(FunctionGroup	12[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_12)
+
+									)
+
+								)
+
+							)
+
+							(FunctionGroup	13[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_13)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(View	Symbol
+
+			(Symbols	13
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000e3ea6c4c)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	08/13/09,17:57:23)
+
+							(User	ray.zhou)
+
+							(Path	ic_lib.xc4vsx35_10ffg668i)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_2
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000000290db50)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	08/13/09,17:57:23)
+
+							(User	ray.zhou)
+
+							(Path	ic_lib.xc4vsx35_10ffg668i)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_3
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	0000000090bad760)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	08/13/09,17:57:23)
+
+							(User	ray.zhou)
+
+							(Path	ic_lib.xc4vsx35_10ffg668i)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_4
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000e35edcd4)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	08/13/09,17:57:23)
+
+							(User	ray.zhou)
+
+							(Path	ic_lib.xc4vsx35_10ffg668i)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_5
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000f259dcf4)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	08/13/09,17:57:23)
+
+							(User	ray.zhou)
+
+							(Path	ic_lib.xc4vsx35_10ffg668i)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_6
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000c29f2bcd)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	08/13/09,17:57:23)
+
+							(User	ray.zhou)
+
+							(Path	ic_lib.xc4vsx35_10ffg668i)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_7
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000a5e12c0c)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	08/13/09,17:57:23)
+
+							(User	ray.zhou)
+
+							(Path	ic_lib.xc4vsx35_10ffg668i)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_8
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000002a443577)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	08/13/09,17:57:23)
+
+							(User	ray.zhou)
+
+							(Path	ic_lib.xc4vsx35_10ffg668i)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_9
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000007f502acf)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	08/13/09,17:57:23)
+
+							(User	ray.zhou)
+
+							(Path	ic_lib.xc4vsx35_10ffg668i)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_10
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000004d582cc9)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	08/13/09,17:57:23)
+
+							(User	ray.zhou)
+
+							(Path	ic_lib.xc4vsx35_10ffg668i)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_11
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000006a4f279f)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	08/13/09,17:57:23)
+
+							(User	ray.zhou)
+
+							(Path	ic_lib.xc4vsx35_10ffg668i)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_12
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	0000000034960deb)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	08/13/09,17:57:23)
+
+							(User	ray.zhou)
+
+							(Path	ic_lib.xc4vsx35_10ffg668i)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_13
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000008d642171)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	08/13/09,17:57:23)
+
+							(User	ray.zhou)
+
+							(Path	ic_lib.xc4vsx35_10ffg668i)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001a8e0359)
+
+		)
+
+		(Checksum	000000001c440381)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.51-p002)
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001b430349)
+
+)
+

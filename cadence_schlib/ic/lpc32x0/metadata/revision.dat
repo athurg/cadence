@@ -1,0 +1,304 @@
+(Cell	lpc32x0
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.4)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	05/19/10,09:45:54)
+
+			(User	ray.zhou)
+
+			(Path	pro_lib_lib.lpc32x0)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	4
+
+				(Symbol	sym_4
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000b5ce3a1b)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.3)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	05/19/10,09:45:54)
+
+							(User	ray.zhou)
+
+							(Path	pro_lib_lib.lpc32x0)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_3
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000008e2e25e4)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	05/19/10,09:45:54)
+
+							(User	ray.zhou)
+
+							(Path	pro_lib_lib.lpc32x0)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_2
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000407c0dd4)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	05/19/10,09:45:54)
+
+							(User	ray.zhou)
+
+							(Path	pro_lib_lib.lpc32x0)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000502f251e)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	05/19/10,09:45:54)
+
+							(User	ray.zhou)
+
+							(Path	pro_lib_lib.lpc32x0)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001d3503b4)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000332679ae)
+
+			(Primitives	1
+
+				(Primitive	LPC32X0
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.3)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	05/19/10,09:45:54)
+
+							(User	ray.zhou)
+
+							(Path	pro_lib_lib.lpc32x0)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	LPC32X0
+
+							(PackType	LPC32X0)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	4
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+							(FunctionGroup	2[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_2)
+
+									)
+
+								)
+
+							)
+
+							(FunctionGroup	3[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_3)
+
+									)
+
+								)
+
+							)
+
+							(FunctionGroup	4[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_4)
+
+									)
+
+								)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001b960380)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.51-p002)
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001b63034e)
+
+)
+

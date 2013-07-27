@@ -1,0 +1,14 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'DC_SOT6'
+
+{========================================================================================}
+:VALUE=COMP_NAME|PART_NUMBER|VENDOR|JEDEC_TYPE|ALT_SYMBOLS|LAST_MODIFY;
+{========================================================================================}
+'Coup_DC09-73LF'(~Coup_DC09-73LF)='Coup_DC09-73LF'|'05010700169'|'SKYWORKS'|'SOT-6'|'(SOT-6)'|'2012-01-17'
+'Coup_D20C'(~Coup_D20C)='Coup_D20C'|'05010700166'|'Mini-Circuits'|'SOT-6'|'(SOT-6)'|'2012-01-17'
+
+END_PART
+
+END.
+

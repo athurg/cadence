@@ -1,0 +1,160 @@
+(Cell	CON_TSM_122_02
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.3)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	09/02/09,10:09:35)
+
+			(User	wish.wang)
+
+			(Path	lib_lib.CON_TSM_122_02)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000dc93deea)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	09/02/09,10:09:35)
+
+							(User	wish.wang)
+
+							(Path	lib_lib.CON_TSM_122_02)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001ee40443)
+
+		)
+
+		(View	Chips
+
+			(Checksum	000000002debbcfa)
+
+			(Primitives	1
+
+				(Primitive	CON_TSM_122_02
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	09/02/09,10:09:35)
+
+							(User	wish.wang)
+
+							(Path	lib_lib.CON_TSM_122_02)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	CON_TSM_122_02
+
+							(PackType	CON_TSM_122_02)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001e5e040c)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.51-p002)
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001c7103a8)
+
+)
+

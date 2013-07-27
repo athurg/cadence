@@ -1,0 +1,17 @@
+
+	(Comment
+		(Time 02/19/09,10:29:48)
+		(User ray.zhou)
+		(MsgId ECO_022)
+		(Text "Package RJ45 deleted from cell")
+		(Param1 RJ45)
+	)
+	(Comment
+		(Time 02/19/09,10:29:51)
+		(User ray.zhou)
+		(MsgId ECO_021)
+		(Text "Package RJ45 added to cell")
+		(Param1 RJ45)
+	)
+
+

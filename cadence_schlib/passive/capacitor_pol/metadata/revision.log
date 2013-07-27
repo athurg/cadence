@@ -1,0 +1,81 @@
+
+	(Comment
+		(Time 02/11/09,16:00:18)
+		(User ray.zhou)
+		(MsgId ECO_022)
+		(Text "Package CAPACITOR_POL_3216T deleted from cell")
+		(Param1 CAPACITOR_POL_3216T)
+	)
+	(Comment
+		(Time 02/11/09,16:00:19)
+		(User ray.zhou)
+		(MsgId ECO_022)
+		(Text "Package CAPACITOR_POL_3528T deleted from cell")
+		(Param1 CAPACITOR_POL_3528T)
+	)
+	(Comment
+		(Time 02/11/09,16:00:19)
+		(User ray.zhou)
+		(MsgId ECO_022)
+		(Text "Package CAPACITOR_POL_6032T deleted from cell")
+		(Param1 CAPACITOR_POL_6032T)
+	)
+	(Comment
+		(Time 02/11/09,16:00:20)
+		(User ray.zhou)
+		(MsgId ECO_022)
+		(Text "Package CAPACITOR_POL_7343T deleted from cell")
+		(Param1 CAPACITOR_POL_7343T)
+	)
+	(Comment
+		(Time 02/11/09,16:00:21)
+		(User ray.zhou)
+		(MsgId ECO_022)
+		(Text "Package CAPACITOR_POL_CA42 deleted from cell")
+		(Param1 CAPACITOR_POL_CA42)
+	)
+	(Comment
+		(Time 02/11/09,16:00:21)
+		(User ray.zhou)
+		(MsgId ECO_022)
+		(Text "Package CAPACITOR_POL_CD110 deleted from cell")
+		(Param1 CAPACITOR_POL_CD110)
+	)
+	(Comment
+		(Time 02/11/09,16:00:22)
+		(User ray.zhou)
+		(MsgId ECO_022)
+		(Text "Package CAPACITOR_POL_SM deleted from cell")
+		(Param1 CAPACITOR_POL_SM)
+	)
+	(Comment
+		(Time 02/11/09,16:00:23)
+		(User ray.zhou)
+		(MsgId ECO_022)
+		(Text "Package CAPACITOR_POL_4028T deleted from cell")
+		(Param1 CAPACITOR_POL_4028T)
+	)
+	(Comment
+		(Time 02/11/09,16:00:25)
+		(User ray.zhou)
+		(MsgId ECO_082)
+		(Text "Symbol sym_2 deleted from cell")
+		(Param1 sym_2)
+	)
+	(Comment
+		(Time 02/11/09,16:00:27)
+		(User ray.zhou)
+		(MsgId ECO_082)
+		(Text "Symbol sym_3 deleted from cell")
+		(Param1 sym_3)
+	)
+	(Comment
+		(Time 02/11/09,16:00:28)
+		(User ray.zhou)
+		(MsgId ECO_082)
+		(Text "Symbol sym_4 deleted from cell")
+		(Param1 sym_4)
+	)
+
+
+

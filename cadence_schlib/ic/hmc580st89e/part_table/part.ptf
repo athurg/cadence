@@ -1,0 +1,13 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'hmc580st89e'
+
+{========================================================================================}
+:VALUE=COMP_NAME|PART_NUMBER|VENDOR|JEDEC_TYPE|ALT_SYMBOLS|LAST_MODIFY;
+{========================================================================================}
+'hmc580st89e'(~hmc580st89e)='HMC580ST89E'|'05010100158'|'hittite'|'SOT-89'|'(SOT-89)'|'2009-02-10'
+
+END_PART
+
+END.
+

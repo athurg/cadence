@@ -1,0 +1,592 @@
+(Cell	epm570f256i5
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.17)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	02/03/09,16:48:56)
+
+			(User	ray.zhou)
+
+			(Path	project_lib_lib.epm570f256i5)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	10
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000003e3d911a)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.5)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	02/03/09,16:48:56)
+
+							(User	ray.zhou)
+
+							(Path	project_lib_lib.epm570f256i5)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_2
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000b2e0e6ec)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.6)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	02/03/09,16:48:56)
+
+							(User	ray.zhou)
+
+							(Path	project_lib_lib.epm570f256i5)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_3
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000296bdc94)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.6)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	02/03/09,16:48:56)
+
+							(User	ray.zhou)
+
+							(Path	project_lib_lib.epm570f256i5)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_4
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	0000000088e23b24)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.6)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	02/03/09,16:48:56)
+
+							(User	ray.zhou)
+
+							(Path	project_lib_lib.epm570f256i5)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_5
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000ea033939)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.5)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	02/03/09,16:48:56)
+
+							(User	ray.zhou)
+
+							(Path	project_lib_lib.epm570f256i5)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_6
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000f580c213)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.6)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	02/03/09,16:48:56)
+
+							(User	ray.zhou)
+
+							(Path	project_lib_lib.epm570f256i5)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_7
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000d7aabea5)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.6)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	02/03/09,16:48:56)
+
+							(User	ray.zhou)
+
+							(Path	project_lib_lib.epm570f256i5)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_8
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000000950973e)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.7)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	02/03/09,16:48:56)
+
+							(User	ray.zhou)
+
+							(Path	project_lib_lib.epm570f256i5)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_9
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	0000000091049589)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.6)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	02/03/09,16:48:56)
+
+							(User	ray.zhou)
+
+							(Path	project_lib_lib.epm570f256i5)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_10
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000310f11a8)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.9)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	02/03/09,16:48:56)
+
+							(User	ray.zhou)
+
+							(Path	project_lib_lib.epm570f256i5)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001cb103bf)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000f1255cf8)
+
+			(Primitives	1
+
+				(Primitive	EPM570F256I5
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	02/03/09,16:48:56)
+
+							(User	ray.zhou)
+
+							(Path	project_lib_lib.epm570f256i5)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	EPM570F256I5
+
+							(PackType	EPM570F256I5)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	10
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+							(FunctionGroup	2[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_2)
+
+									)
+
+								)
+
+							)
+
+							(FunctionGroup	3[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_3)
+
+									)
+
+								)
+
+							)
+
+							(FunctionGroup	4[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_4)
+
+									)
+
+								)
+
+							)
+
+							(FunctionGroup	5[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_5)
+
+									)
+
+								)
+
+							)
+
+							(FunctionGroup	6[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_6)
+
+									)
+
+								)
+
+							)
+
+							(FunctionGroup	7[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_7)
+
+									)
+
+								)
+
+							)
+
+							(FunctionGroup	8[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_8)
+
+									)
+
+								)
+
+							)
+
+							(FunctionGroup	9[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_9)
+
+									)
+
+								)
+
+							)
+
+							(FunctionGroup	10[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_10)
+
+									)
+
+								)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001cde03af)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.51-p002)
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001ddf0408)
+
+)
+

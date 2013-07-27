@@ -1,0 +1,14 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'NULL_1'
+
+{========================================================================================}
+:VENDOR_PART_NUMBER(OPT)    = COMP_NAME | PART_NUMBER | STATUS            | VENDOR | FUNCTION       | JEDEC_TYPE | ALT_SYMBOLS | DESCRIPTION | DEFAULT_SIGNAL_MODEL | LAST_MODIFY  ;
+{========================================================================================}
+ 'NULL_1'(~NULL_1)          = 'NULL_1'  | 'NULL_1'    | 'DO-NSV-NV-NSIMV' | 'ZTE'  | 'zte standard' | 'NULL-1'   | '(NULL-1)'  | ''          | ''                   | '2007-02-15'
+
+
+END_PART
+
+END.
+

@@ -1,0 +1,162 @@
+(Cell	hc_49s_g20ssa_8m
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.3)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	07/08/11,09:29:46)
+
+			(User	neon.peng)
+
+			(Path	lib_lib.hc_49s_g20ssa_8m)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Chips
+
+			(Checksum	00000000c12f975d)
+
+			(Primitives	1
+
+				(Primitive	HC_49S_G20SSA_8M
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	07/08/11,09:29:46)
+
+							(User	neon.peng)
+
+							(Path	lib_lib.hc_49s_g20ssa_8m)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	HC_49S_G20SSA_8M
+
+							(PackType	HC_49S_G20SSA_8M)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000009bb4635c)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.3)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	07/08/11,09:29:46)
+
+							(User	neon.peng)
+
+							(Path	lib_lib.hc_49s_g20ssa_8m)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001e4b0414)
+
+		)
+
+		(Checksum	000000001c2f0376)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.51-p002)
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001c34037d)
+
+)
+

@@ -1,0 +1,13 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'AD7918BRUZ'
+
+{========================================================================================}
+:VALUE           = COMP_NAME  | PART_NUMBER   | VENDOR    | JEDEC_TYPE | ALT_SYMBOLS  | LAST_MODIFY  ;
+{========================================================================================}
+ 'AD7918BRUZ'(~AD7918BRUZ) = 'AD7918BRUZ' | '05011200004' | 'ADI' | 'TSSOP-20' | '(TSSOP-20)' | '2009-02-13'
+
+END_PART
+
+END.
+

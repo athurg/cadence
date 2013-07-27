@@ -1,0 +1,160 @@
+(Cell	CON_DMP3_3W3P_193
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.3)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	07/12/10,16:01:48)
+
+			(User	wish.wang)
+
+			(Path	lib_lib.CON_DMP3_3W3P_193)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000156c7168)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	07/12/10,16:01:48)
+
+							(User	wish.wang)
+
+							(Path	lib_lib.CON_DMP3_3W3P_193)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001b110356)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000c552c749)
+
+			(Primitives	1
+
+				(Primitive	CON_DMP3_3W3P_193
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	07/12/10,16:01:48)
+
+							(User	wish.wang)
+
+							(Path	lib_lib.CON_DMP3_3W3P_193)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	CON_DMP3_3W3P_193
+
+							(PackType	CON_DMP3_3W3P_193)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001d1203e2)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.51-p002)
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001b890373)
+
+)
+

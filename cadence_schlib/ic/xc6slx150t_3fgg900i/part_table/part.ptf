@@ -1,0 +1,12 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'XC6SLX150T_3FGG900I'
+
+{========================================================================================}
+:VALUE=COMP_NAME|PART_NUMBER|VENDOR|JEDEC_TYPE|ALT_SYMBOLS|LAST_MODIFY;
+{========================================================================================}
+'XC6SLX150T_3FGG900I'(~XC6SLX150T_3FGG900I)='XC6SLX150T_3FGG900I'|'05012700146'|'xilinx'|'BGA10-900'|'(BGA10-900)'|'2010-10-21'
+
+END_PART
+
+END.

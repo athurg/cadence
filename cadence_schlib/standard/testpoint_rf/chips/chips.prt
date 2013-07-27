@@ -1,0 +1,22 @@
+FILE_TYPE=LIBRARY_PARTS;
+primitive 'TESTPOINT_RF';
+  pin
+    'GND':
+      PIN_NUMBER='(2)';
+      PINUSE='GROUND';
+    'SIG':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      ALLOW_CONNECT='TRUE';
+  end_pin;
+  body
+    PART_NAME='TESTPOINT_RF';
+    BODY_NAME='TESTPOINT_RF';
+    PHYS_DES_PREFIX='TP';
+    CLASS='IO';
+  end_body;
+end_primitive;
+
+END.

@@ -1,0 +1,19 @@
+FILE_TYPE=LIBRARY_PARTS;
+primitive 'TP_GND';
+  pin
+    'TP':
+      PIN_NUMBER='(1)';
+      PIN_TYPE='ANALOG';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      ALLOW_CONNECT='TRUE';
+  end_pin;
+  body
+    PART_NAME='TP_GND';
+    BODY_NAME='TP_GND';
+    PHYS_DES_PREFIX='TP_GND';
+    CLASS='DISCRETE';
+  end_body;
+end_primitive;
+
+END.

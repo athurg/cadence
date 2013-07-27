@@ -1,0 +1,160 @@
+(Cell	Coup_DC0710J5020AHF
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.3)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	11/16/11,17:56:04)
+
+			(User	neon.peng)
+
+			(Path	lib_creation_lib.Coup_DC0710J5020AHF)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000001235d5c7)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	11/16/11,17:56:04)
+
+							(User	neon.peng)
+
+							(Path	lib_creation_lib.Coup_DC0710J5020AHF)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001b1d037f)
+
+		)
+
+		(View	Chips
+
+			(Checksum	000000002d3b4e91)
+
+			(Primitives	1
+
+				(Primitive	COUP_DC0710J5020AHF
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	11/16/11,17:56:04)
+
+							(User	neon.peng)
+
+							(Path	lib_creation_lib.Coup_DC0710J5020AHF)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	COUP_DC0710J5020AHF
+
+							(PackType	COUP_DC0710J5020AHF)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001a4a0322)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.51-p002)
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001c0b036f)
+
+)
+

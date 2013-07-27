@@ -1,0 +1,12 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'AT25DF321A_SH_B'
+
+{========================================================================================}
+:'VALUE'                                   = 'COMP_NAME'    |'PART_NUMBER'    |'VENDOR'    |'JEDEC_TYPE'    |'ALT_SYMBOLS'    |'LAST_MODIFY'    ;
+{========================================================================================}
+ 'AT25DF321A_SH_B' (~AT25DF321A_SH_B)  = 'AT25DF321A_SH_B'  |'05012800160'  |'ATMEL'     |'SOIC-8'   |'(SOIC-8)'  |'2011-07-08'   
+
+END_PART
+
+END.

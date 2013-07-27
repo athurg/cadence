@@ -1,0 +1,160 @@
+(Cell	hmc194ms8e
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.4)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	02/10/09,10:18:50)
+
+			(User	ray.zhou)
+
+			(Path	passive_lib.hmc194ms8e)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000420cd59e)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	02/10/09,10:18:50)
+
+							(User	ray.zhou)
+
+							(Path	passive_lib.hmc194ms8e)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001be303b1)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000df66a512)
+
+			(Primitives	1
+
+				(Primitive	HMC194MS8E
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	02/10/09,10:18:50)
+
+							(User	ray.zhou)
+
+							(Path	passive_lib.hmc194ms8e)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	HMC194MS8E
+
+							(PackType	HMC194MS8E)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001e2803e5)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.51-p002)
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001bb7037e)
+
+)
+

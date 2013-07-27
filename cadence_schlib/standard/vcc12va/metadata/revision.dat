@@ -1,0 +1,90 @@
+(Cell	vcc12va
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.2)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	02/11/09,19:11:47)
+
+			(User	wish.wang)
+
+			(Path	standard.vcc12va)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Sizable)
+
+					(Max_Size	0)
+
+					(Checksum	0000000094ee441e)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	02/11/09,19:11:47)
+
+							(User	wish.wang)
+
+							(Path	standard.vcc12va)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001c8e03b6)
+
+		)
+
+		(Checksum	000000001ca903ad)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.51-p002)
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001cef03d7)
+
+)
+

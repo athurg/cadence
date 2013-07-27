@@ -1,0 +1,88 @@
+(Cell	vsim
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.1)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	05/10/07,14:40:18)
+
+			(User	Administrator)
+
+			(Path	standard.vsim)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Sizable)
+
+					(Checksum	00000000e1c24a49)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	05/10/07,14:40:18)
+
+							(User	Administrator)
+
+							(Path	standard.vsim)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	00000000c5b503ae)
+
+		)
+
+		(Checksum	00000000733303d9)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.20-s005)
+
+		(License	Concept_HDL_expert)
+
+	)
+
+	(Checksum	00000000f8740351)
+
+)
+

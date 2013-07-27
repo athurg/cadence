@@ -1,0 +1,13 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'CON_SIP762_3'
+
+{========================================================================================}
+:VALUE           = COMP_NAME  | PART_NUMBER   | VENDOR    | JEDEC_TYPE | ALT_SYMBOLS  | LAST_MODIFY  ;
+{========================================================================================}
+ 'CON_SIP762_3'(~CON_SIP762_3) = 'CON_SIP762_3' | '06030100169' | 'Dinkle' | 'CON-SIP762-3' | '(CON-SIP762-3)' | '2010-03-11'
+
+END_PART
+
+END.
+

@@ -1,0 +1,160 @@
+(Cell	lmx2531lq1910e
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.5)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	02/05/09,12:41:52)
+
+			(User	ray.zhou)
+
+			(Path	project_lib_lib.lmx2531lq1910e)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000df0b0476)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.5)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	02/05/09,12:41:52)
+
+							(User	ray.zhou)
+
+							(Path	project_lib_lib.lmx2531lq1910e)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001dc403ae)
+
+		)
+
+		(View	Chips
+
+			(Checksum	0000000000d8b11a)
+
+			(Primitives	1
+
+				(Primitive	LMX2531LQ1910E
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	02/05/09,12:41:52)
+
+							(User	ray.zhou)
+
+							(Path	project_lib_lib.lmx2531lq1910e)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	LMX2531LQ1910E
+
+							(PackType	LMX2531LQ1910E)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001d8203e4)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.51-p002)
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001bb5037c)
+
+)
+

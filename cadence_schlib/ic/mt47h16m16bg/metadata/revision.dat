@@ -1,0 +1,160 @@
+(Cell	mt47h16m16bg
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.7)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	02/03/09,17:51:07)
+
+			(User	ray.zhou)
+
+			(Path	project_lib_lib.mt47h16m16bg)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000aa33eb2c)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.6)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	02/03/09,17:51:07)
+
+							(User	ray.zhou)
+
+							(Path	project_lib_lib.mt47h16m16bg)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001e310405)
+
+		)
+
+		(View	Chips
+
+			(Checksum	0000000054ee67b8)
+
+			(Primitives	1
+
+				(Primitive	MT47H16M16BG
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	02/03/09,17:51:07)
+
+							(User	ray.zhou)
+
+							(Path	project_lib_lib.mt47h16m16bg)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	MT47H16M16BG
+
+							(PackType	MT47H16M16BG)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001c3703e0)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.51-p002)
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001ba50377)
+
+)
+

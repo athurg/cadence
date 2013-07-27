@@ -1,0 +1,162 @@
+(Cell	ipl1_125_02_l_d_ra_k
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.1)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	12/11/09,10:58:10)
+
+			(User	ray.zhou)
+
+			(Path	pro_lib_lib.ipl1_125_02_l_d_ra_k)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Chips
+
+			(Checksum	00000000bae1bdb6)
+
+			(Primitives	1
+
+				(Primitive	IPL1_125_02_L_D_RA_K
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	12/11/09,10:58:10)
+
+							(User	ray.zhou)
+
+							(Path	pro_lib_lib.ipl1_125_02_l_d_ra_k)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	IPL1_125_02_L_D_RA_K
+
+							(PackType	IPL1_125_02_L_D_RA_K)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000ea4fe12d)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	12/11/09,10:58:10)
+
+							(User	ray.zhou)
+
+							(Path	pro_lib_lib.ipl1_125_02_l_d_ra_k)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001c8b03b2)
+
+		)
+
+		(Checksum	000000001c9603a6)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.51-p002)
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001bc2037e)
+
+)
+

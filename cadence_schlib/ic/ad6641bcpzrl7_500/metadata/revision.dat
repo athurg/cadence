@@ -1,0 +1,160 @@
+(Cell	ad6641bcpzrl7_500
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.4)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	01/12/12,18:04:36)
+
+			(User	neon.peng)
+
+			(Path	lib_creation_lib.ad6641bcpzrl7_500)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000f283fe70)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.3)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	01/12/12,18:04:36)
+
+							(User	neon.peng)
+
+							(Path	lib_creation_lib.ad6641bcpzrl7_500)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001d1203b6)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000086ebf67)
+
+			(Primitives	1
+
+				(Primitive	AD6641BCPZRL7_500
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	01/12/12,18:04:36)
+
+							(User	neon.peng)
+
+							(Path	lib_creation_lib.ad6641bcpzrl7_500)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	AD6641BCPZRL7_500
+
+							(PackType	AD6641BCPZRL7_500)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001afe037b)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.51-p002)
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001d8503da)
+
+)
+

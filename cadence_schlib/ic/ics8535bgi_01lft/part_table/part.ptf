@@ -1,0 +1,12 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'ICS8535BGI_01LFT'
+
+{========================================================================================}
+:'VALUE'                                 = 'COMP_NAME'           |'PART_NUMBER'    |'VENDOR'    |'JEDEC_TYPE'    |'ALT_SYMBOLS'    |'LAST_MODIFY'    ;
+{========================================================================================}
+ 'ICS8535BGI_01LFT' (~ICS8535BGI_01LFT)  = 'ICS8535BGI_01LFT'  |'05013000009'  |'IDT'     |'TSSOP-20'    |'(TSSOP-20)'   |'2010-09-15'   
+
+END_PART
+
+END.

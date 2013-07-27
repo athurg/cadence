@@ -1,0 +1,160 @@
+(Cell	OVETGLJTNF_50MHz
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.2)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	03/19/12,10:35:43)
+
+			(User	neon.peng)
+
+			(Path	lib_creation_lib.OVETGLJTNF_50MHz)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000958992e7)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	03/19/12,10:35:43)
+
+							(User	neon.peng)
+
+							(Path	lib_creation_lib.OVETGLJTNF_50MHz)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001af30367)
+
+		)
+
+		(View	Chips
+
+			(Checksum	0000000063f2d53a)
+
+			(Primitives	1
+
+				(Primitive	OVETGLJTNF_50MHZ
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	03/19/12,10:35:43)
+
+							(User	neon.peng)
+
+							(Path	lib_creation_lib.OVETGLJTNF_50MHz)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	OVETGLJTNF_50MHZ
+
+							(PackType	OVETGLJTNF_50MHZ)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001ddd03e5)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.51-p002)
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001db803db)
+
+)
+

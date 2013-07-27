@@ -1,0 +1,160 @@
+(Cell	FUSE
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.12)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	09/17/09,11:23:02)
+
+			(User	wish.wang)
+
+			(Path	lib_lib.FUSE)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	0000000059476cdb)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.11)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	09/17/09,11:23:02)
+
+							(User	wish.wang)
+
+							(Path	lib_lib.FUSE)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001b7d03b9)
+
+		)
+
+		(View	Chips
+
+			(Checksum	0000000090448f34)
+
+			(Primitives	1
+
+				(Primitive	FUSE
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	09/17/09,11:23:02)
+
+							(User	wish.wang)
+
+							(Path	lib_lib.FUSE)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	FUSE
+
+							(PackType	FUSE)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001e75040c)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.51-p002)
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001b8d037a)
+
+)
+

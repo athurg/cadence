@@ -1,0 +1,13 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'YC124'
+
+{========================================================================================}
+:VENDOR_PART_NUMBER | VALUE = PART_NUMBER | COMP_NAME | VENDOR | JEDEC_TYPE | ALT_SYMBOLS | LAST_MODIFY ;
+{========================================================================================}
+ 'YC124-JR-07-33R'|'33R'(~YC124-JR-07-33R)='05030900001' |'YC124 RESISTOR 33 5% 1/16W' |'YAGEO' |'SAR-YC124' |'(SAR-YC124)' |'2009-5-27'
+
+END_PART
+
+END.
+

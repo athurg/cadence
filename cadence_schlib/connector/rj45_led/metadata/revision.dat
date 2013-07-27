@@ -1,0 +1,160 @@
+(Cell	RJ45_LED
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.3)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	04/22/11,16:27:22)
+
+			(User	wish.wang)
+
+			(Path	lib_lib.RJ45_LED)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000b27ed35f)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	04/22/11,16:27:22)
+
+							(User	wish.wang)
+
+							(Path	lib_lib.RJ45_LED)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001d7a03e3)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000696ec14b)
+
+			(Primitives	1
+
+				(Primitive	RJ45_LED
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	04/22/11,16:27:22)
+
+							(User	wish.wang)
+
+							(Path	lib_lib.RJ45_LED)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	RJ45_LED
+
+							(PackType	RJ45_LED)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001c7403bb)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.51-p002)
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001bda03a7)
+
+)
+

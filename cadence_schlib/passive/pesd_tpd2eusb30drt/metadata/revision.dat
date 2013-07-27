@@ -1,0 +1,160 @@
+(Cell	pesd_tpd2eusb30drt
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.4)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	12/15/11,11:47:15)
+
+			(User	neon.peng)
+
+			(Path	lib_creation_lib.pesd_tpd2eusb30drt)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000fe50743a)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	12/15/11,11:47:15)
+
+							(User	neon.peng)
+
+							(Path	lib_creation_lib.pesd_tpd2eusb30drt)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001d3003b0)
+
+		)
+
+		(View	Chips
+
+			(Checksum	000000000acdc998)
+
+			(Primitives	1
+
+				(Primitive	PESD_TPD2EUSB30DRT
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.3)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	12/15/11,11:47:15)
+
+							(User	neon.peng)
+
+							(Path	lib_creation_lib.pesd_tpd2eusb30drt)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	PESD_TPD2EUSB30DRT
+
+							(PackType	PESD_TPD2EUSB30DRT)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001d9103e7)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.51-p002)
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001bb9037f)
+
+)
+

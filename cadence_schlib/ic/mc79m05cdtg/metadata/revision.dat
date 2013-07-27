@@ -1,0 +1,160 @@
+(Cell	MC79M05CDTG
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.1)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	03/27/12,16:06:03)
+
+			(User	neon.peng)
+
+			(Path	lib_creation_lib.MC79M05CDTG)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	0000000075c7769c)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	03/27/12,16:06:03)
+
+							(User	neon.peng)
+
+							(Path	lib_creation_lib.MC79M05CDTG)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001bb30390)
+
+		)
+
+		(View	Chips
+
+			(Checksum	000000004fd9c47e)
+
+			(Primitives	1
+
+				(Primitive	MC79M05CDTG
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	03/27/12,16:06:03)
+
+							(User	neon.peng)
+
+							(Path	lib_creation_lib.MC79M05CDTG)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	MC79M05CDTG
+
+							(PackType	MC79M05CDTG)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001d6603e4)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.51-p002)
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001bbd037e)
+
+)
+

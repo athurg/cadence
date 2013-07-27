@@ -1,0 +1,12 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'XO14N_YBGTG'
+
+{========================================================================================}
+:'VALUE'                         = 'COMP_NAME'          |'PART_NUMBER'    |'VENDOR'    |'JEDEC_TYPE'    |'ALT_SYMBOLS'    |'LAST_MODIFY'    ;
+{========================================================================================}
+ 'XO14N-YBGTG-2.176M' (~XO14N-YBGTG-2.176M)  = 'XO14N-YBGTG-2.176M'  |'05060100104'             |'JFVNY'     |'XO14N'       |'(XO14N)'      |'2009-04-24'
+
+END_PART
+
+END.

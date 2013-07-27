@@ -1,0 +1,160 @@
+(Cell	DIODE_BAV70
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.2)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	09/21/11,14:20:41)
+
+			(User	wish.wang)
+
+			(Path	lib_lib.DIODE_BAV70)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000ee17a59d)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	09/21/11,14:20:41)
+
+							(User	wish.wang)
+
+							(Path	lib_lib.DIODE_BAV70)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001ded03e6)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000affdc7a5)
+
+			(Primitives	1
+
+				(Primitive	DIODE_BAV70
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	09/21/11,14:20:41)
+
+							(User	wish.wang)
+
+							(Path	lib_lib.DIODE_BAV70)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	DIODE_BAV70
+
+							(PackType	DIODE_BAV70)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	00000000206b046d)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.51-p002)
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001b0a0379)
+
+)
+

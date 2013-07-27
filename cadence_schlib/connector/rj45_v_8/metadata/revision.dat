@@ -1,0 +1,160 @@
+(Cell	RJ45_V_8
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.7)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	06/12/10,10:47:52)
+
+			(User	wish.wang)
+
+			(Path	lib_lib.RJ45_V_8)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000928625cb)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.6)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	06/12/10,10:47:52)
+
+							(User	wish.wang)
+
+							(Path	lib_lib.RJ45_V_8)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001ae30386)
+
+		)
+
+		(View	Chips
+
+			(Checksum	0000000044e96059)
+
+			(Primitives	1
+
+				(Primitive	RJ45_V_8
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.4)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	06/12/10,10:47:52)
+
+							(User	wish.wang)
+
+							(Path	lib_lib.RJ45_V_8)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	RJ45_V_8
+
+							(PackType	RJ45_V_8)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001e220415)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.51-p002)
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001b340345)
+
+)
+

@@ -1,0 +1,160 @@
+(Cell	INDUCTOR_CM
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.2)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	05/15/09,09:38:05)
+
+			(User	wish.wang)
+
+			(Path	discrete.INDUCTOR_CM)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000009b0bd65f)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	05/15/09,09:38:05)
+
+							(User	wish.wang)
+
+							(Path	discrete.INDUCTOR_CM)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001d5203e3)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000559af09a)
+
+			(Primitives	1
+
+				(Primitive	INDUCTOR_CM
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	05/15/09,09:38:05)
+
+							(User	wish.wang)
+
+							(Path	discrete.INDUCTOR_CM)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	INDUCTOR_CM
+
+							(PackType	INDUCTOR_CM)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001d3903e7)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.51-p002)
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001bbd0381)
+
+)
+

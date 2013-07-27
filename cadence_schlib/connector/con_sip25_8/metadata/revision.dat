@@ -1,0 +1,160 @@
+(Cell	CON_SIP25_8
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.1)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	09/25/09,17:10:50)
+
+			(User	wish.wang)
+
+			(Path	lib_lib.CON_SIP25_8)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000000d31ce1b)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	09/25/09,17:10:50)
+
+							(User	wish.wang)
+
+							(Path	lib_lib.CON_SIP25_8)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001cb203d4)
+
+		)
+
+		(View	Chips
+
+			(Checksum	0000000027d5a61d)
+
+			(Primitives	1
+
+				(Primitive	CON_SIP25_8
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	09/25/09,17:10:50)
+
+							(User	wish.wang)
+
+							(Path	lib_lib.CON_SIP25_8)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	CON_SIP25_8
+
+							(PackType	CON_SIP25_8)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001b6b0389)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.51-p002)
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001c360380)
+
+)
+

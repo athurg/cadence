@@ -1,0 +1,12 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'ADL5382ACPZ'
+
+{========================================================================================}
+:'VALUE'                     = 'COMP_NAME'     |'PART_NUMBER'    |'VENDOR'     |'JEDEC_TYPE'    |'ALT_SYMBOLS'    |'LAST_MODIFY'    ;
+{========================================================================================}
+ 'ADL5382ACPZ' (~ADL5382ACPZ)  = 'ADL5382ACPZ'  |'05010600117'  |'ADI'  |'LFCSP-24'       |'(LFCSP-24)'      |'2011-06-22'
+
+END_PART
+
+END.

@@ -1,0 +1,12 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'O23B_ECBD_10MHZ'
+
+{========================================================================================}
+:'VALUE'                               = 'COMP_NAME'    |'PART_NUMBER'    |'VENDOR'      |'JEDEC_TYPE'    |'ALT_SYMBOLS'    |'LAST_MODIFY'    ;
+{========================================================================================}
+ 'O23B_ECBD_10MHZ' (~O23B_ECBD_10MHZ)  = 'O23B_ECBD_10MHZ'    |'05060200002'  |'DAPU'  |'O23B-ECBD'     |'(O23B-ECBD)'    |'2010-05-31'   
+
+END_PART
+
+END.

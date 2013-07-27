@@ -1,0 +1,12 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'OVETGLJ'
+
+{========================================================================================}
+:'VALUE'                                   = 'COMP_NAME'            |'PART_NUMBER'    |'VENDOR'    |'JEDEC_TYPE'    |'ALT_SYMBOLS'    |'LAST_MODIFY'    ;
+{========================================================================================}
+ 'OVETGLJ125.00' (~OVETGLJ125.00)              = 'OVETGLJ125.00'      |''  |'TAITIEN'     |'OSCTBD-5X3'      |'(OSCTBD-5X3)'     |'2011-4-12'   
+
+END_PART
+
+END.

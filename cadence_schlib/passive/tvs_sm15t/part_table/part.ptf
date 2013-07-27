@@ -1,0 +1,14 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'TVS_SM15T'
+
+{========================================================================================}
+:'VALUE'                           = 'COMP_NAME'    |'PART_NUMBER'    |'VENDOR'        |'JEDEC_TYPE'    |'ALT_SYMBOLS'    |'LAST_MODIFY'    ;
+{========================================================================================}
+ 'TVS_SM15T7V5A' (~TVS_SM15T7V5A)  = 'TVS_SM15T7V5A'  |'05020000146'|'ST'  |'SMC-SM15T'   |'(SMC-SM15T)'  |'2009-05-18'
+ 'TVS_SM15T39A' (~TVS_SM15T39A)  = 'TVS_SM15T39A'  |'05020000145'|'ST'  |'SMC-SM15T'   |'(SMC-SM15T)'  |'2009-05-18'
+ 'TVS_SM15T100A' (~TVS_SM15T100A)  = 'TVS_SM15T100A'  |'05020000156'|'ST'  |'SMC-SM15T'   |'(SMC-SM15T)'  |'2009-11-06'
+
+END_PART
+
+END.

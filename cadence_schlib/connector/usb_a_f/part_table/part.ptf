@@ -1,0 +1,12 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'USB_A_F'
+
+{========================================================================================}
+:'VALUE'                     = 'COMP_NAME'     |'PART_NUMBER'    |'VENDOR'     |'JEDEC_TYPE'    |'ALT_SYMBOLS'    |'LAST_MODIFY'    ;
+{========================================================================================}
+ 'USB_A_F' (~USB_A_F)  = 'USB_A_F'  |''  |''  |'USB-A-F'       |'(USB-A-F)'      |'2011-03-07'
+
+END_PART
+
+END.

@@ -1,0 +1,170 @@
+(Cell	screw_eye
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.16)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	03/04/09,10:30:10)
+
+			(User	ray.zhou)
+
+			(Path	connector_lib.screw_eye)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	03/04/09,10:44:36)
+
+			(User	ray.zhou)
+
+			(Path	connector_lib.screw_eye)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000b766720b)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.3)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	03/04/09,10:30:21)
+
+							(User	ray.zhou)
+
+							(Path	connector_lib.screw_eye)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001be70381)
+
+		)
+
+		(View	Chips
+
+			(Checksum	0000000062bf667d)
+
+			(Primitives	1
+
+				(Primitive	SCREW_EYE
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.4)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	03/04/09,10:31:29)
+
+							(User	ray.zhou)
+
+							(Path	connector_lib.screw_eye)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	SCREW_EYE
+
+							(PackType	SCREW_EYE)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001d5303ee)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.51-p002)
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001bd903ab)
+
+)
+

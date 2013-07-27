@@ -1,0 +1,976 @@
+(Cell	xc7k325t_1fbg900i
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.28)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	04/07/12,11:01:30)
+
+			(User	neon.peng)
+
+			(Path	lib_creation_lib.xc7k325t_1fbg900i)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	18
+
+				(Symbol	sym_9
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000ee3c3218)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.5)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	04/07/12,11:01:30)
+
+							(User	neon.peng)
+
+							(Path	lib_creation_lib.xc7k325t_1fbg900i)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_8
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000655631a6)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.3)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	04/07/12,11:01:30)
+
+							(User	neon.peng)
+
+							(Path	lib_creation_lib.xc7k325t_1fbg900i)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_7
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000544d3178)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.3)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	04/07/12,11:01:30)
+
+							(User	neon.peng)
+
+							(Path	lib_creation_lib.xc7k325t_1fbg900i)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_6
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000004e1432c1)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.3)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	04/07/12,11:01:30)
+
+							(User	neon.peng)
+
+							(Path	lib_creation_lib.xc7k325t_1fbg900i)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_5
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	0000000074d142ab)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.4)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	04/07/12,11:01:30)
+
+							(User	neon.peng)
+
+							(Path	lib_creation_lib.xc7k325t_1fbg900i)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_4
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000c4213f49)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.6)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	04/07/12,11:01:30)
+
+							(User	neon.peng)
+
+							(Path	lib_creation_lib.xc7k325t_1fbg900i)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_3
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000009ed92fe8)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.3)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	04/07/12,11:01:30)
+
+							(User	neon.peng)
+
+							(Path	lib_creation_lib.xc7k325t_1fbg900i)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_2
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000007e8b2fcd)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.3)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	04/07/12,11:01:30)
+
+							(User	neon.peng)
+
+							(Path	lib_creation_lib.xc7k325t_1fbg900i)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_18
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	0000000006b116d6)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.5)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	04/07/12,11:01:30)
+
+							(User	neon.peng)
+
+							(Path	lib_creation_lib.xc7k325t_1fbg900i)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_17
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000c7712267)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.6)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	04/07/12,11:01:30)
+
+							(User	neon.peng)
+
+							(Path	lib_creation_lib.xc7k325t_1fbg900i)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_16
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	0000000032bf05a7)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.3)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	04/07/12,11:01:30)
+
+							(User	neon.peng)
+
+							(Path	lib_creation_lib.xc7k325t_1fbg900i)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_15
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000000ff64526)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.4)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	04/07/12,11:01:30)
+
+							(User	neon.peng)
+
+							(Path	lib_creation_lib.xc7k325t_1fbg900i)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_14
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000003c6b44fd)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.5)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	04/07/12,11:01:30)
+
+							(User	neon.peng)
+
+							(Path	lib_creation_lib.xc7k325t_1fbg900i)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_13
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000003d0344d0)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.5)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	04/07/12,11:01:30)
+
+							(User	neon.peng)
+
+							(Path	lib_creation_lib.xc7k325t_1fbg900i)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_12
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000001b1a7a68)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.5)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	04/07/12,11:01:30)
+
+							(User	neon.peng)
+
+							(Path	lib_creation_lib.xc7k325t_1fbg900i)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_11
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000e6023280)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.4)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	04/07/12,11:01:30)
+
+							(User	neon.peng)
+
+							(Path	lib_creation_lib.xc7k325t_1fbg900i)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_10
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	0000000066d4324b)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.5)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	04/07/12,11:01:30)
+
+							(User	neon.peng)
+
+							(Path	lib_creation_lib.xc7k325t_1fbg900i)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000002f3a4420)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.3)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	04/07/12,11:01:30)
+
+							(User	neon.peng)
+
+							(Path	lib_creation_lib.xc7k325t_1fbg900i)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001f8b046f)
+
+		)
+
+		(View	Chips
+
+			(Checksum	0000000067a0a649)
+
+			(Primitives	1
+
+				(Primitive	XC7K325T_1FBG900I
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	04/07/12,11:01:30)
+
+							(User	neon.peng)
+
+							(Path	lib_creation_lib.xc7k325t_1fbg900i)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	XC7K325T_1FBG900I
+
+							(PackType	XC7K325T_1FBG900I)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	18
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+							(FunctionGroup	2[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_2)
+
+									)
+
+								)
+
+							)
+
+							(FunctionGroup	3[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_3)
+
+									)
+
+								)
+
+							)
+
+							(FunctionGroup	4[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_4)
+
+									)
+
+								)
+
+							)
+
+							(FunctionGroup	5[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_5)
+
+									)
+
+								)
+
+							)
+
+							(FunctionGroup	6[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_6)
+
+									)
+
+								)
+
+							)
+
+							(FunctionGroup	7[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_7)
+
+									)
+
+								)
+
+							)
+
+							(FunctionGroup	8[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_8)
+
+									)
+
+								)
+
+							)
+
+							(FunctionGroup	9[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_9)
+
+									)
+
+								)
+
+							)
+
+							(FunctionGroup	10[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_10)
+
+									)
+
+								)
+
+							)
+
+							(FunctionGroup	11[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_11)
+
+									)
+
+								)
+
+							)
+
+							(FunctionGroup	12[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_12)
+
+									)
+
+								)
+
+							)
+
+							(FunctionGroup	13[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_13)
+
+									)
+
+								)
+
+							)
+
+							(FunctionGroup	14[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_14)
+
+									)
+
+								)
+
+							)
+
+							(FunctionGroup	15[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_15)
+
+									)
+
+								)
+
+							)
+
+							(FunctionGroup	16[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_16)
+
+									)
+
+								)
+
+							)
+
+							(FunctionGroup	17[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_17)
+
+									)
+
+								)
+
+							)
+
+							(FunctionGroup	18[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_18)
+
+									)
+
+								)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001cca03e0)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.51-p002)
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001d9703d1)
+
+)
+

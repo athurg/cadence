@@ -1,0 +1,13 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'TLK3132ZEN'
+
+{========================================================================================}
+:VALUE=COMP_NAME|PART_NUMBER|VENDOR|JEDEC_TYPE|ALT_SYMBOLS|LAST_MODIFY;
+{========================================================================================}
+'TLK3132ZEN'(~TLK3132ZEN)='TLK3132ZEN'|''|'ti'|'BGA10-196'|'(BGA10-196)'|'2009-04-09'
+
+END_PART
+
+END.
+

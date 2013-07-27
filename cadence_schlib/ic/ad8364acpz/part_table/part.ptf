@@ -1,0 +1,13 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'AD8364ACPZ'
+
+{========================================================================================}
+:VALUE           = COMP_NAME  | PART_NUMBER   | VENDOR    | JEDEC_TYPE | ALT_SYMBOLS  | LAST_MODIFY  ;
+{========================================================================================}
+ 'AD8364ACPZ'(~AD8364ACPZ) = 'AD8364ACPZ' | '05011000102' | 'ANALOG' | 'LFCSP-32' | '(LFCSP-32)' | '2010-10-19'
+
+END_PART
+
+END.
+

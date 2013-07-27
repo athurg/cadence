@@ -1,0 +1,12 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'PESD_PJGBLC05'
+
+{========================================================================================}
+:'VALUE'                           = 'COMP_NAME'       |'PART_NUMBER'    |'VENDOR'    |'JEDEC_TYPE'    |'ALT_SYMBOLS'    |'LAST_MODIFY'    ;
+{========================================================================================}
+ 'PESD_PJGBLC05' (~PESD_PJGBLC05)  = 'PESD_PJGBLC05'  |'05020000248'  |'PANJIT'  |'SOD2-323'     |'(SOD2-323)'    |'2012-1-13'
+
+END_PART
+
+END.

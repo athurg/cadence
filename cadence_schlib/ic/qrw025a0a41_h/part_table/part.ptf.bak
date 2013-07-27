@@ -1,0 +1,12 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'QRW025A0A41_H'
+
+{========================================================================================}
+:'VALUE'                                   = 'COMP_NAME'    |'PART_NUMBER'    |'VENDOR'    |'JEDEC_TYPE'    |'ALT_SYMBOLS'    |'LAST_MODIFY'    ;
+{========================================================================================}
+ 'QRW025A0A41_H' (~QRW025A0A41_H)  = 'QRW025A0A41_H'  |''  |'LINEAGE POWER'     |'PM-25A'   |'(PM-25A)'  |'2009-04-23'   
+
+END_PART
+
+END.

@@ -1,0 +1,13 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'PIC32MX795F512L_80IPT'
+
+{========================================================================================}
+:VALUE                        = COMP_NAME               | PART_NUMBER   | VENDOR      | JEDEC_TYPE   | ALT_SYMBOLS    | LAST_MODIFY  ;
+{========================================================================================}
+ 'PIC32MX795F512L_80IPT'(~PIC32MX795F512L_80IPT) = 'PIC32MX795F512L_80IPT' | '05012400125' | 'MicroChip' | 'TQFP12-100' | '(TQFP12-100)' | '2011-07-11'
+
+END_PART
+
+END.
+

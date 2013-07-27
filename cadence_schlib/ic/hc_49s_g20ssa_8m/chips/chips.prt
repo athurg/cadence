@@ -1,0 +1,29 @@
+FILE_TYPE=LIBRARY_PARTS;
+primitive 'HC_49S_G20SSA_8M';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      NO_ASSERT_CHECK='TRUE';
+      NO_DIR_CHECK='TRUE';
+      ALLOW_CONNECT='TRUE';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      NO_ASSERT_CHECK='TRUE';
+      NO_DIR_CHECK='TRUE';
+      ALLOW_CONNECT='TRUE';
+  end_pin;
+  body
+    BODY_NAME='HC_49S_G20SSA_8M';
+    PART_NAME='HC_49S_G20SSA_8M';
+    PHYS_DES_PREFIX='X';
+    CLASS='IC';
+  end_body;
+end_primitive;
+
+END.

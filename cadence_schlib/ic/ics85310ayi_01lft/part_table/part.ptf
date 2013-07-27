@@ -1,0 +1,12 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'ICS85310AYI_01LFT'
+
+{========================================================================================}
+:'VALUE'                                   = 'COMP_NAME'    |'PART_NUMBER'    |'VENDOR'    |'JEDEC_TYPE'    |'ALT_SYMBOLS'    |'LAST_MODIFY'    ;
+{========================================================================================}
+ 'ICS85310AYI_01LFT' (~ICS85310AYI_01LFT)  = 'ICS85310AYI_01LFT'  |'05013000014'  |'ICS'     |'LQFP-32'   |'(LQFP-32)'  |'2009-04-17'   
+
+END_PART
+
+END.

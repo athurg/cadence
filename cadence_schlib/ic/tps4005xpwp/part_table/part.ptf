@@ -1,0 +1,13 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'TPS4005xPWP'
+
+{========================================================================================}
+:'VALUE'                               = 'COMP_NAME'    |'PART_NUMBER'    |'VENDOR'      |'JEDEC_TYPE'    |'ALT_SYMBOLS'    |'LAST_MODIFY'    ;
+{========================================================================================}
+ 'TPS40057PWP' (~TPS40057PWP)  = 'TPS40057PWP'    |'05013200136'  |'TI'  |'HTSSOP-16'     |'(HTSSOP-16)'    |'2010-06-01'
+ 'TPS40055PWP' (~TPS40055PWP)  = 'TPS40055PWP'    |'05013200133'  |'TI'  |'HTSSOP-16'     |'(HTSSOP-16)'    |'2010-06-01'
+
+END_PART
+
+END.

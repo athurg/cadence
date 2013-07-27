@@ -1,0 +1,13 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'CON_9002_C06C10PU'
+
+{========================================================================================}
+:VALUE           = COMP_NAME  | PART_NUMBER   | VENDOR    | JEDEC_TYPE | ALT_SYMBOLS  | LAST_MODIFY  ;
+{========================================================================================}
+ 'CON_9002_C06C10PU'(~CON_9002_C06C10PU) = 'CON_9002_C06C10PU' | '06030500178' | 'Oupiin' | 'CON-SIM6' | '(CON-SIM6)' | '2010-07-15'
+
+END_PART
+
+END.
+

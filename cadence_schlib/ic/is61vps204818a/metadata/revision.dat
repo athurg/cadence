@@ -1,0 +1,160 @@
+(Cell	is61vps204818a
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.8)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	06/23/11,17:51:43)
+
+			(User	wish.wang)
+
+			(Path	lib_lib.is61vps204818a)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000d7dffea7)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.4)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	06/23/11,17:51:43)
+
+							(User	wish.wang)
+
+							(Path	lib_lib.is61vps204818a)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001f870449)
+
+		)
+
+		(View	Chips
+
+			(Checksum	000000000ed7bfd1)
+
+			(Primitives	1
+
+				(Primitive	IS61VPS204818A
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	06/23/11,17:51:43)
+
+							(User	wish.wang)
+
+							(Path	lib_lib.is61vps204818a)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	IS61VPS204818A
+
+							(PackType	IS61VPS204818A)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001d4503db)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.51-p002)
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001bd803a8)
+
+)
+

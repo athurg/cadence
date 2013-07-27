@@ -1,0 +1,160 @@
+(Cell	con_z_pack_6469169_1
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.2)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	02/02/12,15:17:22)
+
+			(User	neon.peng)
+
+			(Path	lib_creation_lib.con_z_pack_6469169_1)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	0000000035f0e49a)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	02/02/12,15:17:22)
+
+							(User	neon.peng)
+
+							(Path	lib_creation_lib.con_z_pack_6469169_1)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001c3203b2)
+
+		)
+
+		(View	Chips
+
+			(Checksum	000000008a1ebf1b)
+
+			(Primitives	1
+
+				(Primitive	CON_Z_PACK_6469169_1
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	02/02/12,15:17:22)
+
+							(User	neon.peng)
+
+							(Path	lib_creation_lib.con_z_pack_6469169_1)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	CON_Z_PACK_6469169_1
+
+							(PackType	CON_Z_PACK_6469169_1)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001ccc03d9)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.51-p002)
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001da803db)
+
+)
+

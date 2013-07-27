@@ -1,0 +1,14 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'CAPACITOR_EMI'
+
+{========================================================================================}
+:VENDOR_PART_NUMBER | VALUE                  = PART_NUMBER   | COMP_NAME                 | VENDOR | JEDEC_TYPE | ALT_SYMBOLS | LAST_MODIFY  ;
+{========================================================================================}
+ 'NFM18PS105R0J3D'   | '1uF'(~NFM18PS105R0J3D) = '05041700105'     | '0603 6.3V 2A 1uF 500M¦¸ ¡À20%'           | 'MURATA'   | 'SC0603-3'   | '(SC0603-3)' | '2011-07-20'
+ 'NFM21PC474R1C3D'  | '470nF'(~NFM21PC474R1C3D) = '05041700156' | '0805 16v 2A 470nF ¡À20%'      | 'MURATA'  | 'SC0805-3'   | '(SC0805-3)' | '2012-02-10'
+
+END_PART
+
+END.
+

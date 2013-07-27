@@ -1,0 +1,160 @@
+(Cell	DIODE_LED_D
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.2)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	07/13/10,10:16:51)
+
+			(User	wish.wang)
+
+			(Path	lib_lib.DIODE_LED_D)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	0000000054f70286)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	07/13/10,10:16:51)
+
+							(User	wish.wang)
+
+							(Path	lib_lib.DIODE_LED_D)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001b570357)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000daf0f047)
+
+			(Primitives	1
+
+				(Primitive	DIODE_LED_D
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	07/13/10,10:16:51)
+
+							(User	wish.wang)
+
+							(Path	lib_lib.DIODE_LED_D)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	DIODE_LED_D
+
+							(PackType	DIODE_LED_D)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001ccd03bf)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.51-p002)
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001dd60407)
+
+)
+

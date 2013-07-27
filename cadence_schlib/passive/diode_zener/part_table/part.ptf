@@ -1,0 +1,14 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'DIODE_ZENER'
+
+{========================================================================================}
+:'VALUE'                         = 'COMP_NAME'    |'PART_NUMBER'    |'VENDOR'       |'JEDEC_TYPE'    |'ALT_SYMBOLS'    |'LAST_MODIFY'    ;
+{========================================================================================}
+  'BZT52C2V7' (~BZT52C2V7)   = 'BZT52C2V7'      |'05020000177'        |'DIODES'     |'SOD-123'    |'(SOD-123)'   |'2010-06-07'
+  'MMSZ2V7T1G' (~MMSZ2V7T1G)   = 'MMSZ2V7T1G'   |'05020000182'        |'DIODES'     |'SOD-123'    |'(SOD-123)'   |'2010-07-07'
+  'MMSZ3V3T1G' (~MMSZ3V3T1G)   = 'MMSZ3V3T1G'   |'05020000213'        |'ON'     |'SOD2-123'    |'(SOD2-123)'   |'2011-07-12'
+
+END_PART
+
+END.

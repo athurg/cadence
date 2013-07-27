@@ -1,0 +1,162 @@
+(Cell	ksz8873mmli
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.1)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	04/10/12,11:25:44)
+
+			(User	neon.peng)
+
+			(Path	lib_creation_lib.ksz8873mmli)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Chips
+
+			(Checksum	00000000aaedc24b)
+
+			(Primitives	1
+
+				(Primitive	KSZ8873MMLI
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	04/10/12,11:25:44)
+
+							(User	neon.peng)
+
+							(Path	lib_creation_lib.ksz8873mmli)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	KSZ8873MMLI
+
+							(PackType	KSZ8873MMLI)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000f1fc0868)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	04/10/12,11:25:44)
+
+							(User	neon.peng)
+
+							(Path	lib_creation_lib.ksz8873mmli)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001e770415)
+
+		)
+
+		(Checksum	000000001b6b034f)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.51-p002)
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001c5b03a9)
+
+)
+

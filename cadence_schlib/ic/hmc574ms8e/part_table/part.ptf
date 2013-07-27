@@ -1,0 +1,12 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'hmc574ms8e'
+
+{========================================================================================}
+:'VALUE'                     = 'COMP_NAME'     |'PART_NUMBER'    |'VENDOR'     |'JEDEC_TYPE'    |'ALT_SYMBOLS'    |'LAST_MODIFY'    ;
+{========================================================================================}
+ 'HMC574MS8E' (~HMC574MS8E)  = 'HMC574MS8E'  |'05011400018'  |'hittite'  |'TSSOP-8'     |'(TSSOP-8)'    |'2012-04-24'   
+
+END_PART
+
+END.

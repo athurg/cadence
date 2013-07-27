@@ -1,0 +1,160 @@
+(Cell	dt_26_g06n_32p768k
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.4)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	07/07/11,17:49:30)
+
+			(User	neon.peng)
+
+			(Path	lib_lib.dt_26_g06n_32p768k)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000004ea163a0)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	07/07/11,17:49:30)
+
+							(User	neon.peng)
+
+							(Path	lib_lib.dt_26_g06n_32p768k)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001cd103a6)
+
+		)
+
+		(View	Chips
+
+			(Checksum	000000009723981d)
+
+			(Primitives	1
+
+				(Primitive	DT_26_G06N_32P768K
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	07/07/11,17:49:30)
+
+							(User	neon.peng)
+
+							(Path	lib_lib.dt_26_g06n_32p768k)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	DT_26_G06N_32P768K
+
+							(PackType	DT_26_G06N_32P768K)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001db003e1)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.51-p002)
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001ca403a1)
+
+)
+

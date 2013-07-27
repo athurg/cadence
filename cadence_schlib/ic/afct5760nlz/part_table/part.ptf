@@ -1,0 +1,13 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'AFCT5760NLZ'
+
+{========================================================================================}
+:VALUE              = COMP_NAME     | PART_NUMBER   | VENDOR  | JEDEC_TYPE | ALT_SYMBOLS | LAST_MODIFY  ;
+{========================================================================================}
+ 'afct5760nlz'(~AFCT5760NLZ) = 'AFCT5760NLZ' | '06030500142' | 'MOLEX' | 'SFP'      | '(SFP)'     | '2009-02-10'
+
+END_PART
+
+END.
+

@@ -1,0 +1,162 @@
+(Cell	hmc1097lp4e
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.1)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	04/07/12,15:20:57)
+
+			(User	neon.peng)
+
+			(Path	lib_creation_lib.hmc1097lp4e)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Chips
+
+			(Checksum	00000000be8fc040)
+
+			(Primitives	1
+
+				(Primitive	HMC1097LP4E
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	04/07/12,15:20:57)
+
+							(User	neon.peng)
+
+							(Path	lib_creation_lib.hmc1097lp4e)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	HMC1097LP4E
+
+							(PackType	HMC1097LP4E)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000091a49ac)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	04/07/12,15:20:57)
+
+							(User	neon.peng)
+
+							(Path	lib_creation_lib.hmc1097lp4e)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001e2c040e)
+
+		)
+
+		(Checksum	000000001c5703a5)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.51-p002)
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001bae037a)
+
+)
+

@@ -1,0 +1,16 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'SMB'
+
+{========================================================================================}
+:VALUE           = COMP_NAME  | PART_NUMBER   | VENDOR    | JEDEC_TYPE | ALT_SYMBOLS  | LAST_MODIFY  ;
+{========================================================================================}
+ '82_SMB-50-0-1/111'(~82_SMB-50-0-1/111) = '82_SMB-50-0-1/111' | '06030000011' | 'Hubersuhner' | 'CON-SMB-D13' | '(CON-SMB-D13)' | '2010-12-13'
+ '85_SMB-Z50-0-19/111'(~85_SMB-Z50-0-19/111) = '85_SMB-Z50-0-19/111' | '06030000156' | 'Hubersuhner' | 'CON-Z50-SMB' | '(CON-Z50-SMB)' | '2009-04-22'
+ '5MBF25S-P01-001'(~5MBF25S-P01-001) = '5MBF25S-P01-001' | '06030000252' | 'Superlink' | 'CON-SMB-D13' | '(CON-SMB-D13)' | '2011-03-17'
+ 'SMB-JHD1'(~SMB-JHD1) = 'SMB-JHD1' | '' | 'Junper' | 'CON-SMB-D13' | '(CON-SMB-D13)' | '2011-03-17'
+
+END_PART
+
+END.
+

@@ -1,0 +1,160 @@
+(Cell	74lv573pw
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.2)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	08/21/09,11:11:21)
+
+			(User	ray.zhou)
+
+			(Path	ic_lib.74lv573pw)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000006bbac58b)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	08/21/09,11:11:21)
+
+							(User	ray.zhou)
+
+							(Path	ic_lib.74lv573pw)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001e5c040e)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000f7de874d)
+
+			(Primitives	1
+
+				(Primitive	74LV573PW
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	08/21/09,11:11:21)
+
+							(User	ray.zhou)
+
+							(Path	ic_lib.74lv573pw)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	74LV573PW
+
+							(PackType	74LV573PW)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001bc403ae)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.51-p002)
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001cdc03d4)
+
+)
+

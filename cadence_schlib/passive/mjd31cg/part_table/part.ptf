@@ -1,0 +1,12 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'MJD31CG'
+
+{========================================================================================}
+:'VALUE'                         = 'COMP_NAME'     |'PART_NUMBER'    |'VENDOR'    |'JEDEC_TYPE'    |'ALT_SYMBOLS'    |'LAST_MODIFY'    ;
+{========================================================================================}
+ 'MJD31CG' (~MJD31CG)  = 'MJD31CG'  |'05020100108'|'Onsemi'  |'DPAK'    |'(DPAK)'   |'2009-05-18'   
+
+END_PART
+
+END.

@@ -1,0 +1,38 @@
+FILE_TYPE=LIBRARY_PARTS;
+primitive 'MIC2774N';
+  pin
+    'RST#':
+      PIN_NUMBER='(1)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+    'GND':
+      PIN_NUMBER='(2)';
+      PINUSE='GROUND';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      NO_ASSERT_CHECK='TRUE';
+      NO_DIR_CHECK='TRUE';
+      ALLOW_CONNECT='TRUE';
+    'MR#':
+      PIN_NUMBER='(3)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'IN':
+      PIN_NUMBER='(4)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'VDD':
+      PIN_NUMBER='(5)';
+      PINUSE='POWER';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      NO_ASSERT_CHECK='TRUE';
+      NO_DIR_CHECK='TRUE';
+      ALLOW_CONNECT='TRUE';
+  end_pin;
+  body
+    PART_NAME='MIC2774N';
+    BODY_NAME='MIC2774N';
+    PHYS_DES_PREFIX='U';
+    CLASS='IC';
+  end_body;
+end_primitive;
+
+END.

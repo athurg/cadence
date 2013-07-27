@@ -1,0 +1,13 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'XC6VLX195T_1FFG1156I'
+
+{========================================================================================}
+:VALUE=COMP_NAME|PART_NUMBER|VENDOR|JEDEC_TYPE|ALT_SYMBOLS|LAST_MODIFY;
+{========================================================================================}
+'XC6VLX195T_1FFG1156I'(~XC6VLX195T_1FFG1156I)='XC6VLX195T_1FFG1156I'|'05012700136'|'xilinx'|'BGA10-1156'|'(BGA10-1156)'|'2010-01-21'
+'XC6VLX240T_1FFG1156I'(~XC6VLX240T_1FFG1156I)='XC6VLX240T_1FFG1156I'|'05012700149'|'xilinx'|'BGA10-1156'|'(BGA10-1156)'|'2011-06-23'
+
+END_PART
+
+END.

@@ -1,0 +1,160 @@
+(Cell	MAX9947ETE
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.3)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	04/19/12,09:57:18)
+
+			(User	neon.peng)
+
+			(Path	lib_creation_lib.MAX9947ETE)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000a4929e24)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	04/19/12,09:57:18)
+
+							(User	neon.peng)
+
+							(Path	lib_creation_lib.MAX9947ETE)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001c3f0385)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000573750a6)
+
+			(Primitives	1
+
+				(Primitive	MAX9947ETE
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	04/19/12,09:57:18)
+
+							(User	neon.peng)
+
+							(Path	lib_creation_lib.MAX9947ETE)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	MAX9947ETE
+
+							(PackType	MAX9947ETE)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001a7b0355)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.51-p002)
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001c2b0379)
+
+)
+

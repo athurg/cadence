@@ -1,0 +1,30 @@
+FILE_TYPE=LIBRARY_PARTS;
+primitive 'DS_01_V';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      NO_ASSERT_CHECK='TRUE';
+      NO_DIR_CHECK='TRUE';
+      ALLOW_CONNECT='TRUE';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      NO_ASSERT_CHECK='TRUE';
+      NO_DIR_CHECK='TRUE';
+      ALLOW_CONNECT='TRUE';
+  end_pin;
+  body
+    BODY_NAME='DS_01_V';
+    PART_NAME='DS_01_V';
+    PHYS_DES_PREFIX='K';
+    CLASS='DISCRETE';
+    CDS_LMAN_UNMAPPED_PHYS_PIN='(3,4)';
+  end_body;
+end_primitive;
+
+END.

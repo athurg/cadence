@@ -1,0 +1,160 @@
+(Cell	hmc483ms8ge
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.8)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	10/13/10,16:53:30)
+
+			(User	Eva.zhao)
+
+			(Path	lib_lib.hmc483ms8ge)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000044dec2f)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.6)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	10/13/10,16:53:30)
+
+							(User	Eva.zhao)
+
+							(Path	lib_lib.hmc483ms8ge)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001c6f03dd)
+
+		)
+
+		(View	Chips
+
+			(Checksum	000000003d32d675)
+
+			(Primitives	1
+
+				(Primitive	HMC483MS8GE
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	10/13/10,16:53:30)
+
+							(User	Eva.zhao)
+
+							(Path	lib_lib.hmc483ms8ge)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	HMC483MS8GE
+
+							(PackType	HMC483MS8GE)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001c9103ad)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.51-p002)
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001bd703a7)
+
+)
+

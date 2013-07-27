@@ -1,0 +1,160 @@
+(Cell	CON_CH87122V200
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.5)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	10/29/10,11:42:07)
+
+			(User	Eva.zhao)
+
+			(Path	lib_lib.CON_CH87122V200)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	0000000047051c2e)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.4)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	10/29/10,11:42:07)
+
+							(User	Eva.zhao)
+
+							(Path	lib_lib.CON_CH87122V200)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001ad0037c)
+
+		)
+
+		(View	Chips
+
+			(Checksum	000000004b2d6f2a)
+
+			(Primitives	1
+
+				(Primitive	CON_CH87122V200
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	10/29/10,11:42:07)
+
+							(User	Eva.zhao)
+
+							(Path	lib_lib.CON_CH87122V200)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	CON_CH87122V200
+
+							(PackType	CON_CH87122V200)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001cb503b6)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.51-p002)
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001cb503a7)
+
+)
+

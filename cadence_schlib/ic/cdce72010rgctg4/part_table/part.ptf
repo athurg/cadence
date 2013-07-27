@@ -1,0 +1,13 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'CDCE72010RGCTG4'
+
+{========================================================================================}
+:VALUE=COMP_NAME|PART_NUMBER|VENDOR|JEDEC_TYPE|ALT_SYMBOLS|LAST_MODIFY;
+{========================================================================================}
+'CDCE72010RGCTG4'(~CDCE72010RGCTG4)='CDCE72010RGCTG4'|''|'TI'|'VQFN-64'|'VQFN-64'|'2009-04-15'
+
+END_PART
+
+END.
+

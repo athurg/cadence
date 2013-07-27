@@ -1,0 +1,25 @@
+FILE_TYPE=LIBRARY_PARTS;
+primitive 'NULL_1';
+  pin
+    '2':
+      PIN_NUMBER='(2)';
+      PIN_TYPE='ANALOG';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      ALLOW_CONNECT='TRUE';
+    '1':
+      PIN_NUMBER='(1)';
+      PIN_TYPE='ANALOG';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      ALLOW_CONNECT='TRUE';
+  end_pin;
+  body
+    PART_NAME='NULL_1';
+    BODY_NAME='NULL_1';
+    PHYS_DES_PREFIX='R';
+    CLASS='DISCRETE';
+  end_body;
+end_primitive;
+
+END.

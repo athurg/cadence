@@ -1,0 +1,160 @@
+(Cell	sn74lvc16245adggr
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.6)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	02/04/09,10:25:42)
+
+			(User	ray.zhou)
+
+			(Path	project_lib_lib.sn74lvc16245adggr)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000b691e627)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.5)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	02/04/09,10:25:42)
+
+							(User	ray.zhou)
+
+							(Path	project_lib_lib.sn74lvc16245adggr)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001c760387)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000bc4d6036)
+
+			(Primitives	1
+
+				(Primitive	SN74LVC16245ADGGR
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	02/04/09,10:25:42)
+
+							(User	ray.zhou)
+
+							(Path	project_lib_lib.sn74lvc16245adggr)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	SN74LVC16245ADGGR
+
+							(PackType	SN74LVC16245ADGGR)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001d6203e2)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.51-p002)
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001ba70378)
+
+)
+

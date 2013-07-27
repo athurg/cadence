@@ -1,0 +1,13 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'MT48LC8M16A2TG'
+
+{========================================================================================}
+:VALUE           = COMP_NAME  | PART_NUMBER   | VENDOR    | JEDEC_TYPE | ALT_SYMBOLS  | LAST_MODIFY  ;
+{========================================================================================}
+ 'MT48LC8M16A2TG'(~MT48LC8M16A2TG) = 'MT48LC8M16A2TG-75IT' | '' | 'Micron' | 'TSOP-54' | '(TSOP-54)' | '2009-04-10'
+
+END_PART
+
+END.
+

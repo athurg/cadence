@@ -1,0 +1,162 @@
+(Cell	ics85310ayi_01lft
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.1)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	04/17/09,15:56:12)
+
+			(User	wish.wang)
+
+			(Path	discrete.ics85310ayi_01lft)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Chips
+
+			(Checksum	00000000f3b0dbe8)
+
+			(Primitives	1
+
+				(Primitive	ICS85310AYI_01LFT
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	04/17/09,15:56:12)
+
+							(User	wish.wang)
+
+							(Path	discrete.ics85310ayi_01lft)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	ICS85310AYI_01LFT
+
+							(PackType	ICS85310AYI_01LFT)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000006b32cfa2)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	04/17/09,15:56:12)
+
+							(User	wish.wang)
+
+							(Path	discrete.ics85310ayi_01lft)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001e1c0410)
+
+		)
+
+		(Checksum	000000001c1e0370)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.51-p002)
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001c230375)
+
+)
+

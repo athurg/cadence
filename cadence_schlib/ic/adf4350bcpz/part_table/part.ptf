@@ -1,0 +1,13 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'ADF4350BCPZ'
+
+{========================================================================================}
+:VALUE           = COMP_NAME  | PART_NUMBER   | VENDOR    | JEDEC_TYPE | ALT_SYMBOLS  | LAST_MODIFY  ;
+{========================================================================================}
+ 'ADF4350BCPZ'(~ADF4350BCPZ) = 'ADF4350BCPZ' | '05010300105' | 'TI' | 'LFCSP-32' | '(LFCSP-32)' | '2010-06-08'
+
+END_PART
+
+END.
+

@@ -1,0 +1,13 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'hmc241lp3e'
+
+{========================================================================================}
+:VALUE=COMP_NAME|PART_NUMBER|VENDOR|JEDEC_TYPE|ALT_SYMBOLS|LAST_MODIFY;
+{========================================================================================}
+'hmc241lp3e'(~hmc241lp3e)='HMC241LP3E'|'05011400009'|'hittite'|'LLP-16'|'LLP-16'|'2009-02-10'
+
+END_PART
+
+END.
+

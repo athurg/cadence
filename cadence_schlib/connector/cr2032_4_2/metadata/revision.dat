@@ -1,0 +1,160 @@
+(Cell	cr2032_4_2
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.3)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	07/11/11,14:07:47)
+
+			(User	neon.peng)
+
+			(Path	lib_lib.cr2032_4_2)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	0000000016bc4ec8)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.3)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	07/11/11,14:07:47)
+
+							(User	neon.peng)
+
+							(Path	lib_lib.cr2032_4_2)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001d0a03e1)
+
+		)
+
+		(View	Chips
+
+			(Checksum	0000000029ab9314)
+
+			(Primitives	1
+
+				(Primitive	CR2032_4_2
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	07/11/11,14:07:47)
+
+							(User	neon.peng)
+
+							(Path	lib_lib.cr2032_4_2)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	CR2032_4_2
+
+							(PackType	CR2032_4_2)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001bc6038c)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.51-p002)
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001c9203ab)
+
+)
+

@@ -1,0 +1,1074 @@
+(Cell	xc5vsx50t_1ffg1136i
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.34)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	04/27/09,14:11:49)
+
+			(User	wish.wang)
+
+			(Path	discrete.xc5vsx50t_1ffg1136i)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Chips
+
+			(Checksum	000000003955a449)
+
+			(Primitives	1
+
+				(Primitive	XC5VSX50T_1FFG1136I
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	04/27/09,14:11:49)
+
+							(User	wish.wang)
+
+							(Path	discrete.xc5vsx50t_1ffg1136i)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	XC5VSX50T_1FFG1136I
+
+							(PackType	XC5VSX50T_1FFG1136I)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	20
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+							(FunctionGroup	2[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_2)
+
+									)
+
+								)
+
+							)
+
+							(FunctionGroup	3[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_3)
+
+									)
+
+								)
+
+							)
+
+							(FunctionGroup	4[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_4)
+
+									)
+
+								)
+
+							)
+
+							(FunctionGroup	5[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_5)
+
+									)
+
+								)
+
+							)
+
+							(FunctionGroup	6[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_6)
+
+									)
+
+								)
+
+							)
+
+							(FunctionGroup	7[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_7)
+
+									)
+
+								)
+
+							)
+
+							(FunctionGroup	8[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_8)
+
+									)
+
+								)
+
+							)
+
+							(FunctionGroup	9[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_9)
+
+									)
+
+								)
+
+							)
+
+							(FunctionGroup	10[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_10)
+
+									)
+
+								)
+
+							)
+
+							(FunctionGroup	11[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_11)
+
+									)
+
+								)
+
+							)
+
+							(FunctionGroup	12[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_12)
+
+									)
+
+								)
+
+							)
+
+							(FunctionGroup	13[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_13)
+
+									)
+
+								)
+
+							)
+
+							(FunctionGroup	14[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_14)
+
+									)
+
+								)
+
+							)
+
+							(FunctionGroup	15[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_15)
+
+									)
+
+								)
+
+							)
+
+							(FunctionGroup	16[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_16)
+
+									)
+
+								)
+
+							)
+
+							(FunctionGroup	17[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_17)
+
+									)
+
+								)
+
+							)
+
+							(FunctionGroup	18[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_18)
+
+									)
+
+								)
+
+							)
+
+							(FunctionGroup	19[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_19)
+
+									)
+
+								)
+
+							)
+
+							(FunctionGroup	20[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_20)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(View	Symbol
+
+			(Symbols	20
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	0000000095aca112)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	04/27/09,14:11:49)
+
+							(User	wish.wang)
+
+							(Path	discrete.xc5vsx50t_1ffg1136i)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_2
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000b7f26a9c)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.3)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	04/27/09,14:11:49)
+
+							(User	wish.wang)
+
+							(Path	discrete.xc5vsx50t_1ffg1136i)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_3
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000e2895c18)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.3)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	04/27/09,14:11:49)
+
+							(User	wish.wang)
+
+							(Path	discrete.xc5vsx50t_1ffg1136i)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_4
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000dd824e74)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.3)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	04/27/09,14:11:49)
+
+							(User	wish.wang)
+
+							(Path	discrete.xc5vsx50t_1ffg1136i)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_5
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	0000000045b55e5b)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.3)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	04/27/09,14:11:49)
+
+							(User	wish.wang)
+
+							(Path	discrete.xc5vsx50t_1ffg1136i)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_20
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000d7d5f0ea)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	04/27/09,14:11:49)
+
+							(User	wish.wang)
+
+							(Path	discrete.xc5vsx50t_1ffg1136i)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_6
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000fbb62307)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.3)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	04/27/09,14:11:49)
+
+							(User	wish.wang)
+
+							(Path	discrete.xc5vsx50t_1ffg1136i)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_7
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000e4791ff9)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.3)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	04/27/09,14:11:49)
+
+							(User	wish.wang)
+
+							(Path	discrete.xc5vsx50t_1ffg1136i)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_8
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000ef2432ab)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.3)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	04/27/09,14:11:49)
+
+							(User	wish.wang)
+
+							(Path	discrete.xc5vsx50t_1ffg1136i)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_9
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000003f2e20af)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.3)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	04/27/09,14:11:49)
+
+							(User	wish.wang)
+
+							(Path	discrete.xc5vsx50t_1ffg1136i)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_10
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	0000000014472100)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	04/27/09,14:11:49)
+
+							(User	wish.wang)
+
+							(Path	discrete.xc5vsx50t_1ffg1136i)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_11
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000000e212140)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	04/27/09,14:11:49)
+
+							(User	wish.wang)
+
+							(Path	discrete.xc5vsx50t_1ffg1136i)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_12
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	0000000017c72181)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	04/27/09,14:11:49)
+
+							(User	wish.wang)
+
+							(Path	discrete.xc5vsx50t_1ffg1136i)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_13
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000ca891f9b)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	04/27/09,14:11:49)
+
+							(User	wish.wang)
+
+							(Path	discrete.xc5vsx50t_1ffg1136i)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_14
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	0000000000621fdf)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	04/27/09,14:11:49)
+
+							(User	wish.wang)
+
+							(Path	discrete.xc5vsx50t_1ffg1136i)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_15
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000bee6201b)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	04/27/09,14:11:49)
+
+							(User	wish.wang)
+
+							(Path	discrete.xc5vsx50t_1ffg1136i)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_16
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000c625282f)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	04/27/09,14:11:49)
+
+							(User	wish.wang)
+
+							(Path	discrete.xc5vsx50t_1ffg1136i)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_17
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000003303f556)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	04/27/09,14:11:49)
+
+							(User	wish.wang)
+
+							(Path	discrete.xc5vsx50t_1ffg1136i)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_18
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000ad8af6f4)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	04/27/09,14:11:49)
+
+							(User	wish.wang)
+
+							(Path	discrete.xc5vsx50t_1ffg1136i)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_19
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000fd360dbb)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	04/27/09,14:11:49)
+
+							(User	wish.wang)
+
+							(Path	discrete.xc5vsx50t_1ffg1136i)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	0000000020610441)
+
+		)
+
+		(Checksum	0000000019de0313)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.51-p002)
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001c26037b)
+
+)
+

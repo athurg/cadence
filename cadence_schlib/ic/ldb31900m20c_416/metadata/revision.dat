@@ -1,0 +1,162 @@
+(Cell	ldb31900m20c_416
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.3)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	11/02/10,14:50:18)
+
+			(User	Eva.zhao)
+
+			(Path	lib_lib.ldb31900m20c_416)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Chips
+
+			(Checksum	00000000baf85857)
+
+			(Primitives	1
+
+				(Primitive	LDB31900M20C_416
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	11/02/10,14:50:18)
+
+							(User	Eva.zhao)
+
+							(Path	lib_lib.ldb31900m20c_416)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	LDB31900M20C_416
+
+							(PackType	LDB31900M20C_416)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000008508c40f)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	11/02/10,14:50:18)
+
+							(User	Eva.zhao)
+
+							(Path	lib_lib.ldb31900m20c_416)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001a6d0347)
+
+		)
+
+		(Checksum	000000001c2f037b)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.51-p002)
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001c6003a9)
+
+)
+

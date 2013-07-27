@@ -1,0 +1,31 @@
+FILE_TYPE=LIBRARY_PARTS;
+primitive 'NPN_PMBS3904';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      ALLOW_CONNECT='TRUE';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      ALLOW_CONNECT='TRUE';
+    '3':
+      PIN_NUMBER='(3)';
+      PINUSE='UNSPEC';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      ALLOW_CONNECT='TRUE';
+  end_pin;
+  body
+    BODY_NAME='NPN_PMBS3904';
+    PART_NAME='NPN_pmbs3904';
+    PHYS_DES_PREFIX='Q';
+    CLASS='DISCRETE';
+  end_body;
+end_primitive;
+
+END.

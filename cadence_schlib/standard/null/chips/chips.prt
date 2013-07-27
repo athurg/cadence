@@ -1,0 +1,28 @@
+FILE_TYPE=LIBRARY_PARTS;
+TIME=' Created/Modified on Fri Nov 21 13:24:01 2003' ;
+primitive 'NULL','NULL_NULL';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PIN_TYPE='ANALOG';
+      NO_LOAD_CHECK='BOTH';
+      NO_IO_CHECK='BOTH';
+      ALLOW_CONNECT='TRUE';
+    '2':
+      PIN_NUMBER='(2)';
+      PIN_TYPE='ANALOG';
+      NO_LOAD_CHECK='BOTH';
+      NO_IO_CHECK='BOTH';
+      ALLOW_CONNECT='TRUE';
+  end_pin;
+  body
+    CLASS='DISCRETE';
+    PART_NAME='NULL';
+    PHYS_DES_PREFIX='R';
+    JEDEC_TYPE='NULL';
+    ALT_SYMBOLS='(SHORTCIR)';
+    BODY_NAME='NULL';
+    BOM_IGNORE='TRUE';
+  end_body;
+end_primitive;
+END.

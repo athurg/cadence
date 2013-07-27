@@ -1,0 +1,12 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'CON_P50LE_080P1_SML_DA'
+
+{========================================================================================}
+:'VALUE'         = 'COMP_NAME'               |'PART_NUMBER'    |'VENDOR'    |'JEDEC_TYPE'          |'ALT_SYMBOLS'           |'LAST_MODIFY'    ;
+{========================================================================================}
+ 'CON_P50LE_080P1_SML_DA' (~CON_P50LE_080P1_SML_DA)  = 'CON_P50LE_080P1_SML_DA'  |'06030200176'  |'3M'        |'CON-P50LE-080P1-SML-DA'  |'(CON-P50LE-080P1-SML-DA)'  |'2009-04-27'   
+
+END_PART
+
+END.

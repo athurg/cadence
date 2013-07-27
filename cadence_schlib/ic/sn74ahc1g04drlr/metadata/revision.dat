@@ -1,0 +1,160 @@
+(Cell	sn74ahc1g04drlr
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.3)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	04/29/09,14:07:09)
+
+			(User	wish.wang)
+
+			(Path	discrete.sn74ahc1g04drlr)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000bbd09a83)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	04/29/09,14:07:09)
+
+							(User	wish.wang)
+
+							(Path	discrete.sn74ahc1g04drlr)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001e8003de)
+
+		)
+
+		(View	Chips
+
+			(Checksum	0000000080881ebf)
+
+			(Primitives	1
+
+				(Primitive	SN74AHC1G04DRLR
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	04/29/09,14:07:09)
+
+							(User	wish.wang)
+
+							(Path	discrete.sn74ahc1g04drlr)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	SN74AHC1G04DRLR
+
+							(PackType	SN74AHC1G04DRLR)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001bce0389)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.51-p002)
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001d5303b0)
+
+)
+

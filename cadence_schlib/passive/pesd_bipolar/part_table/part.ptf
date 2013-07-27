@@ -1,0 +1,16 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'PESD_BIPOLAR'
+
+{========================================================================================}
+:'VALUE'                         = 'COMP_NAME'      |'PART_NUMBER'    |'VENDOR'    |'JEDEC_TYPE'    |'ALT_SYMBOLS'    |'LAST_MODIFY'    ;
+{========================================================================================}
+ 'PESD12VL1BA' (~PESD12VL1BA)  = 'PESD12VL1BA'  |'05020000122'  |'NXP'     |'SOD-323'     |'(SOD-323)'    |'2009-02-14'   
+ 'PESD5V0L1BA' (~PESD5V0L1BA)    = 'PESD5V0L1BA'  |'05020000144'  |'NXP'     |'SOD-323'     |'(SOD-323)'    |'2009-02-14'
+ 'PJSD05CW' (~PJSD05CW)    = 'PJSD05CW'  |'05020000239'  |'Panjit'     |'SOD-323'     |'(SOD-323)'    |'2011-08-05'
+ 'PJGBLC12C' (~PJGBLC12C)    = 'PJGBLC12C'  |'05020000242'  |'Panjit'     |'SOD-323'     |'(SOD-323)'    |'2011-08-17'
+ 'PJGBLC15C' (~PJGBLC15C)    = 'PJGBLC15C'  |'05020000243'  |'Panjit'     |'SOD-323'     |'(SOD-323)'    |'2011-08-18'
+
+END_PART
+
+END.

@@ -1,0 +1,88 @@
+(Cell	vbb2
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.2)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	05/10/07,14:49:06)
+
+			(User	Administrator)
+
+			(Path	standard.vbb2)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Sizable)
+
+					(Checksum	000000009a8449e3)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	05/10/07,14:49:06)
+
+							(User	Administrator)
+
+							(Path	standard.vbb2)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	00000000a693038c)
+
+		)
+
+		(Checksum	0000000006fb0382)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.20-s005)
+
+		(License	Concept_HDL_expert)
+
+	)
+
+	(Checksum	00000000a78c037c)
+
+)
+

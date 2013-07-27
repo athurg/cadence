@@ -1,0 +1,27 @@
+FILE_TYPE=LIBRARY_PARTS;
+primitive 'NCV8674DS120R4G';
+  pin
+    'VIN':
+      PIN_NUMBER='(1)';
+      INPUT_LOAD='(-0.01,0.01)';
+    'GND':
+      PIN_NUMBER='(2)';
+      PINUSE='GROUND';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      NO_ASSERT_CHECK='TRUE';
+      NO_DIR_CHECK='TRUE';
+      ALLOW_CONNECT='TRUE';
+    'VOUT':
+      PIN_NUMBER='(3)';
+      OUTPUT_LOAD='(1.0,-1.0)';
+  end_pin;
+  body
+    BODY_NAME='NCV8674DS120R4G';
+    PART_NAME='NCV8674DS120R4G';
+    PHYS_DES_PREFIX='U';
+    CLASS='IC';
+  end_body;
+end_primitive;
+
+END.

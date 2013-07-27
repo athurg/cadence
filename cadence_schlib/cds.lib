@@ -1,0 +1,4 @@
+DEFINE ic_lib ic
+DEFINE passive_lib passive
+DEFINE standard_lib standard
+DEFINE connector_lib connector

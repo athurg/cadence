@@ -1,0 +1,160 @@
+(Cell	PESD_BIPOLAR
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.2)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	08/05/11,16:17:24)
+
+			(User	wish.wang)
+
+			(Path	lib_lib.PESD_BIPOLAR)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	0000000027d5806a)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	08/05/11,16:17:24)
+
+							(User	wish.wang)
+
+							(Path	lib_lib.PESD_BIPOLAR)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001b7f0382)
+
+		)
+
+		(View	Chips
+
+			(Checksum	0000000076399655)
+
+			(Primitives	1
+
+				(Primitive	PESD_BIPOLAR
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	08/05/11,16:17:24)
+
+							(User	wish.wang)
+
+							(Path	lib_lib.PESD_BIPOLAR)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	PESD_BIPOLAR
+
+							(PackType	PESD_BIPOLAR)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001be10392)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.51-p002)
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001c560378)
+
+)
+

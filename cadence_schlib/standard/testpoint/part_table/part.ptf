@@ -1,0 +1,13 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'TESTPOINT'
+
+{========================================================================================}
+:VENDOR_PART_NUMBER(OPT)           = COMP_NAME                | PART_NUMBER         | VENDOR     | FUNCTION            | JEDEC_TYPE         | ALT_SYMBOLS          | DESCRIPTION | DEFAULT_SIGNAL_MODEL | STATUS               | COST | LAST_MODIFY  ;
+{========================================================================================}
+ 'TP'(!)                           = 'TP'                     | '' | 'NO'       | 'TESTPOINT'         | 'TP-SMD'               | '(TP-SMD)'               | 'TESTPOINT' | ''                   | ''    | '0'  | '2010-10-15' 
+
+END_PART
+
+END.
+

@@ -1,0 +1,162 @@
+(Cell	ics85314agi_11lf
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.2)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	04/13/12,17:02:06)
+
+			(User	neon.peng)
+
+			(Path	lib_creation_lib.ics85314agi_11lf)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Chips
+
+			(Checksum	00000000a036c33b)
+
+			(Primitives	1
+
+				(Primitive	ICS85314AGI_11LF
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	04/13/12,17:02:06)
+
+							(User	neon.peng)
+
+							(Path	lib_creation_lib.ics85314agi_11lf)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	ICS85314AGI_11LF
+
+							(PackType	ICS85314AGI_11LF)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000be3add3d)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	04/13/12,17:02:06)
+
+							(User	neon.peng)
+
+							(Path	lib_creation_lib.ics85314agi_11lf)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001c3d0384)
+
+		)
+
+		(Checksum	000000001c30037b)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.51-p002)
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001b580374)
+
+)
+

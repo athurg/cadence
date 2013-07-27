@@ -1,0 +1,14 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'CON_EHF_108_01_L_D_SM_LC'
+
+{========================================================================================}
+:VALUE           = COMP_NAME  | PART_NUMBER   | VENDOR    | JEDEC_TYPE | ALT_SYMBOLS  | LAST_MODIFY  ;
+{========================================================================================}
+ 'CON_EHF_108_01_L_D_SM_LC'(~CON_EHF_108_01_L_D_SM_LC) = 'CON_EHF_108_01_L_D_SM_LC' | '06030200203' | 'SAMTEC' | 'CON-D-SM-127-16' | '(CON-D-SM-127-16)' | '2009-09-18'
+ 'CON_3230_16MG2BST1'(~CON_3230_16MG2BST1) = 'CON_3230_16MG2BST1' | '06030200226' | 'WAFE' | 'CON-D-SM-127-16' | '(CON-D-SM-127-16)' | '2010-01-05'
+
+END_PART
+
+END.
+

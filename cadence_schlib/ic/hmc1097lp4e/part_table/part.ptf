@@ -1,0 +1,12 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'HMC1097LP4E'
+
+{========================================================================================}
+:'VALUE'                             = 'COMP_NAME'        |'PART_NUMBER'    |'VENDOR'    |'JEDEC_TYPE'    |'ALT_SYMBOLS'    |'LAST_MODIFY'    ;
+{========================================================================================}
+ 'HMC1097LP4E' (~HMC1097LP4E)  = 'HMC1097LP4E'  |'xxx'  |'HITTITE'  |'QFN4X4-24'    |'(QFN4X4-24)'   |'2012-04-07'
+
+END_PART
+
+END.

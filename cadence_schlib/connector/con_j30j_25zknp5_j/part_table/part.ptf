@@ -1,0 +1,13 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'CON_J30J_25ZKNP5_J'
+
+{========================================================================================}
+:VALUE           = COMP_NAME  | PART_NUMBER   | VENDOR    | JEDEC_TYPE | ALT_SYMBOLS  | LAST_MODIFY  ;
+{========================================================================================}
+ 'CON_J30J_25ZKNP5_J'(~CON_J30J_25ZKNP5_J) = 'CON_J30J_25ZKNP5_J' | '06030200251' | '' | 'CON-DIP254X127-25' | '(CON-DIP254X127-25)' | '2010-10-22'
+
+END_PART
+
+END.
+

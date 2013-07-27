@@ -1,0 +1,160 @@
+(Cell	hmc485ms8ge
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.7)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	02/10/09,14:47:30)
+
+			(User	ray.zhou)
+
+			(Path	ic_lib.hmc485ms8ge)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000008ad3ecab)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.6)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	02/10/09,14:47:30)
+
+							(User	ray.zhou)
+
+							(Path	ic_lib.hmc485ms8ge)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001e6f043c)
+
+		)
+
+		(View	Chips
+
+			(Checksum	0000000097bfd50f)
+
+			(Primitives	1
+
+				(Primitive	HMC485MS8GE
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.3)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	02/10/09,14:47:30)
+
+							(User	ray.zhou)
+
+							(Path	ic_lib.hmc485ms8ge)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	HMC485MS8GE
+
+							(PackType	HMC485MS8GE)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001d8403e3)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.51-p002)
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001bbe037d)
+
+)
+

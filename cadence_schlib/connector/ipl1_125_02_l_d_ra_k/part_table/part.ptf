@@ -1,0 +1,12 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'IPL1_125_02_L_D_RA_K'
+
+{========================================================================================}
+:VALUE=COMP_NAME|PART_NUMBER|VENDOR|JEDEC_TYPE|ALT_SYMBOLS|LAST_MODIFY;
+{========================================================================================}
+'IPL1_125_02_L_D_RA_K'(~IPL1_125_02_L_D_RA_K)='IPL1_125_02_L_D_RA_K'|'06030200222'|'SAMTEC'|'CON-IPL1-125'|'(CON-IPL1-125)'|'2009-12-11'
+
+END_PART
+
+END.

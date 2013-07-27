@@ -1,0 +1,14 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'SMA'
+
+{========================================================================================}
+:'VALUE'                                       = 'COMP_NAME'              |'PART_NUMBER'    |'VENDOR'         |'JEDEC_TYPE'          |'ALT_SYMBOLS'           |'LAST_MODIFY'    ;
+{========================================================================================}
+ 'SMA-KHD5'(~SMA-KHD5) = 'SMA-KHD5' | '06030000232' | 'Junper' | 'CON-SMD-SMA' | '(CON-SMD-SMA)' | '2010-07-12'
+ 'SMA-KHD13'(~SMA-KHD13) = 'SMA-KHD13' | '06030000241' | 'Junper' | 'CON-SMA-KHD13' | '(CON-SMA-KHD13)' | '2010-10-22'
+ 'SMA_KWHD3'(~SMA_KWHD3) = 'SMA_KWHD3' | '06030000258' | 'Junper' | 'CON-WSMA-D15' | '(CON-WSMA-D15)' | '2011-08-30'
+
+END_PART
+
+END.

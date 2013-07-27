@@ -1,0 +1,29 @@
+FILE_TYPE=LIBRARY_PARTS;
+primitive 'PESD_BIPOLAR';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      NO_ASSERT_CHECK='TRUE';
+      NO_DIR_CHECK='TRUE';
+      ALLOW_CONNECT='TRUE';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      NO_ASSERT_CHECK='TRUE';
+      NO_DIR_CHECK='TRUE';
+      ALLOW_CONNECT='TRUE';
+  end_pin;
+  body
+    BODY_NAME='PESD_BIPOLAR';
+    PART_NAME='PESD_BIPOLAR';
+    PHYS_DES_PREFIX='D';
+    CLASS='DISCRETE';
+  end_body;
+end_primitive;
+
+END.

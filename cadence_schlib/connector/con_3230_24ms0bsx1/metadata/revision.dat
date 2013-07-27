@@ -1,0 +1,160 @@
+(Cell	CON_3230_24MS0BSX1
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.3)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	07/12/10,14:44:48)
+
+			(User	wish.wang)
+
+			(Path	lib_lib.CON_3230_24MS0BSX1)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000005b7c09b6)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	07/12/10,14:44:48)
+
+							(User	wish.wang)
+
+							(Path	lib_lib.CON_3230_24MS0BSX1)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001cc403b3)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000699dbd47)
+
+			(Primitives	1
+
+				(Primitive	CON_3230_24MS0BSX1
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.3)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	07/12/10,14:44:48)
+
+							(User	wish.wang)
+
+							(Path	lib_lib.CON_3230_24MS0BSX1)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	CON_3230_24MS0BSX1
+
+							(PackType	CON_3230_24MS0BSX1)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001b8c03b0)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.51-p002)
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001c9203a4)
+
+)
+

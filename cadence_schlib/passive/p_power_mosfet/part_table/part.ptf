@@ -1,0 +1,12 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'P_POWER_MOSFET'
+
+{========================================================================================}
+:'VALUE'                       = 'COMP_NAME'      |'PART_NUMBER'    |'VENDOR'    |'JEDEC_TYPE'    |'ALT_SYMBOLS'    |'LAST_MODIFY'    ;
+{========================================================================================}
+ 'IRF5305STRLPBF' (~IRF5305STRLPBF)        = 'IRF5305STRLPBF'     |'05020200113'|'IRF'     |'D2PAK'       |'(D2PAK)'      |'2009-05-18'
+
+END_PART
+
+END.

@@ -1,0 +1,160 @@
+(Cell	P_POWER_MOSFET_1G2S3D
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.2)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	05/23/11,14:19:58)
+
+			(User	wish.wang)
+
+			(Path	lib_lib.P_POWER_MOSFET_1G2S3D)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000008688a54b)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	05/23/11,14:19:58)
+
+							(User	wish.wang)
+
+							(Path	lib_lib.P_POWER_MOSFET_1G2S3D)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001b5f038b)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000ec7acc1b)
+
+			(Primitives	1
+
+				(Primitive	P_POWER_MOSFET_1G2S3D
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	05/23/11,14:19:58)
+
+							(User	wish.wang)
+
+							(Path	lib_lib.P_POWER_MOSFET_1G2S3D)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	P_POWER_MOSFET_1G2S3D
+
+							(PackType	P_POWER_MOSFET_1G2S3D)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001d0503e6)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.51-p002)
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001b960379)
+
+)
+

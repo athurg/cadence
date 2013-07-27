@@ -1,0 +1,12 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'ATH030A0X3_SRHZ'
+
+{========================================================================================}
+:'VALUE'                                   = 'COMP_NAME'    |'PART_NUMBER'    |'VENDOR'    |'JEDEC_TYPE'    |'ALT_SYMBOLS'    |'LAST_MODIFY'    ;
+{========================================================================================}
+ 'ATH030A0X3_SRHZ' (~ATH030A0X3_SRHZ)  = 'ATH030A0X3_SRHZ'  |'05013200119'  |'LINEAGE POWER'     |'PM10-30A'   |'(PM10-30A)'  |'2009-04-27'   
+
+END_PART
+
+END.

@@ -1,0 +1,14 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'LMK04031BISQ'
+
+{========================================================================================}
+:VALUE=COMP_NAME|PART_NUMBER|VENDOR|JEDEC_TYPE|ALT_SYMBOLS|LAST_MODIFY;
+{========================================================================================}
+'LMK04031BISQ'(~LMK04031BISQ)='LMK04031BISQ'|'05013000015'|'ns'|'LLP48'|'(LLP48)'|'2009-04-15'
+'LMK04033BISQNOPB'(~LMK04033BISQNOPB)='LMK04033BISQNOPB'|'05013000025'|'ns'|'LLP48'|'(LLP48)'|'2012-01-31'
+
+END_PART
+
+END.
+

@@ -1,0 +1,12 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'HMC273MS10GE'
+
+{========================================================================================}
+:'VALUE'                     = 'COMP_NAME'     |'PART_NUMBER'    |'VENDOR'     |'JEDEC_TYPE'    |'ALT_SYMBOLS'    |'LAST_MODIFY'    ;
+{========================================================================================}
+ 'HMC273MS10GE' (~HMC273MS10GE)  = 'HMC273MS10GE'  |'05010500116'  |'hittite'  |'MSOP-10'       |'(MSOP-10)'      |'2010-06-09'   
+
+END_PART
+
+END.

@@ -1,0 +1,160 @@
+(Cell	lmk04808bisq
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.3)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	04/13/12,14:24:31)
+
+			(User	neon.peng)
+
+			(Path	lib_creation_lib.lmk04808bisq)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000306a0a5b)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	04/13/12,14:24:31)
+
+							(User	neon.peng)
+
+							(Path	lib_creation_lib.lmk04808bisq)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001b9003a3)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000e78fc2b8)
+
+			(Primitives	1
+
+				(Primitive	LMK04808BISQ
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	04/13/12,14:24:31)
+
+							(User	neon.peng)
+
+							(Path	lib_creation_lib.lmk04808bisq)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	LMK04808BISQ
+
+							(PackType	LMK04808BISQ)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001bdc03ac)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.51-p002)
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001dcb0402)
+
+)
+

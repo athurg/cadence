@@ -1,0 +1,13 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'hmc485ms8ge'
+
+{========================================================================================}
+:VALUE=COMP_NAME|PART_NUMBER|VENDOR|JEDEC_TYPE|ALT_SYMBOLS|LAST_MODIFY;
+{========================================================================================}
+'hmc485ms8ge'(~hmc485ms8ge)='HMC485MS8GE'|'41001005001'|'hittite'|'HTSSOP-8'|'(HTSSOP-8)'|'2009-02-10'
+
+END_PART
+
+END.
+

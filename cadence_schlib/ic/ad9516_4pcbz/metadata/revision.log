@@ -1,0 +1,15 @@
+
+	(Comment
+		(Time 02/12/09,14:02:20)
+		(User ray.zhou)
+		(MsgId ECO_021)
+		(Text "Package AD9516_4PCBZ_1 added to cell")
+		(Param1 AD9516_4PCBZ_1)
+	)
+	(Comment
+		(Time 02/12/09,14:02:31)
+		(User ray.zhou)
+		(MsgId ECO_022)
+		(Text "Package AD9516_4PCBZ_1 deleted from cell")
+		(Param1 AD9516_4PCBZ_1)
+	)

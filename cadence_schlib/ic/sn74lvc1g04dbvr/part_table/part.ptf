@@ -1,0 +1,12 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'SN74LVC1G04DBVR'
+
+{========================================================================================}
+:VALUE=COMP_NAME|PART_NUMBER|VENDOR|JEDEC_TYPE|ALT_SYMBOLS|LAST_MODIFY;
+{========================================================================================}
+'SN74LVC1G04DBVR'(~SN74LVC1G04DBVR)='SN74LVC1G04DBVR'|'05011600109'|'TI'|'SOT23-5'|'(SOT23-5)'|'2012-03-13'
+END_PART
+
+END.
+

@@ -1,0 +1,160 @@
+(Cell	mc306_g06q
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.4)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	02/10/09,15:20:09)
+
+			(User	ray.zhou)
+
+			(Path	ic_lib.mc306_g06q)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	0000000096327979)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	02/10/09,15:20:09)
+
+							(User	ray.zhou)
+
+							(Path	ic_lib.mc306_g06q)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001a6c0335)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000f805eb48)
+
+			(Primitives	1
+
+				(Primitive	MC306_G06Q
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	02/10/09,15:20:09)
+
+							(User	ray.zhou)
+
+							(Path	ic_lib.mc306_g06q)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	MC306_G06Q
+
+							(PackType	MC306_G06Q)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001b9303b2)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.51-p002)
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001baa0377)
+
+)
+

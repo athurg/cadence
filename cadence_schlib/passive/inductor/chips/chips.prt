@@ -1,0 +1,27 @@
+FILE_TYPE=LIBRARY_PARTS;
+primitive 'INDUCTOR';
+  pin
+    'A':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+      NO_LOAD_CHECK='BOTH';
+      NO_IO_CHECK='BOTH';
+      ALLOW_CONNECT='TRUE';
+      PIN_GROUP='1';
+    'B':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+      NO_LOAD_CHECK='BOTH';
+      NO_IO_CHECK='BOTH';
+      ALLOW_CONNECT='TRUE';
+      PIN_GROUP='1';
+  end_pin;
+  body
+    PART_NAME='INDUCTOR';
+    BODY_NAME='INDUCTOR';
+    PHYS_DES_PREFIX='L';
+    CLASS='DISCRETE';
+  end_body;
+end_primitive;
+
+END.

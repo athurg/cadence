@@ -1,0 +1,160 @@
+(Cell	ath030a0x3_srhz
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.4)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	04/27/09,11:18:35)
+
+			(User	wish.wang)
+
+			(Path	discrete.ath030a0x3_srhz)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000e4a80dcb)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.3)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	04/27/09,11:18:35)
+
+							(User	wish.wang)
+
+							(Path	discrete.ath030a0x3_srhz)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001dd6040c)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000cfff0be1)
+
+			(Primitives	1
+
+				(Primitive	ATH030A0X3_SRHZ
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	04/27/09,11:18:35)
+
+							(User	wish.wang)
+
+							(Path	discrete.ath030a0x3_srhz)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	ATH030A0X3_SRHZ
+
+							(PackType	ATH030A0X3_SRHZ)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001f350442)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.51-p002)
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001b53034a)
+
+)
+

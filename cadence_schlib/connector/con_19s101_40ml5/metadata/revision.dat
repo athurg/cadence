@@ -1,0 +1,162 @@
+(Cell	con_19s101_40ml5
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.4)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	04/16/12,17:38:24)
+
+			(User	neon.peng)
+
+			(Path	lib_creation_lib.con_19s101_40ml5)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Chips
+
+			(Checksum	00000000986598a3)
+
+			(Primitives	1
+
+				(Primitive	CON_19S101_40ML5
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	04/16/12,17:38:24)
+
+							(User	neon.peng)
+
+							(Path	lib_creation_lib.con_19s101_40ml5)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	CON_19S101_40ML5
+
+							(PackType	CON_19S101_40ML5)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000f27f5bf4)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.4)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	04/16/12,17:38:24)
+
+							(User	neon.peng)
+
+							(Path	lib_creation_lib.con_19s101_40ml5)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001d7f03be)
+
+		)
+
+		(Checksum	000000001cde03dd)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.51-p002)
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001de30409)
+
+)
+

@@ -1,0 +1,170 @@
+(Cell	rj45
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.7)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	02/14/09,14:52:43)
+
+			(User	wish.wang)
+
+			(Path	discrete.rj45)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	02/19/09,10:30:07)
+
+			(User	ray.zhou)
+
+			(Path	connector_lib.rj45)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000008a25259f)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.3)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	02/14/09,14:52:43)
+
+							(User	wish.wang)
+
+							(Path	discrete.rj45)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001bab0387)
+
+		)
+
+		(View	Chips
+
+			(Checksum	0000000039805715)
+
+			(Primitives	1
+
+				(Primitive	RJ45
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.3)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	02/19/09,10:29:51)
+
+							(User	ray.zhou)
+
+							(Path	connector_lib.rj45)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	RJ45
+
+							(PackType	RJ45)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001bcd03b1)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.51-p002)
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001d9a03d1)
+
+)
+

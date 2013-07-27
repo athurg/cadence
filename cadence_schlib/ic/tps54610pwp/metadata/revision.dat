@@ -1,0 +1,160 @@
+(Cell	tps54610pwp
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.5)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	02/04/09,15:17:29)
+
+			(User	ray.zhou)
+
+			(Path	project_lib_lib.tps54610pwp)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	0000000042eda4b9)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.4)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	02/04/09,15:17:29)
+
+							(User	ray.zhou)
+
+							(Path	project_lib_lib.tps54610pwp)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001d3d03e0)
+
+		)
+
+		(View	Chips
+
+			(Checksum	000000006a77c6bd)
+
+			(Primitives	1
+
+				(Primitive	TPS54610PWP
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	02/04/09,15:17:29)
+
+							(User	ray.zhou)
+
+							(Path	project_lib_lib.tps54610pwp)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	TPS54610PWP
+
+							(PackType	TPS54610PWP)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001ce603e7)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.51-p002)
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001cd303af)
+
+)
+

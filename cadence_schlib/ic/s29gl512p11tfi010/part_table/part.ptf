@@ -1,0 +1,15 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 's29gl512p11tfi010'
+
+{========================================================================================}
+:VALUE=COMP_NAME|PART_NUMBER|VENDOR|JEDEC_TYPE|ALT_SYMBOLS|LAST_MODIFY;
+{========================================================================================}
+'s29gl512p11tfi010'(~s29gl512p11tfi010)='S29GL512P11TFI010'|'05012800113'|'spansion'|'TSOP-56'|'(TSOP-56)'|'2009-02-10'
+'S29GL256N10TF010'(~S29GL256N10TF010)='S29GL256N10TF010'|'05012800112'|'spansion'|'TSOP-56'|'(TSOP-56)'|'2009-09-04'
+'S29GL256P10TFI010'(~S29GL256P10TFI010)='S29GL256P10TFI010'|'05012800127'|'spansion'|'TSOP-56'|'(TSOP-56)'|'2009-09-16'
+
+END_PART
+
+END.
+

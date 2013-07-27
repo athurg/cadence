@@ -1,0 +1,160 @@
+(Cell	adl5380acpz
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.6)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	06/22/11,17:32:05)
+
+			(User	neon.peng)
+
+			(Path	lib_lib.adl5380acpz)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000003b1f5315)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.3)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	06/22/11,17:32:05)
+
+							(User	neon.peng)
+
+							(Path	lib_lib.adl5380acpz)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001c3e037b)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000c5d2bfb4)
+
+			(Primitives	1
+
+				(Primitive	ADL5380ACPZ
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	06/22/11,17:32:05)
+
+							(User	neon.peng)
+
+							(Path	lib_lib.adl5380acpz)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	ADL5380ACPZ
+
+							(PackType	ADL5380ACPZ)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001c5b03a7)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.51-p002)
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001c8703a7)
+
+)
+

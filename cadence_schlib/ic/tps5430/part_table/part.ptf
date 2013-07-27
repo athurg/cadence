@@ -1,0 +1,13 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'TPS5430'
+
+{========================================================================================}
+:VALUE           = COMP_NAME  | PART_NUMBER   | VENDOR    | JEDEC_TYPE | ALT_SYMBOLS  | LAST_MODIFY  ;
+{========================================================================================}
+ 'TPS5430DDARG4'(~TPS5430DDARG4) = 'TPS5430DDARG4' | '05013200134' | 'TI' | 'PSOP-8' | '(PSOP-8)' | '2010-04-20'
+
+END_PART
+
+END.
+

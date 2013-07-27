@@ -1,0 +1,12 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'XC5VSX50T_1FFG665I'
+
+{========================================================================================}
+:'VALUE'                                   = 'COMP_NAME'    |'PART_NUMBER'    |'VENDOR'    |'JEDEC_TYPE'    |'ALT_SYMBOLS'    |'LAST_MODIFY'    ;
+{========================================================================================}
+ 'XC5VSX50T_1FFG665I' (~XC5VSX50T_1FFG665I)  = 'XC5VSX50T_1FFG665I'  |'05012700129'  |'Xilinx'     |'BGA10-665'   |'(BGA10-665)'  |'2009-07-03'   
+
+END_PART
+
+END.

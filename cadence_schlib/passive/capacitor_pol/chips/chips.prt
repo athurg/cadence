@@ -1,0 +1,28 @@
+FILE_TYPE=LIBRARY_PARTS;
+primitive 'CAPACITOR_POL';
+  pin
+    'A':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+      NO_LOAD_CHECK='BOTH';
+      NO_IO_CHECK='BOTH';
+      ALLOW_CONNECT='TRUE';
+    'B':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+      NO_LOAD_CHECK='BOTH';
+      NO_IO_CHECK='BOTH';
+      ALLOW_CONNECT='TRUE';
+  end_pin;
+  body
+    PART_NAME='CAPACITOR_POL';
+    ALLOW_CONNECT='TRUE';
+    BODY_NAME='CAPACITOR_POL';
+    PINCOUNT='2';
+    SIZE='1';
+    PHYS_DES_PREFIX='C';
+    CLASS='DISCRETE';
+  end_body;
+end_primitive;
+
+END.

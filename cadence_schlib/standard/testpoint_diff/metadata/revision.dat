@@ -1,0 +1,178 @@
+(Cell	testpoint_diff
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.5)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	11/08/06,16:35:18)
+
+			(User	liyouzuo)
+
+			(Path	zte_standard.testpoint_diff)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	11/08/06,16:37:20)
+
+			(User	liyouzuo)
+
+			(Path	zte_standard.testpoint_diff)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Checksum	0000000018596ff0)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	11/08/06,16:36:28)
+
+							(User	liyouzuo)
+
+							(Path	zte_standard.testpoint_diff)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	0000000085e9038a)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000a04096f8)
+
+			(Primitives	1
+
+				(Primitive	TESTPOINT_DIFF
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	11/08/06,16:35:20)
+
+							(User	liyouzuo)
+
+							(Path	zte_standard.testpoint_diff)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	TESTPOINT_DIFF
+
+							(PackType	TESTPOINT_DIFF)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	0000000078600359)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.20-s005)
+
+		(License	Concept_HDL_studio)
+
+	)
+
+	(Checksum	000000005abe0327)
+
+)
+

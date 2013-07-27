@@ -1,0 +1,13 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'HMC714LP5'
+
+{========================================================================================}
+:VALUE           = COMP_NAME  | PART_NUMBER   | VENDOR    | JEDEC_TYPE | ALT_SYMBOLS  | LAST_MODIFY  ;
+{========================================================================================}
+ 'HMC714LP5'(~HMC714LP5) = 'HMC714LP5' | '05011000002' | 'Hittite' | 'LLP32' | '(LLP32)' | '2010-11-09'
+
+END_PART
+
+END.
+

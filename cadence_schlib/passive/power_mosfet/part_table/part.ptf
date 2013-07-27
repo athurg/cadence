@@ -1,0 +1,20 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'POWER_MOSFET'
+
+{========================================================================================}
+:'VALUE'                         = 'COMP_NAME'          |'PART_NUMBER'    |'VENDOR'    |'JEDEC_TYPE'    |'ALT_SYMBOLS'    |'LAST_MODIFY'    ;
+{========================================================================================}
+ 'IRF530NS' (~IRF530NS)  = 'IRF530NS'  |'05020200112'|'IRF'     |'D2PAK'       |'(D2PAK)'      |'2009-04-17'
+ 'IRF3710SPbF' (~IRF3710SPbF)  = 'IRF3710SPbF'  |'05020200110'|'IRF'     |'D2PAK'       |'(D2PAK)'      |'2009-05-18'
+ 'IRFZ46NSPbF' (~IRFZ46NSPbF)  = 'IRFZ46NSPbF'  |'05020200111'|'IRF'     |'D2PAK'       |'(D2PAK)'      |'2009-05-18'
+ 'SUM60N06-15' (~SUM60N06-15)  = 'SUM60N06-15'  |'05020200124'|'VISHAY'     |'D2PAK'       |'(D2PAK)'      |'2010-02-24'
+ 'SUM90N06-4M4P' (~SUM90N06-4M4P)  = 'SUM90N06-4M4P'  |'05020200131'|'VISHAY'     |'D2PAK'       |'(D2PAK)'      |'2010-06-11'
+ 'IRFS4410TRLPBF' (~IRFS4410TRLPBF)  = 'IRFS4410TRLPBF'  |'05020200137'|'IRF'     |'D2PAK'       |'(D2PAK)'      |'2010-09-14'
+ 'IRF4905SPBF' (~IRF4905SPBF)  = 'IRF4905SPBF'  |'05020200138'|'IRF'     |'D2PAK'       |'(D2PAK)'      |'2010-09-14'
+ 'IXTA140P05T' (~IXTA140P05T)  = 'IXTA140P05T'  |'05020200140'|'IXYS'     |'D2PAK'       |'(D2PAK)'      |'2010-09-14'
+ 'IXTA76N075T' (~IXTA76N075T)  = 'IXTA76N075T'  |'05020200142'|'IXYS'     |'D2PAK'       |'(D2PAK)'      |'2011-04-25'
+
+END_PART
+
+END.

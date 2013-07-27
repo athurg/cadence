@@ -1,0 +1,160 @@
+(Cell	PTVC75640_122R88M
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.2)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	04/16/09,17:41:49)
+
+			(User	wish.wang)
+
+			(Path	discrete.PTVC75640_122R88M)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000bb9cb098)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	04/16/09,17:41:49)
+
+							(User	wish.wang)
+
+							(Path	discrete.PTVC75640_122R88M)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001e9503e4)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000f169503f)
+
+			(Primitives	1
+
+				(Primitive	PTVC75640_122R88M
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	04/16/09,17:41:49)
+
+							(User	wish.wang)
+
+							(Path	discrete.PTVC75640_122R88M)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	PTVC75640_122R88M
+
+							(PackType	PTVC75640_122R88M)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001d8703b1)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.51-p002)
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001bc5037b)
+
+)
+

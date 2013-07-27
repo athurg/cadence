@@ -1,0 +1,31 @@
+FILE_TYPE=LIBRARY_PARTS;
+primitive 'FDV303N';
+  pin
+    'G':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      ALLOW_CONNECT='TRUE';
+    'S':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      ALLOW_CONNECT='TRUE';
+    'D':
+      PIN_NUMBER='(3)';
+      PINUSE='UNSPEC';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      ALLOW_CONNECT='TRUE';
+  end_pin;
+  body
+    BODY_NAME='FDV303N';
+    PART_NAME='FDV303N';
+    PHYS_DES_PREFIX='Q';
+    CLASS='DISCRETE';
+  end_body;
+end_primitive;
+
+END.

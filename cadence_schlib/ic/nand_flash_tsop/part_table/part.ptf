@@ -1,0 +1,14 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'NAND_FLASH_TSOP'
+
+{========================================================================================}
+:VALUE=COMP_NAME|PART_NUMBER|VENDOR|JEDEC_TYPE|ALT_SYMBOLS|LAST_MODIFY;
+{========================================================================================}
+'K9F2G08U0B_PCB0'(~K9F2G08U0B_PCB0)='K9F2G08U0B_PCB0'|'05012800129'|'Samsung'|'TSOP-48'|'(TSOP-48)'|'2010-02-24'
+'NAND08GW3B2AN6E'(~NAND08GW3B2AN6E)='NAND08GW3B2AN6E'|'05012800111'|'ST'     |'TSOP-48'|'(TSOP-48)'|'2010-02-24'
+
+END_PART
+
+END.
+

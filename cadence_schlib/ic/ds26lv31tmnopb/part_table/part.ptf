@@ -1,0 +1,12 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'DS26LV31TMNOPB'
+
+{========================================================================================}
+:'VALUE'                                   = 'COMP_NAME'    |'PART_NUMBER'    |'VENDOR'    |'JEDEC_TYPE'    |'ALT_SYMBOLS'    |'LAST_MODIFY'    ;
+{========================================================================================}
+ 'DS26LV31TMNOPB' (~DS26LV31TMNOPB)  = 'DS26LV31TMNOPB'  |'05010800128'  |'NS'     |'SOIC-16'   |'(SOIC-16)'  |'2011-07-08'   
+
+END_PART
+
+END.

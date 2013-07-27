@@ -1,0 +1,160 @@
+(Cell	con_sip254_4
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.2)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	09/24/09,10:58:33)
+
+			(User	wish.wang)
+
+			(Path	lib_lib.con_sip254_4)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000be7d83c9)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	09/24/09,10:58:33)
+
+							(User	wish.wang)
+
+							(Path	lib_lib.con_sip254_4)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001e5903ea)
+
+		)
+
+		(View	Chips
+
+			(Checksum	000000005dd0f15e)
+
+			(Primitives	1
+
+				(Primitive	CON_SIP254_4
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	09/24/09,10:58:33)
+
+							(User	wish.wang)
+
+							(Path	lib_lib.con_sip254_4)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	CON_SIP254_4
+
+							(PackType	CON_SIP254_4)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001c5d038d)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.51-p002)
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001c6c03ad)
+
+)
+

@@ -1,0 +1,13 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'AD9122BCPZRL'
+
+{========================================================================================}
+:VALUE=COMP_NAME|PART_NUMBER|VENDOR|JEDEC_TYPE|ALT_SYMBOLS|LAST_MODIFY;
+{========================================================================================}
+'AD9122BCPZRL'(~AD9122BCPZRL)='AD9122BCPZRL'|'05011300116'|'ADI'|'LFCSP-72'|'(LFCSP-72)'|'2010-10-14'
+
+END_PART
+
+END.
+

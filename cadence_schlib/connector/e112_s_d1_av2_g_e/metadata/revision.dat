@@ -1,0 +1,162 @@
+(Cell	e112_s_d1_av2_g_e
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.1)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	07/11/11,19:44:43)
+
+			(User	neon.peng)
+
+			(Path	lib_lib.e112_s_d1_av2_g_e)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Chips
+
+			(Checksum	0000000029192532)
+
+			(Primitives	1
+
+				(Primitive	E112_S_D1_AV2_G_E
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	07/11/11,19:44:43)
+
+							(User	neon.peng)
+
+							(Path	lib_lib.e112_s_d1_av2_g_e)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	E112_S_D1_AV2_G_E
+
+							(PackType	E112_S_D1_AV2_G_E)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000005d809346)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	07/11/11,19:44:43)
+
+							(User	neon.peng)
+
+							(Path	lib_lib.e112_s_d1_av2_g_e)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001b53036a)
+
+		)
+
+		(Checksum	000000001b690376)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.51-p002)
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001b640353)
+
+)
+

@@ -1,0 +1,20 @@
+FILE_TYPE=LIBRARY_PARTS;
+primitive 'MARK';
+  pin
+    'A':
+      PIN_NUMBER='(1)';
+      PIN_TYPE='ANALOG';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      ALLOW_CONNECT='TRUE';
+  end_pin;
+  body
+    PART_NAME='MARK';
+    BODY_NAME='MARK';
+    BOM_IGNORE='TRUE';
+    PHYS_DES_PREFIX='MR';
+    CLASS='DISCRETE';
+  end_body;
+end_primitive;
+
+END.

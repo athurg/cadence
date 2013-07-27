@@ -1,0 +1,13 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'ad9516_4pcbz'
+
+{========================================================================================}
+:VALUE=COMP_NAME|PART_NUMBER|VENDOR|JEDEC_TYPE|ALT_SYMBOLS|LAST_MODIFY;
+{========================================================================================}
+'ad9516_4pcbz'(~ad9516_4pcbz)='AD9516_4PCBZ'|'05010300101'|'adi'|'LFCSP64'|'(LFCSP64)'|'2009-02-10'
+
+END_PART
+
+END.
+

@@ -1,0 +1,14 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'TVS_1SMA'
+
+{========================================================================================}
+:'VALUE'                 = 'COMP_NAME'     |'PART_NUMBER'    |'VENDOR'    |'JEDEC_TYPE'    |'ALT_SYMBOLS'    |'LAST_MODIFY'    ;
+{========================================================================================}
+ '1SMA70AT3G' (~1SMA70AT3G)  = '1SMA70AT3G'  |'05020000148'|'ONSEMI'  |'SMA-5AT3'    |'(SMA-5AT3)'   |'2009-05-18'
+ '1SMA6.5AT3G' (~1SMA6.5AT3G)  = '1SMA6.5AT3G'  |'05020000134'|'ONSEMI'  |'SMA-5AT3'    |'(SMA-5AT3)'   |'2009-04-29'
+ '1SMA33AT3G' (~1SMA33AT3G)  = '1SMA33AT3G'  |'05020000132'|'ONSEMI'  |'SMA-5AT3'    |'(SMA-5AT3)'   |'2009-04-29'
+
+END_PART
+
+END.

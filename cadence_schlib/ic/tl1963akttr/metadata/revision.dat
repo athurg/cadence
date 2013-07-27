@@ -1,0 +1,160 @@
+(Cell	tl1963akttr
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.2)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	09/08/09,09:37:56)
+
+			(User	ray.zhou)
+
+			(Path	ic_lib.tl1963akttr)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000655fb0d0)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	09/08/09,09:37:56)
+
+							(User	ray.zhou)
+
+							(Path	ic_lib.tl1963akttr)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001c3f03ad)
+
+		)
+
+		(View	Chips
+
+			(Checksum	0000000022334dd4)
+
+			(Primitives	1
+
+				(Primitive	TL1963AKTTR
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	09/08/09,09:37:56)
+
+							(User	ray.zhou)
+
+							(Path	ic_lib.tl1963akttr)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	TL1963AKTTR
+
+							(PackType	TL1963AKTTR)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001b770351)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.51-p002)
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001b57034b)
+
+)
+

@@ -1,0 +1,12 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'ICS8302AMILFT'
+
+{========================================================================================}
+:'VALUE'                         = 'COMP_NAME'     |'PART_NUMBER'    |'VENDOR'    |'JEDEC_TYPE'    |'ALT_SYMBOLS'    |'LAST_MODIFY'    ;
+{========================================================================================}
+ 'ICS8302AMILFT' (~ICS8302AMILFT)  = 'ICS8302AMILFT'  |''             |'ICS'  |'SO-8'    |'(SO-8)'   |'2009-04-30'   
+
+END_PART
+
+END.

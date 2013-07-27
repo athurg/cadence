@@ -1,0 +1,12 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'MOSFET_IRF7476PbF'
+
+{========================================================================================}
+:'VALUE'                                   = 'COMP_NAME'     |'PART_NUMBER'    |'VENDOR'    |'JEDEC_TYPE'    |'ALT_SYMBOLS'    |'LAST_MODIFY'    ;
+{========================================================================================}
+ 'MOSFET_IRF7476PbF' (~MOSFET_IRF7476PbF)  = 'IRF7476PbF'  |'05020200114'|'IRF'     |'SO-8'        |'(SO-8)'       |'2009-05-18'   
+
+END_PART
+
+END.

@@ -1,0 +1,13 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'HMC245QS16E'
+
+{========================================================================================}
+:VALUE=COMP_NAME|PART_NUMBER|VENDOR|JEDEC_TYPE|ALT_SYMBOLS|LAST_MODIFY;
+{========================================================================================}
+'HMC245QS16E'(~HMC245QS16E)='HMC245QS16E'|'05011400027'|'hittite'|'TSSOP25-16'|'(TSSOP25-16)'|'2010-10-14'
+
+END_PART
+
+END.
+

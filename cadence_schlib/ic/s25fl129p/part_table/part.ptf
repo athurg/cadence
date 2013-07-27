@@ -1,0 +1,13 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'S25FL129P'
+
+{========================================================================================}
+:VALUE           = COMP_NAME  | PART_NUMBER   | VENDOR    | JEDEC_TYPE | ALT_SYMBOLS  | LAST_MODIFY  ;
+{========================================================================================}
+ 'S25FL129P0XMFI00'(~S25FL129P0XMFI00) = 'S25FL129P0XMFI00' | '05012800138' | 'SPANSION' | 'so3-16' | '(so3-16)' | '2010-07-27'
+
+END_PART
+
+END.
+

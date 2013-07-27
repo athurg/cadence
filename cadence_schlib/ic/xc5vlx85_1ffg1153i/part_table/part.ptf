@@ -1,0 +1,13 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'xc5vlx85_1ffg1153i'
+
+{========================================================================================}
+:VALUE=COMP_NAME|PART_NUMBER|VENDOR|JEDEC_TYPE|ALT_SYMBOLS|LAST_MODIFY;
+{========================================================================================}
+'xc5vlx85_1ffg1153i'(~xc5vlx85_1ffg1153i)='XC5VLX85_1FFG1153I'|'05012700004'|'xilinx'|'BGA10-1153'|'(BGA10-1153)'|'2009-02-16'
+'XC5VLX50_1FFG1153I'(~XC5VLX50_1FFG1153I)='XC5VLX50_1FFG1153I'|'05012700135'|'xilinx'|'BGA10-1153'|'(BGA10-1153)'|'2009-12-02'
+
+END_PART
+
+END.

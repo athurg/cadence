@@ -1,0 +1,13 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'TP_GND'
+
+{========================================================================================}
+:VENDOR_PART_NUMBER(OPT)           = COMP_NAME                | PART_NUMBER         | VENDOR     | FUNCTION            | JEDEC_TYPE         | ALT_SYMBOLS          | DESCRIPTION | DEFAULT_SIGNAL_MODEL | STATUS               | COST | LAST_MODIFY  ;
+{========================================================================================}
+ 'TP_GND'(!)                           = 'TP_GND'                     | '1/40X042080200043' | 'NO'       | 'TP_GND'         | 'TP'               | '(TP)'               | 'TESTPOINT' | ''                   | 'DO-NSV-NV-NSIMV'    | '0'  | '2009-3-13' 
+
+END_PART
+
+END.
+

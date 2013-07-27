@@ -1,0 +1,160 @@
+(Cell	s29gl512p11tfi010
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.5)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	02/03/09,17:33:50)
+
+			(User	ray.zhou)
+
+			(Path	project_lib_lib.s29gl512p11tfi010)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000d116e9d9)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.4)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	02/03/09,17:33:50)
+
+							(User	ray.zhou)
+
+							(Path	project_lib_lib.s29gl512p11tfi010)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001cbb03b8)
+
+		)
+
+		(View	Chips
+
+			(Checksum	0000000000af50d8)
+
+			(Primitives	1
+
+				(Primitive	S29GL512P11TFI010
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	02/03/09,17:33:50)
+
+							(User	ray.zhou)
+
+							(Path	project_lib_lib.s29gl512p11tfi010)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	S29GL512P11TFI010
+
+							(PackType	S29GL512P11TFI010)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001c4f037f)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.51-p002)
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001c7003af)
+
+)
+

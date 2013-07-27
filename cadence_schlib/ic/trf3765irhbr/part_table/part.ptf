@@ -1,0 +1,12 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'TRF3765IRHBR'
+
+{========================================================================================}
+:'VALUE'                                                     = 'COMP_NAME'              |'PART_NUMBER'    |'VENDOR'    |'JEDEC_TYPE'    |'ALT_SYMBOLS'    |'LAST_MODIFY'    ;
+{========================================================================================}
+ 'TRF3765IRHBR' (~TRF3765IRHBR)  = 'TRF3765IRHBR'  |'05010300110'   |'TI'  |'QFN-32'   |'(QFN-32)'  |'2012-02-28'
+
+END_PART
+
+END.

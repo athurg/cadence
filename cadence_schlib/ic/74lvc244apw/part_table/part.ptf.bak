@@ -1,0 +1,13 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART '74lvc244apw'
+
+{========================================================================================}
+:VALUE=COMP_NAME|PART_NUMBER|VENDOR|JEDEC_TYPE|ALT_SYMBOLS|LAST_MODIFY;
+{========================================================================================}
+'74lvc244apw'(~74lvc244apw)='74LVC244APW'|'41001035053'|'nxp'|'TSSOP-20'|'(TSSOP-20)'|'2009-02-13'
+
+END_PART
+
+END.
+

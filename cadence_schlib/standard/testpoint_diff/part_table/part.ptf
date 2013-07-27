@@ -1,0 +1,14 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'TESTPOINT_DIFF'
+
+{========================================================================================}
+:VENDOR_PART_NUMBER(OPT)            = COMP_NAME        | PART_NUMBER      | STATUS            | VENDOR | FUNCTION         | JEDEC_TYPE       | ALT_SYMBOLS        | DESCRIPTION | DEFAULT_SIGNAL_MODEL | LAST_MODIFY  ;
+{========================================================================================}
+ 'TESTPOINT_DIFF'(~TESTPOINT_DIFF)  = 'TESTPOINT_DIFF' | 'TESTPOINT_DIFF' | 'DO-NSV-NV-NSIMV' | 'ZTE'  | 'TESTPOINT_DIFF' | 'TESTPOINT_DIFF' | '(TESTPOINT_DIFF)' | ''          | ''                   | '2006-11-08'
+
+
+END_PART
+
+END.
+

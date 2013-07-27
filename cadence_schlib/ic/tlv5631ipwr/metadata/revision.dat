@@ -1,0 +1,160 @@
+(Cell	tlv5631ipwr
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.2)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	07/11/11,13:37:53)
+
+			(User	neon.peng)
+
+			(Path	lib_lib.tlv5631ipwr)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000c8d8dcc6)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	07/11/11,13:37:53)
+
+							(User	neon.peng)
+
+							(Path	lib_lib.tlv5631ipwr)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001e950418)
+
+		)
+
+		(View	Chips
+
+			(Checksum	0000000020a8c519)
+
+			(Primitives	1
+
+				(Primitive	TLV5631IPWR
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	07/11/11,13:37:53)
+
+							(User	neon.peng)
+
+							(Path	lib_lib.tlv5631ipwr)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	TLV5631IPWR
+
+							(PackType	TLV5631IPWR)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001d2603b1)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.51-p002)
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001b9c0374)
+
+)
+

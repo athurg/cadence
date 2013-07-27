@@ -1,0 +1,162 @@
+(Cell	idtf1150nbgi8
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.1)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	04/07/12,15:33:30)
+
+			(User	neon.peng)
+
+			(Path	lib_creation_lib.idtf1150nbgi8)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Chips
+
+			(Checksum	000000002472c15b)
+
+			(Primitives	1
+
+				(Primitive	IDTF1150NBGI8
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	04/07/12,15:33:30)
+
+							(User	neon.peng)
+
+							(Path	lib_creation_lib.idtf1150nbgi8)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	IDTF1150NBGI8
+
+							(PackType	IDTF1150NBGI8)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	0000000083a00328)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	04/07/12,15:33:30)
+
+							(User	neon.peng)
+
+							(Path	lib_creation_lib.idtf1150nbgi8)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001c4b037f)
+
+		)
+
+		(Checksum	000000001c5c03ab)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.51-p002)
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001cb703d3)
+
+)
+

@@ -1,0 +1,160 @@
+(Cell	MP2602DQ_LF
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.2)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	10/21/10,14:36:18)
+
+			(User	Eva.zhao)
+
+			(Path	lib_lib.MP2602DQ_LF)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000258917fe)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	10/21/10,14:36:18)
+
+							(User	Eva.zhao)
+
+							(Path	lib_lib.MP2602DQ_LF)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001ada038c)
+
+		)
+
+		(View	Chips
+
+			(Checksum	000000003153343a)
+
+			(Primitives	1
+
+				(Primitive	MP2602DQ_LF
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	10/21/10,14:36:18)
+
+							(User	Eva.zhao)
+
+							(Path	lib_lib.MP2602DQ_LF)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	MP2602DQ_LF
+
+							(PackType	MP2602DQ_LF)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001cb203b1)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.51-p002)
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001ca1039f)
+
+)
+

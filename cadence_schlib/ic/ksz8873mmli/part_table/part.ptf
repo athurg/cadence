@@ -1,0 +1,12 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'KSZ8873MMLI'
+
+{========================================================================================}
+:'VALUE'                             = 'COMP_NAME'        |'PART_NUMBER'    |'VENDOR'    |'JEDEC_TYPE'    |'ALT_SYMBOLS'    |'LAST_MODIFY'    ;
+{========================================================================================}
+ 'KSZ8873MMLI' (~KSZ8873MMLI)  = 'KSZ8873MMLI'  |'05010800135'  |'MICREL'  |'LQFP-64'    |'(LQFP-64)'   |'2012-04-10'
+
+END_PART
+
+END.

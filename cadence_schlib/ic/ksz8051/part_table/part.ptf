@@ -1,0 +1,12 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'KSZ8051'
+
+{========================================================================================}
+:'VALUE'                     = 'COMP_NAME'     |'PART_NUMBER'    |'VENDOR'     |'JEDEC_TYPE'    |'ALT_SYMBOLS'    |'LAST_MODIFY'    ;
+{========================================================================================}
+ 'KSZ8051MNL' (~KSZ8051MNL)  = 'KSZ8051MNL'  |''  |'Micrel'  |'QFN-32'       |'(QFN-32)'      |'2011-03-09'
+ 'KSZ8041NLI' (~KSZ8041NLI)  = 'KSZ8041NLI'  |'05010800126'  |'Micrel'  |'QFN-32'       |'(QFN-32)'      |'2011-04-11'
+END_PART
+
+END.

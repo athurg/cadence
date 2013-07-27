@@ -1,0 +1,13 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'JS28F512M29EWH'
+
+{========================================================================================}
+:VALUE           = COMP_NAME  | PART_NUMBER   | VENDOR    | JEDEC_TYPE | ALT_SYMBOLS  | LAST_MODIFY  ;
+{========================================================================================}
+ 'JS28F512M29EWH'(~JS28F512M29EWH) = 'JS28F512M29EWH' | '05012800118' | 'NUMONYX' | 'TSOP-56' | '(TSOP-56)' | '2009-04-10'
+
+END_PART
+
+END.
+

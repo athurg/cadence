@@ -1,0 +1,160 @@
+(Cell	con_ehf_108_01_l_d_sm_lc
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.4)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	09/18/09,11:36:37)
+
+			(User	ray.zhou)
+
+			(Path	connector_lib.con_ehf_108_01_l_d_sm_lc)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000c94c6d73)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.3)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	09/18/09,11:36:37)
+
+							(User	ray.zhou)
+
+							(Path	connector_lib.con_ehf_108_01_l_d_sm_lc)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001d4303b8)
+
+		)
+
+		(View	Chips
+
+			(Checksum	0000000020852051)
+
+			(Primitives	1
+
+				(Primitive	CON_EHF_108_01_L_D_SM_LC
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	09/18/09,11:36:37)
+
+							(User	ray.zhou)
+
+							(Path	connector_lib.con_ehf_108_01_l_d_sm_lc)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	CON_EHF_108_01_L_D_SM_LC
+
+							(PackType	CON_EHF_108_01_L_D_SM_LC)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001c8b0382)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.51-p002)
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001c42037c)
+
+)
+

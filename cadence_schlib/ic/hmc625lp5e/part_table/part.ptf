@@ -1,0 +1,13 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'HMC625LP5E'
+
+{========================================================================================}
+:VALUE=COMP_NAME|PART_NUMBER|VENDOR|JEDEC_TYPE|ALT_SYMBOLS|LAST_MODIFY;
+{========================================================================================}
+'HMC625LP5E'(~HMC625LP5E)='HMC625LP5E'|'05010100045'|'hittite'|'LLP32'|'(LLP32)'|'2009-03-04'
+
+END_PART
+
+END.
+

@@ -1,0 +1,14 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'MCX'
+
+{========================================================================================}
+:'VALUE'                           = 'COMP_NAME'         |'PART_NUMBER'    |'VENDOR'    |'JEDEC_TYPE'    |'ALT_SYMBOLS'    |'LAST_MODIFY'    ;
+{========================================================================================}
+ '82_MCX-50-0-10' (~82_MCX-50-0-10)  = '82_MCX-50-0-10'  |'06030000185'  |'Hubersuhner'        |'CON-MCX'    |'(CON-MCX)'   |'2009-09-04'
+ 'MCX-KB' (~MCX-KB)  = 'MCX-KB'                          |'06030500143'  |'JP'                 |'CON-MCX-KHD1'    |'(CON-MCX-KHD1)'   |'2010-06-10'
+ 'MCX-KWHD' (~MCX-KWHD)  = 'MCX-KWHD'                          |'06030000230'  |'JP'                 |'CON-MCX-KWHD'    |'(CON-MCX-KWHD)'   |'2010-07-12'
+
+END_PART
+
+END.

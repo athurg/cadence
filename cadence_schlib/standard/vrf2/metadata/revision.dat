@@ -1,0 +1,88 @@
+(Cell	vrf2
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.3)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	05/10/07,14:55:53)
+
+			(User	Administrator)
+
+			(Path	standard.vrf2)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Sizable)
+
+					(Checksum	00000000b69c4a0b)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	05/10/07,14:55:53)
+
+							(User	Administrator)
+
+							(Path	standard.vrf2)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	00000000a32703dc)
+
+		)
+
+		(Checksum	0000000064e603a8)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.20-s005)
+
+		(License	Concept_HDL_expert)
+
+	)
+
+	(Checksum	0000000006d30382)
+
+)
+

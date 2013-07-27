@@ -1,0 +1,13 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'CON_CI2206P1VK0_LF'
+
+{========================================================================================}
+:VALUE           = COMP_NAME  | PART_NUMBER   | VENDOR    | JEDEC_TYPE | ALT_SYMBOLS  | LAST_MODIFY  ;
+{========================================================================================}
+ 'CON_CI2206P1VK0_LF'(~CON_CI2206P1VK0_LF) = 'CON_CI2206P1VK0_LF' | '06030100004' | 'Cvilux' | 'CON-SIP25-6' | '(CON-SIP25-6)' | '2009-09-10'
+
+END_PART
+
+END.
+

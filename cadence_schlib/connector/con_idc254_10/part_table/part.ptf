@@ -1,0 +1,14 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'CON_IDC254_10'
+
+{========================================================================================}
+:VALUE           = COMP_NAME  | PART_NUMBER   | VENDOR    | JEDEC_TYPE | ALT_SYMBOLS  | LAST_MODIFY  ;
+{========================================================================================}
+ 'CON_IDC254_10'(~CON_IDC254_10) = 'CON_IDC254_10' | '06030200118' | 'Cvilux' | 'CON-IDC254-10' | '(CON-IDC254-10)' | '2009-02-12'
+ 'CON_IDC254_10_SMD'(~CON_IDC254_10_SMD) = 'CON_IDC254_10_SMD' | '' | '' | 'CON-IDC254-10-SMD' | '(CON-IDC254-10-SMD)' | '2010-06-08'
+
+END_PART
+
+END.
+

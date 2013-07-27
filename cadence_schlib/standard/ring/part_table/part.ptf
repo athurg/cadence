@@ -1,0 +1,51 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'RING'
+
+{========================================================================================}
+:VENDOR_PART_NUMBER(OPT)   = COMP_NAME              | PART_NUMBER            | VENDOR | FUNCTION | JEDEC_TYPE             | ALT_SYMBOLS              | DESCRIPTION | DEFAULT_SIGNAL_MODEL | COST | STATUS            | LAST_MODIFY  ;
+{========================================================================================}
+ 'HOLE_SM_8R00D3R50'(!)    = 'HOLE_SM_8R00D3R50'    | 'HOLE_SM_8R00D3R50'    | ''     | ''       | 'HOLE_SM_8R00D3R50'    | '(HOLE_SM_8R00D3R50)'    | ''          | ''                   | '0'  | 'DO-NSV-NV-NSIMV' | '2003-10-31'
+ 'HOLE_SM_7R00D2R70'(!)    = 'HOLE_SM_7R00D2R70'    | 'HOLE_SM_7R00D2R70'    | ''     | ''       | 'HOLE_SM_7R00D2R70'    | '(HOLE_SM_7R00D2R70)'    | ''          | ''                   | '0'  | 'DO-NSV-NV-NSIMV' | '2003-10-31'
+ 'HOLE_SM_7R00D2R80'(!)    = 'HOLE_SM_7R00D2R80'    | 'HOLE_SM_7R00D2R80'    | ''     | ''       | 'HOLE_SM_7R00D2R80'    | '(HOLE_SM_7R00D2R80)'    | ''          | ''                   | '0'  | 'DO-NSV-NV-NSIMV' | '2003-10-31'
+ 'HOLE_SM_6R00D2r70'(!)    = 'HOLE_SM_6R00D2r70'    | 'HOLE_SM_6R00D2r70'    | ''     | ''       | 'HOLE_SM_6R00D2R70'    | '(HOLE_SM_6R00D2R80)'    | ''          | ''                   | '0'  | 'DO-NSV-NV-NSIMV' | '2003-10-31'
+ 'HOLE_SM_6R00D3R00'(!)    = 'HOLE_SM_6R00D3R00'    | 'HOLE_SM_6R00D3R00'    | ''     | ''       | 'HOLE_SM_6R00D3R00'    | '(HOLE_SM_6R00D3R00)'    | ''          | ''                   | '0'  | 'DO-NSV-NV-NSIMV' | '2003-10-31'
+ 'HOLE_SM_8R00D3R20'(!)    = 'HOLE_SM_8R00D3R20'    | 'HOLE_SM_8R00D3R20'    | ''     | ''       | 'HOLE_SM_8R00D3R20'    | '(HOLE_SM_8R00D3R20)'    | ''          | ''                   | '0'  | 'DO-NSV-NV-NSIMV' | '2003-11-5' 
+ 'HOLE_SM_6R00D3R20'(!)    = 'HOLE_SM_6R00D3R20'    | 'HOLE_SM_6R00D3R20'    | ''     | ''       | 'HOLE_SM_6R00D3R20'    | '(HOLE_SM_6R00D3R20)'    | ''          | ''                   | '0'  | 'DO-NSV-NV-NSIMV' | '2003-11-13'
+ 'HOLE_SM_S7R00D2R80_1'(!) = 'HOLE_SM_S7R00D2R80_1' | 'HOLE_SM_S7R00D2R80_1' | ''     | ''       | 'HOLE_SM_S7R00D2R80_1' | '(HOLE_SM_S7R00D2R80_1)' | ''          | ''                   | '0'  | 'DO-NSV-NV-NSIMV' | '2004-1-17' 
+ 'HOLE_SM_S7R00D2R80_2'(!) = 'HOLE_SM_S7R00D2R80_2' | 'HOLE_SM_S7R00D2R80_2' | ''     | ''       | 'HOLE_SM_S7R00D2R80_2' | '(HOLE_SM_S7R00D2R80_2)' | ''          | ''                   | '0'  | 'DO-NSV-NV-NSIMV' | '2004-1-17' 
+ 'HOLE_SM_8R00D4R50'(!)    = 'HOLE_SM_8R00D4R50'    | 'HOLE_SM_8R00D4R50'    | ''     | ''       | 'HOLE_SM_8R00D4R50'    | '(HOLE_SM_8R00D4R50)'    | ''          | ''                   | '0'  | 'DO-NSV-NV-NSIMV' | '2004-4-8'  
+ 'HOLE_SM_7R00D3R50'(!)    = 'HOLE_SM_7R00D3R50'    | 'HOLE_SM_7R00D3R50'    | ''     | ''       | 'HOLE_SM_7R00D3R50'    | '(HOLE_SM_7R00D3R50)'    | ''          | ''                   | '0'  | 'DO-NSV-NV-NSIMV' | '2004-6-10' 
+ 'HOLE_SM_7R50D3R20'(!)    = 'HOLE_SM_7R50D3R20'    | 'HOLE_SM_7R50D3R20'    | ''     | ''       | 'HOLE_SM_7R50D3R20'    | '(HOLE_SM_7R50D3R20)'    | ''          | ''                   | '0'  | 'DO-NSV-NV-NSIMV' | '2004-6-21' 
+ 'HOLE_SM_7R00D3R20'(!)    = 'HOLE_SM_7R00D3R20'    | 'HOLE_SM_7R00D3R20'    | ''     | ''       | 'HOLE_SM_7R00D3R20'    | '(HOLE_SM_7R00D3R20)'    | ''          | ''                   | '0'  | 'DO-NSV-NV-NSIMV' | '2004-6-24' 
+ 'HOLE_SM_7R50D3R00'(!)    = 'HOLE_SM_7R50D3R00'    | 'HOLE_SM_7R50D3R00'    | ''     | ''       | 'HOLE_SM_7R50D3R00'    | '(HOLE_SM_7R50D3R00)'    | ''          | ''                   | '0'  | 'DO-NSV-NV-NSIMV' | '2004-6-21' 
+ 'HOLE_SM_6R00D2R80'(!)    = 'HOLE_SM_6R00D2R80'    | 'HOLE_SM_6R00D2R80'    | ''     | ''       | 'HOLE_SM_6R00D2R80'    | '(HOLE_SM_6R00D2R80)'    | ''          | ''                   | '0'  | 'DO-NSV-NV-NSIMV' | '2004-9-28' 
+ 'HOLE_SM_7R50D2R80'(!)    = 'HOLE_SM_7R50D2R80'    | 'HOLE_SM_7R50D2R80'    | ''     | ''       | 'HOLE_SM_7R50D2R80'    | '(HOLE_SM_7R50D2R80)'    | ''          | ''                   | '0'  | 'DO-NSV-NV-NSIMV' | '2005-1-5'  
+ 'HOLE_SM_8R50D3R50'(!)    = 'HOLE_SM_8R50D3R50'    | 'HOLE_SM_8R50D3R50'    | ''     | ''       | 'HOLE_SM_8R50D3R50'    | '(HOLE_SM_8R50D3R50)'    | ''          | ''                   | '0'  | 'DO-NSV-NV-NSIMV' | '2005-2-24' 
+ 'HOLE_SM_8R00D4R20'(!)    = 'HOLE_SM_8R00D4R20'    | 'HOLE_SM_8R00D4R20'    | ''     | ''       | 'HOLE_SM_8R00D4R20'    | '(HOLE_SM_8R00D4R20)'    | ''          | ''                   | '0'  | 'DO-NSV-NV-NSIMV' | '2005-3-18' 
+ 'HOLE_SM_8R50D3R20'(!)    = 'HOLE_SM_8R50D3R20'    | 'HOLE_SM_8R50D3R20'    | ''     | ''       | 'HOLE_SM_8R50D3R20'    | '(HOLE_SM_8R50D3R20)'    | ''          | ''                   | '0'  | 'DO-NSV-NV-NSIMV' | '2005-3-30' 
+ 'HOLE_SM_7R50D2R70'(!)    = 'HOLE_SM_7R50D2R70'    | 'HOLE_SM_7R50D2R70'    | ''     | ''       | 'HOLE_SM_7R50D2R70'    | '(HOLE_SM_7R50D2R70)'    | ''          | ''                   | '0'  | 'DO-NSV-NV-NSIMV' | '2005-4-11' 
+ 'HOLE_SM_8R00D2R80'(!)    = 'HOLE_SM_8R00D2R80'    | 'HOLE_SM_8R00D2R80'    | ''     | ''       | 'HOLE_SM_8R00D2R80'    | '(HOLE_SM_8R00D2R80)'    | ''          | ''                   | '0'  | 'DO-NSV-NV-NSIMV' | '2005-7-29' 
+ 'HOLE_SM_4R50D2R50'(!)    = 'HOLE_SM_4R50D2R50'    | 'HOLE_SM_4R50D2R50'    | ''     | ''       | 'HOLE_SM_4R50D2R50'    | '(HOLE_SM_4R50D2R50)'    | ''          | ''                   | '0'  | 'DO-NSV-NV-NSIMV' | '2005-8-8'  
+ 'HOLE_SM_5R00D2R50'(!)    = 'HOLE_SM_5R00D2R50'    | 'HOLE_SM_5R00D2R50'    | ''     | ''       | 'HOLE_SM_5R00D2R50'    | '(HOLE_SM_5R00D2R50)'    | ''          | ''                   | '0'  | 'DO-NSV-NV-NSIMV' | '2005-8-9'  
+ 'HOLE_SM_8R00D4R00'(!)    = 'HOLE_SM_8R00D4R00'    | 'HOLE_SM_8R00D4R00'    | ''     | ''       | 'HOLE_SM_8R00D4R00'    | '(HOLE_SM_8R00D4R00)'    | ''          | ''                   | '0'  | 'DO-NSV-NV-NSIMV' | '2005-8-19' 
+ 'HOLE_SM_7R50D2R90'(!)    = 'HOLE_SM_7R50D2R90'    | 'HOLE_SM_7R50D2R90'    | ''     | ''       | 'HOLE_SM_7R50D2R90'    | '(HOLE_SM_7R50D2R90)'    | ''          | ''                   | '0'  | 'DO-NSV-NV-NSIMV' | '2006-7-10' 
+ 'HOLE_SM_7R50D2R60'(!)    = 'HOLE_SM_7R50D2R60'    | 'HOLE_SM_7R50D2R60'    | ''     | ''       | 'HOLE_SM_7R50D2R60'    | '(HOLE_SM_7R50D2R60)'    | ''          | ''                   | '0'  | 'DO-NSV-NV-NSIMV' | '2006-7-12' 
+ 'HOLE_SM_10R00D4R50'(!)   = 'HOLE_SM_10R00D4R50'   | 'HOLE_SM_10R00D4R50'   | ''     | ''       | 'HOLE_SM_10R00D4R50'   | '(HOLE_SM_10R00D4R50)'   | ''          | ''                   | '0'  | 'DO-NSV-NV-NSIMV' | '2006-9-8'  
+ 'HOLE_SM_7R00D3R00'(!)    = 'HOLE_SM_7R00D3R00'    | 'HOLE_SM_7R00D3R00'    | ''     | ''       | 'HOLE_SM_7R00D3R00'    | '(HOLE_SM_7R00D3R00)'    | ''          | ''                   | '0'  | 'DO-NSV-NV-NSIMV' | '2006-9-18' 
+ 'HOLE_SM_12R00D5R20'(!)   = 'HOLE_SM_12R00D5R20'   | 'HOLE_SM_12R00D5R20'   | ''     | ''       | 'HOLE_SM_12R00D5R20'   | '(HOLE_SM_12R00D5R20)'   | ''          | ''                   | '0'  | 'DO-NSV-NV-NSIMV' | '2006-11-9' 
+ 'HOLE_SM_10R00D2R85'(!)   = 'HOLE_SM_10R00D2R85'   | 'HOLE_SM_10R00D2R85'   | ''     | ''       | 'HOLE_SM_10R00D2R85'   | '(HOLE_SM_10R00D2R85)'   | ''          | ''                   | '0'  | 'DO-NSV-NV-NSIMV' | '2006-11-15'
+ 'HOLE_SM_12R00D4R80'(!)   = 'HOLE_SM_12R00D4R80'   | 'HOLE_SM_12R00D4R80'   | ''     | ''       | 'HOLE_SM_12R00D4R80'   | '(HOLE_SM_12R00D4R80)'   | ''          | ''                   | '0'  | 'DO-NSV-NV-NSIMV' | '2006-12-5' 
+ 'HOLE_SM_7R50D3R50'(!)    = 'HOLE_SM_7R50D3R50'    | 'HOLE_SM_7R50D3R50'    | ''     | ''       | 'HOLE_SM_7R50D3R50'    | '(HOLE_SM_7R50D3R50)'    | ''          | ''                   | '0'  | 'DO-NSV-NV-NSIMV' | '2006-12-29'
+ 'HOLE_SM_8R00D3R10'(!)    = 'HOLE_SM_8R00D3R10'    | 'HOLE_SM_8R00D3R10'    | ''     | ''       | 'HOLE_SM_8R00D3R10'    | '(HOLE_SM_8R00D1R10)'    | ''          | ''                   | '0'  | 'DO-NSV-NV-NSIMV' | '2007-1-17' 
+ 'hole_sm_10r00d3r80'(!)   = 'hole_sm_10r00d3r80'   | 'hole_sm_10r00d3r80'   | ''     | ''       | 'HOLE_SM_10R00D3R80'   | '(HOLE_SM_10R00D3R80)'   | ''          | ''                   | '0'  | 'DO-NSV-NV-NSIMV' | '2007-2-8'  
+ 'hole_sm_6r50d3r00'(!)    = 'hole_sm_6r50d3r00'    | 'hole_sm_6r50d3r00'    | ''     | ''       | 'HOLE_SM_6R50D3R00'    | '(HOLE_SM_6R50D3R00)'    | ''          | ''                   | '0'  | 'DO-NSV-NV-NSIMV' | '2007-5-15' 
+ 'HOLE_SM_4R50D2R70'(!)    = 'HOLE_SM_4R50D2R70'    | 'HOLE_SM_4R50D2R70'    | ''     | ''       | 'HOLE_SM_4R50D2R70'    | '(HOLE_SM_4R50D2R70)'    | ''          | ''                   | '0'  | 'DO-NSV-NV-NSIMV' | '2007-9-21'  
+ 'HOLE_SM_10R00D4R00'(!)    = 'HOLE_SM_10R00D4R00'    | 'HOLE_SM_10R00D4R00'    | ''     | ''       | 'HOLE_SM_10R00D4R00'    | '(HOLE_SM_10R00D4R00)'    | ''          | ''                   | '0'  | 'DO-NSV-NV-NSIMV' | '2007-9-27'  
+ 'HOLE_SM_8R00D2R60'(!)    = 'HOLE_SM_8R00D2R60'    | 'HOLE_SM_8R00D2R60'    | ''     | ''       | 'HOLE_SM_8R00D2R60'    | '(HOLE_SM_8R00D2R60)'    | ''          | ''                   | '0'  | 'DO-NSV-NV-NSIMV' | '2007-10-10'  
+
+
+END_PART
+
+END.
+

@@ -1,0 +1,160 @@
+(Cell	CON_M_DV200_14
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.3)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	08/08/11,15:48:23)
+
+			(User	wish.wang)
+
+			(Path	lib_lib.CON_M_DV200_14)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000808b417a)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.3)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	08/08/11,15:48:23)
+
+							(User	wish.wang)
+
+							(Path	lib_lib.CON_M_DV200_14)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001b4c0380)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000cc92bb04)
+
+			(Primitives	1
+
+				(Primitive	CON_M_DV200_14
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	08/08/11,15:48:23)
+
+							(User	wish.wang)
+
+							(Path	lib_lib.CON_M_DV200_14)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	CON_M_DV200_14
+
+							(PackType	CON_M_DV200_14)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001f250419)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.51-p002)
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001b4e034d)
+
+)
+

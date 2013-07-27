@@ -1,0 +1,160 @@
+(Cell	inductor_power
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.5)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	02/24/10,15:37:36)
+
+			(User	wish.wang)
+
+			(Path	lib_lib.inductor_power)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000ec7b73c8)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.4)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	02/24/10,15:37:36)
+
+							(User	wish.wang)
+
+							(Path	lib_lib.inductor_power)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001e5403e7)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000c5b6989d)
+
+			(Primitives	1
+
+				(Primitive	INDUCTOR_POWER
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	02/24/10,15:37:36)
+
+							(User	wish.wang)
+
+							(Path	lib_lib.inductor_power)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	INDUCTOR_POWER
+
+							(PackType	INDUCTOR_POWER)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001d1a03b3)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.51-p002)
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001c6f03a0)
+
+)
+

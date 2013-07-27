@@ -1,0 +1,21 @@
+(Pinlist
+	(Pin
+		(Name A)
+		(MSB )
+		(LSB )
+		(Type ANALOG)
+		(Location Right)
+		(InputLoadLow )
+		(InputLoadHigh )
+		(OutputLoadLow )
+		(OutputLoadHigh )
+		(CheckLoad Off)
+		(CheckIO Off)
+		(CheckDir 1)
+		(CheckAssert 1)
+		(CheckOutput 0)
+		(UnknownLoading 0)
+	)
+
+
+)

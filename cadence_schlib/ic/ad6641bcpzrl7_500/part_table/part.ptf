@@ -1,0 +1,13 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'AD6641BCPZRL7_500'
+
+{========================================================================================}
+:VALUE               = COMP_NAME      | PART_NUMBER   | VENDOR | JEDEC_TYPE | ALT_SYMBOLS | LAST_MODIFY  ;
+{========================================================================================}
+ 'AD6641BCPZRL7_500'(~AD6641BCPZRL7_500) = 'AD6641BCPZRL7_500' | '05011200129' | 'ADI'   | 'LFCSP-56'  | '(LFCSP-56)' | '2012-1-12'
+
+END_PART
+
+END.
+

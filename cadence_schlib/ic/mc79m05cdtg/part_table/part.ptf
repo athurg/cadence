@@ -1,0 +1,12 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'MC79M05CDTG'
+
+{========================================================================================}
+:'VALUE'                       = 'COMP_NAME'      |'PART_NUMBER'    |'VENDOR'    |'JEDEC_TYPE'    |'ALT_SYMBOLS'    |'LAST_MODIFY'    ;
+{========================================================================================}
+ 'MC79M05CDTG' (~MC79M05CDTG)  = 'MC79M05CDTG'  |'05012300174'  |'ON'      |'DPAK'        |'(DPAK)'       |'2012-03-27'   
+
+END_PART
+
+END.

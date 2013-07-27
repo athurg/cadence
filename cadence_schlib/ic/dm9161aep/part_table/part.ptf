@@ -1,0 +1,14 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'dm9161aep'
+
+{========================================================================================}
+:VALUE=COMP_NAME|PART_NUMBER|VENDOR|JEDEC_TYPE|ALT_SYMBOLS|LAST_MODIFY;
+{========================================================================================}
+'dm9161aep'(~dm9161aep)='DM9161AEP'|'05012500115'|'davicom'|'DM9161AEP'|'(DM9161AEP)'|'2009-02-10'
+'DM9161BI'(~DM9161BI)='DM9161BI'|'05010800111'|'davicom'|'LQFP-48'|'(LQFP-48)'|'2009-08-21'
+
+END_PART
+
+END.
+

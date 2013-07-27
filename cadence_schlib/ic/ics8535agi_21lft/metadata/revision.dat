@@ -1,0 +1,162 @@
+(Cell	ics8535agi_21lft
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.2)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	04/17/09,10:34:06)
+
+			(User	wish.wang)
+
+			(Path	discrete.ics8535agi_21lft)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Chips
+
+			(Checksum	000000008efcc013)
+
+			(Primitives	1
+
+				(Primitive	ICS8535AGI_21LFT
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	04/17/09,10:34:06)
+
+							(User	wish.wang)
+
+							(Path	discrete.ics8535agi_21lft)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	ICS8535AGI_21LFT
+
+							(PackType	ICS8535AGI_21LFT)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000000e3e5db2)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	04/17/09,10:34:06)
+
+							(User	wish.wang)
+
+							(Path	discrete.ics8535agi_21lft)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001d5b03e0)
+
+		)
+
+		(Checksum	000000001c8f03a5)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.51-p002)
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001cab03ac)
+
+)
+

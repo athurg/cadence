@@ -1,0 +1,160 @@
+(Cell	P_power_mosfet
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.3)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	04/22/09,14:04:34)
+
+			(User	wish.wang)
+
+			(Path	discrete.P_power_mosfet)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000008fb3a552)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.3)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	04/22/09,14:04:34)
+
+							(User	wish.wang)
+
+							(Path	discrete.P_power_mosfet)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001d6403b1)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000b3e4c802)
+
+			(Primitives	1
+
+				(Primitive	P_POWER_MOSFET
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	04/22/09,14:04:34)
+
+							(User	wish.wang)
+
+							(Path	discrete.P_power_mosfet)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	P_POWER_MOSFET
+
+							(PackType	P_POWER_MOSFET)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001d4003dc)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.51-p002)
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001bc003a4)
+
+)
+

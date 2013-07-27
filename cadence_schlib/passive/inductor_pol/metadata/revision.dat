@@ -1,0 +1,170 @@
+(Cell	inductor_POL
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.3)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	04/23/09,11:04:10)
+
+			(User	wish.wang)
+
+			(Path	discrete.inductor_POL)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	02/11/09,14:30:27)
+
+			(User	ray.zhou)
+
+			(Path	passive_lib.inductor)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000004d4857ff)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.3)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	04/23/09,11:04:10)
+
+							(User	wish.wang)
+
+							(Path	discrete.inductor_POL)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001c2703bd)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000d37183f9)
+
+			(Primitives	1
+
+				(Primitive	INDUCTOR_POL
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	04/23/09,11:04:10)
+
+							(User	wish.wang)
+
+							(Path	discrete.inductor_POL)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	INDUCTOR_POL
+
+							(PackType	INDUCTOR_POL)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001daf03c4)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.51-p002)
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001dab03d7)
+
+)
+

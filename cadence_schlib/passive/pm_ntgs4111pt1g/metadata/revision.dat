@@ -1,0 +1,162 @@
+(Cell	pm_ntgs4111pt1g
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.1)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	06/10/10,16:42:52)
+
+			(User	wish.wang)
+
+			(Path	lib_lib.pm_ntgs4111pt1g)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Chips
+
+			(Checksum	0000000054d14d6e)
+
+			(Primitives	1
+
+				(Primitive	PM_NTGS4111PT1G
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	06/10/10,16:42:52)
+
+							(User	wish.wang)
+
+							(Path	lib_lib.pm_ntgs4111pt1g)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	PM_NTGS4111PT1G
+
+							(PackType	PM_NTGS4111PT1G)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000d5d4aaf1)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	06/10/10,16:42:52)
+
+							(User	wish.wang)
+
+							(Path	lib_lib.pm_ntgs4111pt1g)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001d6f03e4)
+
+		)
+
+		(Checksum	000000001cad03ae)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.51-p002)
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001dc70403)
+
+)
+

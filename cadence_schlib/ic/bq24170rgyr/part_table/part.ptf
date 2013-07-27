@@ -1,0 +1,13 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'BQ24170RGYR'
+
+{========================================================================================}
+:VALUE               = COMP_NAME      | PART_NUMBER   | VENDOR | JEDEC_TYPE | ALT_SYMBOLS | LAST_MODIFY  ;
+{========================================================================================}
+ 'BQ24170RGYR'(~BQ24170RGYR) = 'BQ24170RGYR' | '05013200158' | 'TI'   | 'PVQFN-24'  | '(PVQFN-24)' | '2012-1-13'
+
+END_PART
+
+END.
+

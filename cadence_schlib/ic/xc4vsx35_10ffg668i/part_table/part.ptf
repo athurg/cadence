@@ -1,0 +1,12 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'xc4vsx35_10ffg668i'
+
+{========================================================================================}
+:VALUE=COMP_NAME|PART_NUMBER|VENDOR|JEDEC_TYPE|ALT_SYMBOLS|LAST_MODIFY;
+{========================================================================================}
+'xc4vsx35_10ffg668i'(~xc4vsx35_10ffg668i)='XC4VSX35_10FFG668I'|'05012700003'|'xilinx'|'BGA10-668'|'(BGA10-668)'|'2009-08-13'
+
+END_PART
+
+END.

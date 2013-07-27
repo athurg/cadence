@@ -1,0 +1,162 @@
+(Cell	pesd_smda12c_8
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.1)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	08/16/11,16:08:10)
+
+			(User	wish.wang)
+
+			(Path	lib_lib.pesd_smda12c_8)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Chips
+
+			(Checksum	00000000f0edc37f)
+
+			(Primitives	1
+
+				(Primitive	PESD_SMDA12C_8
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	08/16/11,16:08:10)
+
+							(User	wish.wang)
+
+							(Path	lib_lib.pesd_smda12c_8)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	PESD_SMDA12C_8
+
+							(PackType	PESD_SMDA12C_8)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000007f357085)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	08/16/11,16:08:10)
+
+							(User	wish.wang)
+
+							(Path	lib_lib.pesd_smda12c_8)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001a080319)
+
+		)
+
+		(Checksum	000000001b2b0348)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.51-p002)
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001c150377)
+
+)
+

@@ -1,0 +1,13 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'ICS85301AGLF'
+
+{========================================================================================}
+:VALUE               = COMP_NAME      | PART_NUMBER   | VENDOR | JEDEC_TYPE | ALT_SYMBOLS  | LAST_MODIFY  ;
+{========================================================================================}
+ 'ICS85301AGLF'(~ICS85301AGLF) = 'ICS85301AGLF' | '05013000004' | 'IDT'  | 'TSSOP-16' | '(TSSOP-16)' | '2009-02-12'
+
+END_PART
+
+END.
+

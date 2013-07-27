@@ -1,0 +1,170 @@
+(Cell	capacitor
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.11)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	02/11/09,10:34:09)
+
+			(User	ray.zhou)
+
+			(Path	passive_lib.capacitor)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	02/11/09,13:01:15)
+
+			(User	ray.zhou)
+
+			(Path	passive_lib.capacitor)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000003e93591b)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.7)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	02/11/09,10:34:09)
+
+							(User	ray.zhou)
+
+							(Path	passive_lib.capacitor)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001bc30386)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000cc337f9c)
+
+			(Primitives	1
+
+				(Primitive	CAPACITOR
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.4)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	02/11/09,10:34:09)
+
+							(User	ray.zhou)
+
+							(Path	passive_lib.capacitor)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	CAPACITOR
+
+							(PackType	CAPACITOR)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001cfa0388)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.51-p002)
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001d5703af)
+
+)
+

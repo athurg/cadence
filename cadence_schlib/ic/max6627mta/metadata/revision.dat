@@ -1,0 +1,160 @@
+(Cell	max6627mta
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.2)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	04/23/12,11:09:58)
+
+			(User	ray.zhou)
+
+			(Path	pro_lib_lib.max6627mta)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000b196ee78)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	04/23/12,11:09:58)
+
+							(User	ray.zhou)
+
+							(Path	pro_lib_lib.max6627mta)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001d0403bc)
+
+		)
+
+		(View	Chips
+
+			(Checksum	000000006a6ed601)
+
+			(Primitives	1
+
+				(Primitive	MAX6627MTA
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	04/23/12,11:09:58)
+
+							(User	ray.zhou)
+
+							(Path	pro_lib_lib.max6627mta)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	MAX6627MTA
+
+							(PackType	MAX6627MTA)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001bb803bc)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.51-p002)
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001cea03d6)
+
+)
+

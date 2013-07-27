@@ -1,0 +1,12 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'AD5601'
+
+{========================================================================================}
+:'VALUE'                                   = 'COMP_NAME'    |'PART_NUMBER'    |'VENDOR'    |'JEDEC_TYPE'    |'ALT_SYMBOLS'    |'LAST_MODIFY'    ;
+{========================================================================================}
+ 'AD5601BKSZ-REEL7' (~AD5601BKSZ-REEL7)  = 'AD5601BKSZ-REEL7'  |''  |'ANALOG'     |'TSSOP-6'   |'(TSSOP-6)'  |'2009-04-23'   
+
+END_PART
+
+END.

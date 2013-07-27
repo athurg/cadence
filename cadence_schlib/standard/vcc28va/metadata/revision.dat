@@ -1,0 +1,90 @@
+(Cell	vcc28v
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.1)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	09/11/09,09:38:17)
+
+			(User	wish.wang)
+
+			(Path	lib_lib.vcc28v)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Sizable)
+
+					(Max_Size	0)
+
+					(Checksum	000000008be34412)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	09/11/09,09:38:17)
+
+							(User	wish.wang)
+
+							(Path	lib_lib.vcc28v)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001c9b037e)
+
+		)
+
+		(Checksum	000000001c7903af)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.51-p002)
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001bf503af)
+
+)
+

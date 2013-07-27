@@ -1,0 +1,160 @@
+(Cell	dc_sot6
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.6)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	01/17/12,14:28:04)
+
+			(User	neon.peng)
+
+			(Path	lib_creation_lib.dc_sot6)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000322db76e)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.5)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	01/17/12,14:28:04)
+
+							(User	neon.peng)
+
+							(Path	lib_creation_lib.dc_sot6)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001be403b0)
+
+		)
+
+		(View	Chips
+
+			(Checksum	0000000054f04ed4)
+
+			(Primitives	1
+
+				(Primitive	DC_SOT6
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	01/17/12,14:28:04)
+
+							(User	neon.peng)
+
+							(Path	lib_creation_lib.dc_sot6)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	DC_SOT6
+
+							(PackType	DC_SOT6)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001b420353)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.51-p002)
+
+		(License	Concept_HDL_expert)
+
+	)
+
+	(Checksum	000000001b2e0345)
+
+)
+

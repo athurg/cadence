@@ -1,0 +1,160 @@
+(Cell	con_ci2206p1vk0_lf
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.2)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	09/10/09,10:30:11)
+
+			(User	ray.zhou)
+
+			(Path	connector_lib.con_ci2206p1vk0_lf)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000a668a94f)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	09/10/09,10:30:11)
+
+							(User	ray.zhou)
+
+							(Path	connector_lib.con_ci2206p1vk0_lf)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001cab03ba)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000d5265026)
+
+			(Primitives	1
+
+				(Primitive	CON_CI2206P1VK0_LF
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	09/10/09,10:30:11)
+
+							(User	ray.zhou)
+
+							(Path	connector_lib.con_ci2206p1vk0_lf)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	CON_CI2206P1VK0_LF
+
+							(PackType	CON_CI2206P1VK0_LF)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001d0b03aa)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.51-p002)
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001c9a03cd)
+
+)
+

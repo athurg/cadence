@@ -1,0 +1,178 @@
+(Cell	null_1
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.4)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	02/15/07,11:01:17)
+
+			(User	liyouzuo)
+
+			(Path	analog.null_1)
+
+		)
+
+		(LastModifyInfo	
+
+			(Time	02/15/07,11:06:40)
+
+			(User	liyouzuo)
+
+			(Path	analog.null_1)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Checksum	0000000036f04b22)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	02/15/07,11:01:17)
+
+							(User	liyouzuo)
+
+							(Path	analog.null_1)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	00000000875b037a)
+
+		)
+
+		(View	Chips
+
+			(Checksum	0000000016a676b2)
+
+			(Primitives	1
+
+				(Primitive	NULL_1
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	02/15/07,11:01:17)
+
+							(User	liyouzuo)
+
+							(Path	analog.null_1)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	NULL_1
+
+							(PackType	NULL_1)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	
+
+							(DefaultFootPrint	
+
+								(Name	)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	00000000b4cc03ad)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.20-s005)
+
+		(License	Concept_HDL_studio)
+
+	)
+
+	(Checksum	00000000317c0405)
+
+)
+

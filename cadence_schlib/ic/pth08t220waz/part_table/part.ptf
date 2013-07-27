@@ -1,0 +1,13 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'pth08t220waz'
+
+{========================================================================================}
+:VALUE=COMP_NAME|PART_NUMBER|VENDOR|JEDEC_TYPE|ALT_SYMBOLS|LAST_MODIFY;
+{========================================================================================}
+'pth08t220waz'(~pth08t220waz)='PTH08T220WAZ'|'05013200001'|'ti'|'BAT-11'|'(BAT-11)'|'2009-02-10'
+
+END_PART
+
+END.
+

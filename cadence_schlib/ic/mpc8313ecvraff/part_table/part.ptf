@@ -1,0 +1,15 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'mpc8313ecvraff'
+
+{========================================================================================}
+:VALUE=COMP_NAME|PART_NUMBER|VENDOR|JEDEC_TYPE|ALT_SYMBOLS|LAST_MODIFY;
+{========================================================================================}
+'mpc8313ecvraff'(~mpc8313ecvraff)='MPC8313ECVRAFF'|'05012400110'|'freescale'|'BGA26X26MPC8313'|'(BGA26X26MPC8313)'|'2009-02-10'
+'MPC8313CVRADDB'(~MPC8313CVRADDB)='MPC8313CVRADDB'|'05012400114'|'freescale'|'BGA26X26MPC8313'|'(BGA26X26MPC8313)'|'2009-08-14'
+'MPC8313CVRAFFB'(~MPC8313CVRAFFB)='MPC8313CVRAFFB'|'05012400115'|'freescale'|'BGA26X26MPC8313'|'(BGA26X26MPC8313)'|'2009-09-27'
+
+END_PART
+
+END.
+

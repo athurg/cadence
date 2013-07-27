@@ -1,0 +1,160 @@
+(Cell	con_p50le_080p1_sml_da
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.5)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	04/27/09,16:08:55)
+
+			(User	wish.wang)
+
+			(Path	discrete.con_p50le_080p1_sml_da)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000832fe4a0)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.3)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	04/27/09,16:08:55)
+
+							(User	wish.wang)
+
+							(Path	discrete.con_p50le_080p1_sml_da)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001c4103ae)
+
+		)
+
+		(View	Chips
+
+			(Checksum	000000008919bd47)
+
+			(Primitives	1
+
+				(Primitive	CON_P50LE_080P1_SML_DA
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	04/27/09,16:08:55)
+
+							(User	wish.wang)
+
+							(Path	discrete.con_p50le_080p1_sml_da)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	CON_P50LE_080P1_SML_DA
+
+							(PackType	CON_P50LE_080P1_SML_DA)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001d8b03db)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.51-p002)
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001cd103d9)
+
+)
+

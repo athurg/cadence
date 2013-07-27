@@ -1,0 +1,162 @@
+(Cell	wf42022ws06w0x
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.1)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	09/26/11,18:05:54)
+
+			(User	wish.wang)
+
+			(Path	lib_lib.wf42022ws06w0x)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Chips
+
+			(Checksum	00000000f6b44c30)
+
+			(Primitives	1
+
+				(Primitive	WF42022WS06W0X
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	09/26/11,18:05:54)
+
+							(User	wish.wang)
+
+							(Path	lib_lib.wf42022ws06w0x)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	WF42022WS06W0X
+
+							(PackType	WF42022WS06W0X)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000fb25bb2e)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	09/26/11,18:05:54)
+
+							(User	wish.wang)
+
+							(Path	lib_lib.wf42022ws06w0x)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001dd103df)
+
+		)
+
+		(Checksum	000000001ce803d8)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.51-p002)
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001cdc03b1)
+
+)
+

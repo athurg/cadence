@@ -1,0 +1,20 @@
+FILE_TYPE=LIBRARY_PARTS;
+TIME=' Created/Modified on Fri Aug 22 17:33:14 2003' ;
+primitive 'TESTPOINT';
+  pin
+    'TP':
+      PIN_NUMBER='(1)';
+      PIN_TYPE='ANALOG';
+      NO_LOAD_CHECK='BOTH';
+      NO_IO_CHECK='BOTH';
+      ALLOW_CONNECT='TRUE';
+  end_pin;
+  body
+    CLASS='IO';
+    PART_NAME='TESTPOINT';
+    PHYS_DES_PREFIX='TP';
+    JEDEC_TYPE='TESTPOINT';
+    BODY_NAME='TESTPOINT';
+  end_body;
+end_primitive;
+END.

@@ -1,0 +1,13 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'CAT811STBI'
+
+{========================================================================================}
+:VALUE           = COMP_NAME  | PART_NUMBER   | VENDOR    | JEDEC_TYPE | ALT_SYMBOLS  | LAST_MODIFY  ;
+{========================================================================================}
+ 'CAT811STBI'(~CAT811STBI) = 'CAT811STBI' | '05011800002' | 'ON' | 'SOT-143' | '(SOT-143)' | '2010-10-09'
+
+END_PART
+
+END.
+

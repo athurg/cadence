@@ -1,0 +1,12 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'SN74ALVC164245DGGR'
+
+{========================================================================================}
+:'VALUE'                                   = 'COMP_NAME'    |'PART_NUMBER'    |'VENDOR'    |'JEDEC_TYPE'    |'ALT_SYMBOLS'    |'LAST_MODIFY'    ;
+{========================================================================================}
+ 'SN74ALVC164245DGGR' (~SN74ALVC164245DGGR)  = 'SN74ALVC164245DGGR'  |'05010800129'  |'TI'     |'TSSOP-48'   |'(TSSOP-48)'  |'2011-06-23'   
+
+END_PART
+
+END.

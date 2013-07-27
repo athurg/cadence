@@ -1,0 +1,13 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'CDCLVC1102PW'
+
+{========================================================================================}
+:VALUE               = COMP_NAME      | PART_NUMBER   | VENDOR | JEDEC_TYPE | ALT_SYMBOLS | LAST_MODIFY  ;
+{========================================================================================}
+ 'CDCLVC1102PW'(~CDCLVC1102PW) = 'CDCLVC1102PW' | '05013000024' | 'TI'   | 'TSSOP-8W'  | '(TSSOP-8W)' | '2011-12-14'
+
+END_PART
+
+END.
+

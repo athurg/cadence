@@ -1,0 +1,13 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'trf370333irge'
+
+{========================================================================================}
+:VALUE=COMP_NAME|PART_NUMBER|VENDOR|JEDEC_TYPE|ALT_SYMBOLS|LAST_MODIFY;
+{========================================================================================}
+'trf370333irge'(~trf370333irge)='TRF370333IRGE'|'05010600002'|'ti'|'VQFN-24'|'VQFN-24'|'2009-02-10'
+
+END_PART
+
+END.
+

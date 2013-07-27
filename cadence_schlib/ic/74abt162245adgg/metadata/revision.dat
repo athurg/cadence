@@ -1,0 +1,160 @@
+(Cell	74ABT162245ADGG
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.2)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	04/16/09,15:33:07)
+
+			(User	wish.wang)
+
+			(Path	discrete.74ABT162245ADGG)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000672fe633)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	04/16/09,15:33:07)
+
+							(User	wish.wang)
+
+							(Path	discrete.74ABT162245ADGG)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001bfa0387)
+
+		)
+
+		(View	Chips
+
+			(Checksum	000000004f055f9f)
+
+			(Primitives	1
+
+				(Primitive	74ABT162245ADGG
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	04/16/09,15:33:07)
+
+							(User	wish.wang)
+
+							(Path	discrete.74ABT162245ADGG)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	74ABT162245ADGG
+
+							(PackType	74ABT162245ADGG)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001d9403b5)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.51-p002)
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001bc0037d)
+
+)
+

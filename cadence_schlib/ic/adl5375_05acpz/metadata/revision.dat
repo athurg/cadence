@@ -1,0 +1,160 @@
+(Cell	adl5375_05acpz
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.9)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	10/14/10,10:27:16)
+
+			(User	Eva.zhao)
+
+			(Path	lib_lib.adl5375_05acpz)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000007c9f47fa)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.7)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	10/14/10,10:27:16)
+
+							(User	Eva.zhao)
+
+							(Path	lib_lib.adl5375_05acpz)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001d3303ec)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000db06c148)
+
+			(Primitives	1
+
+				(Primitive	ADL5375_05ACPZ
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	10/14/10,10:27:16)
+
+							(User	Eva.zhao)
+
+							(Path	lib_lib.adl5375_05acpz)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	ADL5375_05ACPZ
+
+							(PackType	ADL5375_05ACPZ)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001c9c038a)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.51-p002)
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001c7c03ad)
+
+)
+

@@ -1,0 +1,162 @@
+(Cell	con_3230_30mg2bst1
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.1)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	06/10/10,17:36:49)
+
+			(User	wish.wang)
+
+			(Path	lib_lib.con_3230_30mg2bst1)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Chips
+
+			(Checksum	000000005cd8bd36)
+
+			(Primitives	1
+
+				(Primitive	CON_3230_30MG2BST1
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	06/10/10,17:36:49)
+
+							(User	wish.wang)
+
+							(Path	lib_lib.con_3230_30mg2bst1)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	CON_3230_30MG2BST1
+
+							(PackType	CON_3230_30MG2BST1)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+						(Linkages	)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000005945812d)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	06/10/10,17:36:49)
+
+							(User	wish.wang)
+
+							(Path	lib_lib.con_3230_30mg2bst1)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001d1303b0)
+
+		)
+
+		(Checksum	000000001b86036f)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.51-p002)
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001b8f0381)
+
+)
+

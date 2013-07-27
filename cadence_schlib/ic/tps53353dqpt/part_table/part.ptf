@@ -1,0 +1,12 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'TPS53353DQPT'
+
+{========================================================================================}
+:'VALUE'                             = 'COMP_NAME'        |'PART_NUMBER'    |'VENDOR'    |'JEDEC_TYPE'    |'ALT_SYMBOLS'    |'LAST_MODIFY'    ;
+{========================================================================================}
+ 'TPS53353DQPT' (~TPS53353DQPT)  = 'TPS53353DQPT'  |'xxx'  |'TI'  |'SON-22'    |'(SON-22)'   |'2012-04-07'
+
+END_PART
+
+END.

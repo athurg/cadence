@@ -1,0 +1,13 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'YS05S10_DG'
+
+{========================================================================================}
+:'VALUE'                                   = 'COMP_NAME'    |'PART_NUMBER'    |'VENDOR'    |'JEDEC_TYPE'    |'ALT_SYMBOLS'    |'LAST_MODIFY'    ;
+{========================================================================================}
+ 'YS05S10_DG' (~YS05S10_DG)  = 'YS05S10_DG'  |'05013200114'  |'Power-One'     |'PMP6-10A'   |'(PMP6-10A)'  |'2009-04-17'
+ 'AXB050X43_SRZ' (~AXB050X43_SRZ)  = 'AXB050X43_SRZ'  |'05013200122'  |'LINEAGE POWER'     |'PMP6-10A'   |'(PMP6-10A)'  |'2009-08-27'
+
+END_PART
+
+END.

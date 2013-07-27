@@ -1,0 +1,1168 @@
+(Cell	xc6vlx195t_1ffg1156i
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.33)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	01/21/10,15:46:19)
+
+			(User	wish.wang)
+
+			(Path	lib_lib.xc6vlx195t_1ffg1156i)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	22
+
+				(Symbol	sym_9
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	0000000007c22de9)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	01/21/10,15:46:19)
+
+							(User	wish.wang)
+
+							(Path	lib_lib.xc6vlx195t_1ffg1156i)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_8
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000199b23aa)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	01/21/10,15:46:19)
+
+							(User	wish.wang)
+
+							(Path	lib_lib.xc6vlx195t_1ffg1156i)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_7
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000004e51236e)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	01/21/10,15:46:19)
+
+							(User	wish.wang)
+
+							(Path	lib_lib.xc6vlx195t_1ffg1156i)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_6
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	0000000073ed241e)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	01/21/10,15:46:19)
+
+							(User	wish.wang)
+
+							(Path	lib_lib.xc6vlx195t_1ffg1156i)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_5
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000f5dd2fd5)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	01/21/10,15:46:19)
+
+							(User	wish.wang)
+
+							(Path	lib_lib.xc6vlx195t_1ffg1156i)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_4
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000dd5923a6)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	01/21/10,15:46:19)
+
+							(User	wish.wang)
+
+							(Path	lib_lib.xc6vlx195t_1ffg1156i)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_3
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000121e236a)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	01/21/10,15:46:19)
+
+							(User	wish.wang)
+
+							(Path	lib_lib.xc6vlx195t_1ffg1156i)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_22
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000003e741683)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.3)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	01/21/10,15:46:19)
+
+							(User	wish.wang)
+
+							(Path	lib_lib.xc6vlx195t_1ffg1156i)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_21
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000006ea9130a)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.3)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	01/21/10,15:46:19)
+
+							(User	wish.wang)
+
+							(Path	lib_lib.xc6vlx195t_1ffg1156i)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_20
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000448cf78f)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.3)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	01/21/10,15:46:19)
+
+							(User	wish.wang)
+
+							(Path	lib_lib.xc6vlx195t_1ffg1156i)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_2
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	0000000046d4232e)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.3)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	01/21/10,15:46:19)
+
+							(User	wish.wang)
+
+							(Path	lib_lib.xc6vlx195t_1ffg1156i)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_19
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000e9a8f539)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.3)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	01/21/10,15:46:19)
+
+							(User	wish.wang)
+
+							(Path	lib_lib.xc6vlx195t_1ffg1156i)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_18
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000d7112d02)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.4)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	01/21/10,15:46:19)
+
+							(User	wish.wang)
+
+							(Path	lib_lib.xc6vlx195t_1ffg1156i)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_17
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	0000000071802110)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.5)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	01/21/10,15:46:19)
+
+							(User	wish.wang)
+
+							(Path	lib_lib.xc6vlx195t_1ffg1156i)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_16
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000d6552473)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	01/21/10,15:46:19)
+
+							(User	wish.wang)
+
+							(Path	lib_lib.xc6vlx195t_1ffg1156i)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_15
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	0000000022cb30b5)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	01/21/10,15:46:19)
+
+							(User	wish.wang)
+
+							(Path	lib_lib.xc6vlx195t_1ffg1156i)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_14
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000fe4433b3)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	01/21/10,15:46:19)
+
+							(User	wish.wang)
+
+							(Path	lib_lib.xc6vlx195t_1ffg1156i)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_13
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000753723bf)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	01/21/10,15:46:19)
+
+							(User	wish.wang)
+
+							(Path	lib_lib.xc6vlx195t_1ffg1156i)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_12
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000aa282383)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	01/21/10,15:46:19)
+
+							(User	wish.wang)
+
+							(Path	lib_lib.xc6vlx195t_1ffg1156i)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_11
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	00000000cf172433)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	01/21/10,15:46:19)
+
+							(User	wish.wang)
+
+							(Path	lib_lib.xc6vlx195t_1ffg1156i)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_10
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000001e262201)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	01/21/10,15:46:19)
+
+							(User	wish.wang)
+
+							(Path	lib_lib.xc6vlx195t_1ffg1156i)
+
+						)
+
+					)
+
+				)
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000000dfe89da)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	01/21/10,15:46:19)
+
+							(User	wish.wang)
+
+							(Path	lib_lib.xc6vlx195t_1ffg1156i)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001d6503b5)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000f5ef9f03)
+
+			(Primitives	1
+
+				(Primitive	XC6VLX195T_1FFG1156I
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	01/21/10,15:46:19)
+
+							(User	wish.wang)
+
+							(Path	lib_lib.xc6vlx195t_1ffg1156i)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	XC6VLX195T_1FFG1156I
+
+							(PackType	XC6VLX195T_1FFG1156I)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	22
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+							(FunctionGroup	2[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_2)
+
+									)
+
+								)
+
+							)
+
+							(FunctionGroup	3[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_3)
+
+									)
+
+								)
+
+							)
+
+							(FunctionGroup	4[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_4)
+
+									)
+
+								)
+
+							)
+
+							(FunctionGroup	5[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_5)
+
+									)
+
+								)
+
+							)
+
+							(FunctionGroup	6[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_6)
+
+									)
+
+								)
+
+							)
+
+							(FunctionGroup	7[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_7)
+
+									)
+
+								)
+
+							)
+
+							(FunctionGroup	8[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_8)
+
+									)
+
+								)
+
+							)
+
+							(FunctionGroup	9[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_9)
+
+									)
+
+								)
+
+							)
+
+							(FunctionGroup	10[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_10)
+
+									)
+
+								)
+
+							)
+
+							(FunctionGroup	11[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_11)
+
+									)
+
+								)
+
+							)
+
+							(FunctionGroup	12[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_12)
+
+									)
+
+								)
+
+							)
+
+							(FunctionGroup	13[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_13)
+
+									)
+
+								)
+
+							)
+
+							(FunctionGroup	14[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_14)
+
+									)
+
+								)
+
+							)
+
+							(FunctionGroup	15[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_15)
+
+									)
+
+								)
+
+							)
+
+							(FunctionGroup	16[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_16)
+
+									)
+
+								)
+
+							)
+
+							(FunctionGroup	17[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_17)
+
+									)
+
+								)
+
+							)
+
+							(FunctionGroup	18[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_18)
+
+									)
+
+								)
+
+							)
+
+							(FunctionGroup	19[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_19)
+
+									)
+
+								)
+
+							)
+
+							(FunctionGroup	20[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_20)
+
+									)
+
+								)
+
+							)
+
+							(FunctionGroup	21[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_21)
+
+									)
+
+								)
+
+							)
+
+							(FunctionGroup	22[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_22)
+
+									)
+
+								)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001b1e037c)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.51-p002)
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001c4f03a7)
+
+)
+

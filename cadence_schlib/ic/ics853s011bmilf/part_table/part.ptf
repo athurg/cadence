@@ -1,0 +1,12 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'ICS853S011BMILF'
+
+{========================================================================================}
+:'VALUE'             = 'COMP_NAME'       |'PART_NUMBER'    |'VENDOR'    |'JEDEC_TYPE'    |'ALT_SYMBOLS'    |'LAST_MODIFY'    ;
+{========================================================================================}
+ 'ICS853S011BMILF' (~ICS853S011BMILF)  = 'ICS853S011BMILF'  |'05013000018'  |'IDT'      |'SO-8'      |'(SO-8)'     |'2009-09-04'
+
+END_PART
+
+END.

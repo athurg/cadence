@@ -1,0 +1,160 @@
+(Cell	hmc574ms8e
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.6)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	04/24/12,14:40:42)
+
+			(User	ray.zhou)
+
+			(Path	pro_lib_lib.hmc574ms8e)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000003086d65f)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.3)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	04/24/12,14:40:42)
+
+							(User	ray.zhou)
+
+							(Path	pro_lib_lib.hmc574ms8e)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001b180387)
+
+		)
+
+		(View	Chips
+
+			(Checksum	000000009d2aa6a0)
+
+			(Primitives	1
+
+				(Primitive	HMC574MS8E
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	04/24/12,14:40:42)
+
+							(User	ray.zhou)
+
+							(Path	pro_lib_lib.hmc574ms8e)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	HMC574MS8E
+
+							(PackType	HMC574MS8E)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001cdc03ac)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.51-p002)
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001dd20403)
+
+)
+

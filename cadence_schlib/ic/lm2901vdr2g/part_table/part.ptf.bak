@@ -1,0 +1,12 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'LM2901VDR2G'
+
+{========================================================================================}
+:'VALUE'                           = 'COMP_NAME'    |'PART_NUMBER'    |'VENDOR'        |'JEDEC_TYPE'    |'ALT_SYMBOLS'    |'LAST_MODIFY'    ;
+{========================================================================================}
+ 'LM2901VDR2G' (~LM2901VDR2G)  = 'LM2901VDR2G'  |''             |'ONSEMI'  |'SOIC-14'   |'(SOIC-14)'  |'2009-04-20'
+
+END_PART
+
+END.

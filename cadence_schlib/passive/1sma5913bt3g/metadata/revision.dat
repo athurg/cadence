@@ -1,0 +1,160 @@
+(Cell	1SMA5913BT3G
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.3)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	04/30/09,11:07:41)
+
+			(User	wish.wang)
+
+			(Path	discrete.1SMA5913BT3G)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000002ad1748d)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.3)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	04/30/09,11:07:41)
+
+							(User	wish.wang)
+
+							(Path	discrete.1SMA5913BT3G)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001ca003b0)
+
+		)
+
+		(View	Chips
+
+			(Checksum	000000002d5a94cf)
+
+			(Primitives	1
+
+				(Primitive	1SMA5913BT3G
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	04/30/09,11:07:41)
+
+							(User	wish.wang)
+
+							(Path	discrete.1SMA5913BT3G)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	1SMA5913BT3G
+
+							(PackType	1SMA5913BT3G)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001ca803c3)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.51-p002)
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001cbd03a7)
+
+)
+

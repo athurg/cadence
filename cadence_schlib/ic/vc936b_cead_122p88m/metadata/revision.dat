@@ -1,0 +1,160 @@
+(Cell	VC936B_CEAD_122P88M
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.3)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	09/21/10,14:42:28)
+
+			(User	wish.wang)
+
+			(Path	lib_lib.VC936B_CEAD_122P88M)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000001c0db24a)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.3)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	09/21/10,14:42:28)
+
+							(User	wish.wang)
+
+							(Path	lib_lib.VC936B_CEAD_122P88M)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001d0803d2)
+
+		)
+
+		(View	Chips
+
+			(Checksum	00000000cb9f5284)
+
+			(Primitives	1
+
+				(Primitive	VC936B_CEAD_122P88M
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.2)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	09/21/10,14:42:28)
+
+							(User	wish.wang)
+
+							(Path	lib_lib.VC936B_CEAD_122P88M)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	VC936B_CEAD_122P88M
+
+							(PackType	VC936B_CEAD_122P88M)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001cef038c)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.51-p002)
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001d9503de)
+
+)
+

@@ -1,0 +1,13 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'CON_GLSA07M042BS00L_KNT'
+
+{========================================================================================}
+:VALUE               = COMP_NAME      | PART_NUMBER   | VENDOR | JEDEC_TYPE | ALT_SYMBOLS | LAST_MODIFY  ;
+{========================================================================================}
+ 'CON_GLSA07M042BS00L_KNT'(~CON_GLSA07M042BS00L_KNT) = 'GLSA07M042BS00L_KNT' | '???' | 'GLCONN'   | 'CON_GLSA07M042BS00L_KNT'  | '(CON_GLSA07M042BS00L_KNT)' | '2011-12-23'
+
+END_PART
+
+END.
+

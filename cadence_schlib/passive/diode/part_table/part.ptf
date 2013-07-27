@@ -1,0 +1,15 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'DIODE'
+
+{========================================================================================}
+:VALUE=COMP_NAME|PART_NUMBER|VENDOR|JEDEC_TYPE|ALT_SYMBOLS|LAST_MODIFY;
+{========================================================================================}
+'DIODE_1N4148WS'(~DIODE_1N4148WS)='DIODE_1N4148WS'|'05020000229'|'ON'    |'SOD-323'|'(SOD-323)'|'2009-02-13'
+'DIODE_BAV21WS'(~DIODE_BAV21WS)='DIODE_BAV21WS'   |'05020000152'|'VISHAY'|'SOD-323'|'(SOD-323)'|'2009-05-18'
+'MMDL914T1G'(~MMDL914T1G)='MMDL914T1G'            |'05020000180'|'ON'    |'SOD-323'|'(SOD-323)'|'2010-07-07'
+
+END_PART
+
+END.
+

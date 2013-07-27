@@ -1,0 +1,22 @@
+FILE_TYPE=LIBRARY_PARTS;
+TIME=' Created/Modified on Fri Sep 10 16:42:38 1999' ;
+primitive 'POWER_PAD','POWER_PAD_POWER_PAD';
+  pin
+    'POWER':
+      PIN_NUMBER='(1)';
+      PIN_TYPE='POWER';
+      NO_LOAD_CHECK='BOTH';
+      NO_IO_CHECK='BOTH';
+      ALLOW_CONNECT='TRUE';
+  end_pin;
+  body
+    CLASS='IO';
+    PART_NAME='POWER_PAD';
+    PHYS_DES_PREFIX='X';
+    JEDEC_TYPE="POWER_PAD";
+    BODY_NAME="POWER_PAD";
+    FAMILY="ZTECDMA";
+    BOM_IGNORE="TRUE";
+  end_body;
+end_primitive;
+END.

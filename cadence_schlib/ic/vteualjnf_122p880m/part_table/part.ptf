@@ -1,0 +1,12 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'VTEUALJNF_122P880M'
+
+{========================================================================================}
+:'VALUE'                                           = 'COMP_NAME'                |'PART_NUMBER'    |'VENDOR'    |'JEDEC_TYPE'    |'ALT_SYMBOLS'    |'LAST_MODIFY'    ;
+{========================================================================================} 
+ 'VTEUALJNF-122.880MHZ' (~VTEUALJNF-122.880MHZ)  = 'VTEUALJNF-122.880MHZ'  |'05060100125'  |'TAITIEN'        |'VG-4501CA'        |'(VG-4501CA)'       |'2011-08-05'
+
+END_PART
+
+END.

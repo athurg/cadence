@@ -1,0 +1,13 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'CON_IDC254_16'
+
+{========================================================================================}
+:VALUE           = COMP_NAME  | PART_NUMBER   | VENDOR    | JEDEC_TYPE | ALT_SYMBOLS  | LAST_MODIFY  ;
+{========================================================================================}
+ 'CON_IDC254_16'(~CON_IDC254_16) = 'CON_IDC254_16' | '06030200134' | 'Cvilux' | 'CON-IDC254-16' | '(CON-IDC254-16)' | '2009-02-12'
+
+END_PART
+
+END.
+

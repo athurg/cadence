@@ -1,0 +1,160 @@
+(Cell	EHHD075A0A41_HZ
+
+	(RevisionInfoBlock	
+
+		(Baselined	0)
+
+		(Revision	0.0.2)
+
+		(ModificationStatus	NULL)
+
+		(Status	Created)
+
+		(ErrorStatus	0)
+
+		(CreateInfo	
+
+			(Time	10/28/10,10:38:28)
+
+			(User	Eva.zhao)
+
+			(Path	lib_lib.EHHD075A0A41_HZ)
+
+		)
+
+	)
+
+	(Views	
+
+		(View	Symbol
+
+			(Symbols	1
+
+				(Symbol	sym_1
+
+					(Symbol_Type	Normal)
+
+					(Max_Size	0)
+
+					(Checksum	000000005764e310)
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	10/28/10,10:38:28)
+
+							(User	Eva.zhao)
+
+							(Path	lib_lib.EHHD075A0A41_HZ)
+
+						)
+
+					)
+
+				)
+
+			)
+
+			(Checksum	000000001b000350)
+
+		)
+
+		(View	Chips
+
+			(Checksum	000000002ff9ae18)
+
+			(Primitives	1
+
+				(Primitive	EHHD075A0A41_HZ
+
+					(RevisionInfoBlock	
+
+						(Baselined	0)
+
+						(Revision	0.0.1)
+
+						(ModificationStatus	NULL)
+
+						(Status	Created)
+
+						(ErrorStatus	0)
+
+						(CreateInfo	
+
+							(Time	10/28/10,10:38:28)
+
+							(User	Eva.zhao)
+
+							(Path	lib_lib.EHHD075A0A41_HZ)
+
+						)
+
+					)
+
+					(LogicalPhysicalPartRelation	
+
+						(LogicalPart	EHHD075A0A41_HZ
+
+							(PackType	EHHD075A0A41_HZ)
+
+						)
+
+					)
+
+					(Packages	1
+
+						(FunctionGroups	1
+
+							(FunctionGroup	1[1]
+
+								(Linkages	
+
+									(Linkage	Symbol
+
+										(Name	sym_1)
+
+									)
+
+								)
+
+							)
+
+						)
+
+					)
+
+				)
+
+			)
+
+		)
+
+		(Checksum	000000001d5703b6)
+
+	)
+
+	(VersionInfoBlock	
+
+		(ToolName	PDV)
+
+		(Version	15.51-p002)
+
+		(License	PCB_librarian_expert)
+
+	)
+
+	(Checksum	000000001bb8037d)
+
+)
+

@@ -1,0 +1,29 @@
+FILE_TYPE=LIBRARY_PARTS;
+primitive 'CR2032_4_2';
+  pin
+    '-':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      NO_ASSERT_CHECK='TRUE';
+      NO_DIR_CHECK='TRUE';
+      ALLOW_CONNECT='TRUE';
+    '+':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+      NO_LOAD_CHECK='Both';
+      NO_IO_CHECK='Both';
+      NO_ASSERT_CHECK='TRUE';
+      NO_DIR_CHECK='TRUE';
+      ALLOW_CONNECT='TRUE';
+  end_pin;
+  body
+    BODY_NAME='CR2032_4_2';
+    PART_NAME='CR2032_4_2';
+    PHYS_DES_PREFIX='J';
+    CLASS='DISCRETE';
+  end_body;
+end_primitive;
+
+END.

@@ -1,0 +1,13 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'ADT1_1WT'
+
+{========================================================================================}
+:VALUE           = COMP_NAME  | PART_NUMBER   | VENDOR    | JEDEC_TYPE | ALT_SYMBOLS  | LAST_MODIFY  ;
+{========================================================================================}
+ 'ADT1_1WT'(~ADT1_1WT) = 'ADT1_1WT' | '05010700003' | 'Mini-circuits' | 'ADT-6' | '(ADT-6)' | '2009-02-13'
+
+END_PART
+
+END.
+
